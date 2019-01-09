@@ -5,12 +5,23 @@ Machine learning, Deep learning
 
 #### Computer Architecture: A Quantitative Approach [must read]
 
+## Survey
+
+#### 
+
 ## Project
 
 #### TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
+[Project Website](https://tvm.ai/)
 
 
 ## Papers
+
+1. Crankshaw, Daniel, et al. "Clipper: A Low-Latency Online Prediction Serving System." NSDI. 2017.
+[GitHub](https://github.com/ucbrise/clipper)
+
+2. Moritz, Philipp, et al. "Ray: A Distributed Framework for Emerging {AI} Applications." 13th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 18). 2018.
+[GitHub](https://www.usenix.org/conference/osdi18/presentation/moritz)
 
 #### DeepMon: Mobile GPU-based Deep Learning Framework for Continuous Vision Applications [MobiSys '17]
 
