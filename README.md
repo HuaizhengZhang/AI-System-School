@@ -14,8 +14,8 @@ Machine learning, Deep learning
 1. TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
 [Project Website](https://tvm.ai/)
 
-2. Sergeev, Alexander, and Mike Del Balso. "Horovod: fast and easy distributed deep learning in TensorFlow." arXiv preprint arXiv:1802.05799 (2018).
-[Project Website](https://github.com/uber/horovod)
+2. Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
+[GitHub](https://github.com/uber/horovod)
 
 ## Papers
 
