@@ -33,3 +33,8 @@
 1. AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
 [Paper](https://dl.acm.org/citation.cfm?id=2382556)
 
+## Edge, Mobile
+
+1. Yi, Shanhe, et al. "Lavea: Latency-aware video analytics on edge computing platform." Proceedings of the Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.
+[Paper](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
+
