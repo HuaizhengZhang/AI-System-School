@@ -28,12 +28,15 @@
 3. Crankshaw, Daniel, et al. "InferLine: ML Inference Pipeline Composition Framework." arXiv preprint arXiv:1812.01776 (2018).
 [Paper](https://arxiv.org/pdf/1812.01776.pdf)
 
+4. Dakkak, Abdul, et al. "TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments." arXiv preprint arXiv:1811.09732 (2018).
+[Paper](https://arxiv.org/pdf/1811.09732.pdf)
+
 ## Traditional System Optimization Papers
 
 1. AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
 [Paper](https://dl.acm.org/citation.cfm?id=2382556)
 
-## Edge, Mobile
+## Edge or Mobile Papers 
 
 1. Yi, Shanhe, et al. "Lavea: Latency-aware video analytics on edge computing platform." Proceedings of the Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.
 [Paper](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
