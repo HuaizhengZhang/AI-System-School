@@ -31,6 +31,10 @@
 4. Dakkak, Abdul, et al. "TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments." arXiv preprint arXiv:1811.09732 (2018).
 [Paper](https://arxiv.org/pdf/1811.09732.pdf)
 
+## Video System papers
+
+1. Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. "Live Video Analytics at Scale with Approximation and Delay-Tolerance." In NSDI, vol. 9, p. 1. 2017.
+
 ## Traditional System Optimization Papers
 
 1. AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
