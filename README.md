@@ -3,7 +3,9 @@
 
 ## Book
 
-1. Computer Architecture: A Quantitative Approach [must read]
+- Computer Architecture: A Quantitative Approach [must read]
+
+- Streaming Systems [Book](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 
 ## Survey
 
