@@ -47,3 +47,5 @@
 - Yi, Shanhe, et al. "Lavea: Latency-aware video analytics on edge computing platform." Proceedings of the Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.
 [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
 
+## Advanced Theory
+- Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter. "Differentiable MPC for End-to-end Planning and Control." In Advances in Neural Information Processing Systems, pp. 8299-8310. 2018. [[Paper]] (https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf) [[GitHub]] (https://locuslab.github.io/mpc.pytorch/)
