@@ -3,7 +3,7 @@
 
 ## Book
 
-- Computer Architecture: A Quantitative Approach [[must read]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.1881&rep=rep1&type=pdf)
+- Computer Architecture: A Quantitative Approach [[Must read]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.1881&rep=rep1&type=pdf)
 
 - Streaming Systems [[Book]](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 
@@ -50,4 +50,5 @@
 [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
 
 ## Advanced Theory
-- Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter. "Differentiable MPC for End-to-end Planning and Control." In Advances in Neural Information Processing Systems, pp. 8299-8310. 2018. [[Paper]] (https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf) [[GitHub]] (https://locuslab.github.io/mpc.pytorch/)
+- Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter. "Differentiable MPC for End-to-end Planning and Control." In Advances in Neural Information Processing Systems, pp. 8299-8310. 2018. 
+[[Paper]](https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf)  [[GitHub]](https://locuslab.github.io/mpc.pytorch/)
