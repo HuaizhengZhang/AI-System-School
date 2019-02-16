@@ -19,6 +19,8 @@
 
 ## Project
 
+- Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems [[Facebook Project]](https://github.com/facebook/bistro)
+
 - TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
 [[Project Website]](https://tvm.ai/)
 
