@@ -27,17 +27,20 @@
 
 ## Machine Learning System Papers
 
-- Crankshaw, Daniel, et al. "Clipper: A Low-Latency Online Prediction Serving System." NSDI. 2017.
+- Clipper: A Low-Latency Online Prediction Serving System
 [[GitHub]](https://github.com/ucbrise/clipper)
+  - Crankshaw, Daniel, et al. *NSDI 2017*
+  - Summary: Adaptive batch
 
-- Moritz, Philipp, et al. "Ray: A Distributed Framework for Emerging {AI} Applications." 13th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 18). 2018.
-[[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
+- Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
+  - Moritz, Philipp, et al. *OSDI 2018*
+  - Summary: Distributed DRL system
+  
+- InferLine: ML Inference Pipeline Composition Framework [[Paper]](https://arxiv.org/pdf/1812.01776.pdf)
+  - Crankshaw, Daniel, et al. *Preprint*
 
-- Crankshaw, Daniel, et al. "InferLine: ML Inference Pipeline Composition Framework." arXiv preprint arXiv:1812.01776 (2018).
-[[Paper]](https://arxiv.org/pdf/1812.01776.pdf)
-
-- Dakkak, Abdul, et al. "TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments." arXiv preprint arXiv:1811.09732 (2018).
-[[Paper]](https://arxiv.org/pdf/1811.09732.pdf)
+- TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments [[Paper]](https://arxiv.org/pdf/1811.09732.pdf)
+  - Dakkak, Abdul, et al *Preprint*
 
 ## Video System papers
 
@@ -51,8 +54,8 @@
 
 ## Edge or Mobile Papers 
 
-- Yi, Shanhe, et al. "Lavea: Latency-aware video analytics on edge computing platform." Proceedings of the Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.
-[[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
+- Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
+  - Yi, Shanhe, et al. *Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*
 
 ## Advanced Theory
 - Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter. "Differentiable MPC for End-to-end Planning and Control." In Advances in Neural Information Processing Systems, pp. 8299-8310. 2018. 
