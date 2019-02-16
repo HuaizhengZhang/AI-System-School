@@ -37,7 +37,8 @@
 
 ## Video System papers
 
-- Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. "Live Video Analytics at Scale with Approximation and Delay-Tolerance." In NSDI, vol. 9, p. 1. 2017.
+- Live Video Analytics at Scale with Approximation and Delay-Tolerance [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/videostorm_nsdi17.pdf)
+  - Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. *NSDI 2017*
 
 ## Traditional System Optimization Papers
 
