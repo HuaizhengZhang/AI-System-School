@@ -9,7 +9,8 @@
 
 ## Survey
 
-- Saltzer, Jerome H., David P. Reed, and David D. Clark. "End-to-end arguments in system design." ACM Transactions on Computer Systems (TOCS) 2, no. 4 (1984): 277-288.[[Paper]](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+- End-to-end arguments in system design." [[Paper]](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+  - Saltzer, Jerome H., David P. Reed, and David D. Clark. *ACM Transactions on Computer Systems (TOCS) 2, no. 4 (1984): 277-288*
 
 #### 
 
