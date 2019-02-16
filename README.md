@@ -58,5 +58,5 @@
   - Yi, Shanhe, et al. *Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*
 
 ## Advanced Theory
-- Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter. "Differentiable MPC for End-to-end Planning and Control." In Advances in Neural Information Processing Systems, pp. 8299-8310. 2018. 
-[[Paper]](https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf)  [[GitHub]](https://locuslab.github.io/mpc.pytorch/)
+- Differentiable MPC for End-to-end Planning and Control [[Paper]](https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf)  [[GitHub]](https://locuslab.github.io/mpc.pytorch/)
+  -  Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter *NIPS 2018*
