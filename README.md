@@ -9,8 +9,11 @@
 
 ## Survey
 
-- End-to-end arguments in system design." [[Paper]](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+- End-to-end arguments in system design [[Paper]](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
   - Saltzer, Jerome H., David P. Reed, and David D. Clark. *ACM Transactions on Computer Systems (TOCS) 2, no. 4 (1984): 277-288*
+
+- System Design for Large Scale Machine Learning [[Thesis]](http://shivaram.org/publications/shivaram-dissertation.pdf)
+  
 
 #### 
 
