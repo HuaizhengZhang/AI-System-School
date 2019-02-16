@@ -21,6 +21,8 @@
 
 - Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems [[Facebook Project]](https://github.com/facebook/bistro)
 
+- Osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework. [[Facebook Project]](https://osquery.io/)
+
 - TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
 [[Project Website]](https://tvm.ai/)
 
