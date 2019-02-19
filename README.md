@@ -12,6 +12,10 @@
 
 - Streaming Systems [[Book]](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 
+## Course
+
+- CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) *Strong Recommendation*
+
 ## Survey
 
 - End-to-end arguments in system design [[Paper]](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
