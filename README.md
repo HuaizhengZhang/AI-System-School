@@ -28,6 +28,8 @@
 - Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
   - Stop guessing why software is slow. Advanced sampling and profiling techniques quickly analyze your code, isolate issues, and deliver insights for optimizing performance on modern processors
   
+- NVIDIA DALI [[GitHub]](https://github.com/NVIDIA/DALI)
+  - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications 
 
 #### 
 
