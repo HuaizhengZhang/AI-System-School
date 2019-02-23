@@ -40,7 +40,7 @@
 - Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
 [[GitHub]](https://github.com/uber/horovod)
 
-## Machine Learning System Papers
+## Machine Learning System Papers (Inference)
 
 - Clipper: A Low-Latency Online Prediction Serving System
 [[GitHub]](https://github.com/ucbrise/clipper)
@@ -56,6 +56,13 @@
 
 - TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments [[Paper]](https://arxiv.org/pdf/1811.09732.pdf)
   - Dakkak, Abdul, et al *Preprint*
+
+- Dynamic Space-Time Scheduling for GPU Inference [[Paper]](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf)
+  - Jain, Paras, et al. *NIPS 18, System for ML*
+
+
+## Machine Learning System Papers (Training)
+
 
 ## Video System papers
 
