@@ -22,6 +22,11 @@
   - Saltzer, Jerome H., David P. Reed, and David D. Clark. *ACM Transactions on Computer Systems (TOCS) 2, no. 4 (1984): 277-288*
 
 - System Design for Large Scale Machine Learning [[Thesis]](http://shivaram.org/publications/shivaram-dissertation.pdf)
+
+## Userful Tools
+
+- Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
+  - Stop guessing why software is slow. Advanced sampling and profiling techniques quickly analyze your code, isolate issues, and deliver insights for optimizing performance on modern processors
   
 
 #### 
