@@ -46,10 +46,6 @@
 [[GitHub]](https://github.com/ucbrise/clipper)
   - Crankshaw, Daniel, et al. *NSDI 2017*
   - Summary: Adaptive batch
-
-- Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
-  - Moritz, Philipp, et al. *OSDI 2018*
-  - Summary: Distributed DRL system
   
 - InferLine: ML Inference Pipeline Composition Framework [[Paper]](https://arxiv.org/pdf/1812.01776.pdf)
   - Crankshaw, Daniel, et al. *Preprint*
@@ -63,6 +59,15 @@
 
 ## Machine Learning System Papers (Training)
 
+- Beyond data and model parallelism for deep neural networks
+  - Jia, Zhihao, Matei Zaharia, and Alex Aiken. *SysML 2019*
+  - Summary: 
+  
+## Deep Reinforcement Learning System
+
+- - Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
+  - Moritz, Philipp, et al. *OSDI 2018*
+  - Summary: Distributed DRL system
 
 ## Video System papers
 
