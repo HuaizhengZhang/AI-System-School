@@ -49,12 +49,15 @@
   
 - InferLine: ML Inference Pipeline Composition Framework [[Paper]](https://arxiv.org/pdf/1812.01776.pdf)
   - Crankshaw, Daniel, et al. *Preprint*
+  - Summary:
 
 - TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments [[Paper]](https://arxiv.org/pdf/1811.09732.pdf)
   - Dakkak, Abdul, et al *Preprint*
+  - Summary:
 
 - Dynamic Space-Time Scheduling for GPU Inference [[Paper]](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf)
   - Jain, Paras, et al. *NIPS 18, System for ML*
+  - Summary: 
 
 
 ## Machine Learning System Papers (Training)
@@ -73,6 +76,7 @@
 
 - Live Video Analytics at Scale with Approximation and Delay-Tolerance [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/videostorm_nsdi17.pdf)
   - Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. *NSDI 2017*
+  - Summary: 
 
 ## Traditional System Optimization Papers
 
@@ -83,7 +87,9 @@
 
 - Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
   - Yi, Shanhe, et al. *Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*
+  - Summary:
 
 ## Advanced Theory
 - Differentiable MPC for End-to-end Planning and Control [[Paper]](https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf)  [[GitHub]](https://locuslab.github.io/mpc.pytorch/)
-  -  Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter *NIPS 2018*
+  - Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter *NIPS 2018*
+  - Summary:
