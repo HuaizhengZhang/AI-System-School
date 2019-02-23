@@ -68,7 +68,7 @@
   
 ## Deep Reinforcement Learning System
 
-- - Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
+- Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
   - Moritz, Philipp, et al. *OSDI 2018*
   - Summary: Distributed DRL system
 
