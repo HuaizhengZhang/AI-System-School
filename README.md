@@ -23,6 +23,10 @@
 
 - System Design for Large Scale Machine Learning [[Thesis]](http://shivaram.org/publications/shivaram-dissertation.pdf)
 
+- Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications [[Paper]]https://arxiv.org/pdf/1811.09886.pdf)
+  - Park, Jongsoo, Maxim Naumov, Protonu Basu, Summer Deng, Aravind Kalaiah, Daya Khudia, James Law et al. *arXiv 2018*
+  - Summary: 
+
 ## Userful Tools
 
 - Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
