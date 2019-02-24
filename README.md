@@ -67,19 +67,28 @@
   - Summary: 
 
 - Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems
+  - Wei, Jinliang, Garth Gibson, Vijay Vasudevan, and Eric Xing. *On going*
+  - Summary:
 
 ## Machine Learning System Papers (Training)
 
 - Beyond data and model parallelism for deep neural networks
   - Jia, Zhihao, Matei Zaharia, and Alex Aiken. *SysML 2019*
   - Summary: 
-  
-- Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems
-  - Wei, Jinliang, Garth Gibson, Vijay Vasudevan, and Eric Xing. *On going*
+
+- Device placement optimization with reinforcement learning
+  - Mirhoseini, Azalia, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. *ICML 17*
+  - Summary: 
+
+- Spotlight: Optimizing device placement for training deep neural networks
+  - Gao, Yuanxiang, Li Chen, and Baochun Li *ICML 18*
   - Summary:
-  
+
 ## System Optimization
 
+- Resource management with deep reinforcement learning 
+  - Mao, Hongzi, Mohammad Alizadeh, Ishai Menache, and Srikanth Kandula *ACM HotNets 2016*
+  - Summary:
   
 ## Deep Reinforcement Learning System
 
