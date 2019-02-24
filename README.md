@@ -66,12 +66,20 @@
   - Jain, Paras, et al. *NIPS 18, System for ML*
   - Summary: 
 
+- Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems
 
 ## Machine Learning System Papers (Training)
 
 - Beyond data and model parallelism for deep neural networks
   - Jia, Zhihao, Matei Zaharia, and Alex Aiken. *SysML 2019*
   - Summary: 
+  
+- Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems
+  - Wei, Jinliang, Garth Gibson, Vijay Vasudevan, and Eric Xing. *On going*
+  - Summary:
+  
+## System Optimization
+
   
 ## Deep Reinforcement Learning System
 
