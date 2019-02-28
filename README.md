@@ -75,7 +75,7 @@
   - Summary:
   
 - Accelerating Deep Learning Workloads through Efficient Multi-Model Execution. 
-  - D. Narayanan, K. Santhanam, A. Phanishayee and M. Zaharia. *NeurIPS Systems for ML Workshop 2018*
+  - D. Narayanan, K. Santhanam, A. Phanishayee and M. Zaharia. (*NeurIPS Systems for ML Workshop 2018*)
   - Summary: They assume that their system, HiveMind, is given as input models grouped into model batches that are amenable to co-optimization and co-execution. a compiler, and a runtime.
 
 ## Machine Learning System Papers (Training)
