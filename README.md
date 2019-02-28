@@ -14,13 +14,13 @@
 
 ## Course
 
-- CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) *Strong Recommendation*
+- CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) ### *Strong Recommendation*
 
 ## Survey
 
 - End-to-end arguments in system design [[Paper]](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
-  - Saltzer, Jerome H., David P. Reed, and David D. Clark. *ACM Transactions on Computer Systems (TOCS) 2, no. 4 (1984): 277-288*
-
+  - Saltzer, Jerome H., David P. Reed, and David D. Clark. 
+  
 - System Design for Large Scale Machine Learning [[Thesis]](http://shivaram.org/publications/shivaram-dissertation.pdf)
 
 - Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications [[Paper]]https://arxiv.org/pdf/1811.09886.pdf)
@@ -55,55 +55,55 @@
 
 - Clipper: A Low-Latency Online Prediction Serving System
 [[GitHub]](https://github.com/ucbrise/clipper)
-  - Crankshaw, Daniel, et al. *NSDI 2017*
+  - Crankshaw, Daniel, et al. (*NSDI 2017*)
   - Summary: Adaptive batch
   
 - InferLine: ML Inference Pipeline Composition Framework [[Paper]](https://arxiv.org/pdf/1812.01776.pdf)
-  - Crankshaw, Daniel, et al. *Preprint*
+  - Crankshaw, Daniel, et al. (*Preprint*)
   - Summary:
 
 - TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments [[Paper]](https://arxiv.org/pdf/1811.09732.pdf)
-  - Dakkak, Abdul, et al *Preprint*
+  - Dakkak, Abdul, et al (*Preprint*)
   - Summary:
 
 - Dynamic Space-Time Scheduling for GPU Inference [[Paper]](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf)
-  - Jain, Paras, et al. *NIPS 18, System for ML*
+  - Jain, Paras, et al. (*NIPS 18, System for ML*)
   - Summary: 
 
 - Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems
-  - Wei, Jinliang, Garth Gibson, Vijay Vasudevan, and Eric Xing. *On going*
+  - Wei, Jinliang, Garth Gibson, Vijay Vasudevan, and Eric Xing. (*On going*)
   - Summary:
 
 ## Machine Learning System Papers (Training)
 
 - Beyond data and model parallelism for deep neural networks
-  - Jia, Zhihao, Matei Zaharia, and Alex Aiken. *SysML 2019*
+  - Jia, Zhihao, Matei Zaharia, and Alex Aiken. (*SysML 2019*)
   - Summary: 
 
 - Device placement optimization with reinforcement learning
-  - Mirhoseini, Azalia, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. *ICML 17*
+  - Mirhoseini, Azalia, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. (*ICML 17*)
   - Summary: 
 
 - Spotlight: Optimizing device placement for training deep neural networks
-  - Gao, Yuanxiang, Li Chen, and Baochun Li *ICML 18*
+  - Gao, Yuanxiang, Li Chen, and Baochun Li (*ICML 18*)
   - Summary:
 
 ## System Optimization
 
 - Resource management with deep reinforcement learning 
-  - Mao, Hongzi, Mohammad Alizadeh, Ishai Menache, and Srikanth Kandula *ACM HotNets 2016*
+  - Mao, Hongzi, Mohammad Alizadeh, Ishai Menache, and Srikanth Kandula (*ACM HotNets 2016*)
   - Summary:
   
 ## Deep Reinforcement Learning System
 
 - Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
-  - Moritz, Philipp, et al. *OSDI 2018*
+  - Moritz, Philipp, et al. (*OSDI 2018*)
   - Summary: Distributed DRL system
 
 ## Video System papers
 
 - Live Video Analytics at Scale with Approximation and Delay-Tolerance [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/videostorm_nsdi17.pdf)
-  - Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. *NSDI 2017*
+  - Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. (*NSDI 2017*)
   - Summary: 
 
 ## Traditional System Optimization Papers
@@ -114,10 +114,10 @@
 ## Edge or Mobile Papers 
 
 - Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
-  - Yi, Shanhe, et al. *Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*
+  - Yi, Shanhe, et al. (*Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*)
   - Summary:
 
 ## Advanced Theory
 - Differentiable MPC for End-to-end Planning and Control [[Paper]](https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf)  [[GitHub]](https://locuslab.github.io/mpc.pytorch/)
-  - Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter *NIPS 2018*
+  - Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter (*NIPS 2018*)
   - Summary:
