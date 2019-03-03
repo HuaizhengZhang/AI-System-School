@@ -82,11 +82,11 @@
 
 - Beyond data and model parallelism for deep neural networks
   - Jia, Zhihao, Matei Zaharia, and Alex Aiken. (*SysML 2019*)
-  - Summary: 
+  - Summary: SOAP (sample, operation, attribution and parameter) parallelism. Operator graph, device topology and extution optimizer. MCMC search algorithm and excution simulator.
 
 - Device placement optimization with reinforcement learning
   - Mirhoseini, Azalia, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. (*ICML 17*)
-  - Summary: 
+  - Summary: Using REINFORCE learn a device placement policy. Group operations to excute. Need a lot of GPUs.
 
 - Spotlight: Optimizing device placement for training deep neural networks
   - Gao, Yuanxiang, Li Chen, and Baochun Li (*ICML 18*)
