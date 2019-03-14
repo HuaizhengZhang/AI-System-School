@@ -18,6 +18,10 @@
 
 ## Survey
 
+- Hidden technical debt in machine learning systems [[Paper]](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+  - Sculley, David, et al. (*NIPS 2015*)
+  - Summary: 
+
 - End-to-end arguments in system design [[Paper]](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
   - Saltzer, Jerome H., David P. Reed, and David D. Clark. 
   
@@ -25,7 +29,7 @@
 
 - Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications [[Paper]]https://arxiv.org/pdf/1811.09886.pdf)
   - Park, Jongsoo, Maxim Naumov, Protonu Basu et al. *arXiv 2018*
-  - Summary: 
+  - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
 
 ## Userful Tools
 
