@@ -36,7 +36,10 @@
   - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
   
 - gpushare-scheduler-extender [[GitHub]](https://github.com/HuaizhengZhang/gpushare-scheduler-extender)
-  -  Some of these tasks can be run on the same Nvidia GPU device to increase GPU utilization
+  - Some of these tasks can be run on the same Nvidia GPU device to increase GPU utilization
+  
+- Machine Learning Pipelines for Kubeflow [[GitHub]](https://github.com/kubeflow/pipelines)
+  - Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
 
 #### 
 
