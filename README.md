@@ -104,6 +104,10 @@
   - Gao, Yuanxiang, Li Chen, and Baochun Li (*ICML 18*)
   - Summary:
 
+- GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
+  - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
+  - Summary: 
+
 ## System Optimization
 
 - Resource management with deep reinforcement learning 
