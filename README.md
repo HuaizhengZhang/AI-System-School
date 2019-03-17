@@ -14,7 +14,7 @@
 
 ## Course
 
-- CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) ### *Strong Recommendation*
+- CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) ## *Strong Recommendation*
 
 ## Survey
 
@@ -124,6 +124,10 @@
 
 - Live Video Analytics at Scale with Approximation and Delay-Tolerance [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/videostorm_nsdi17.pdf)
   - Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. (*NSDI 2017*)
+  - Summary: 
+
+- Chameleon: scalable adaptation of video analytics [[Paper]](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf)
+  - Jiang, Junchen, et al. (*SIGCOMM 2018*)
   - Summary: 
 
 ## Traditional System Optimization Papers
