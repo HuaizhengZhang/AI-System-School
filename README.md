@@ -27,7 +27,7 @@
   
 - System Design for Large Scale Machine Learning [[Thesis]](http://shivaram.org/publications/shivaram-dissertation.pdf)
 
-- Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications [[Paper]]https://arxiv.org/pdf/1811.09886.pdf)
+- Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications [[Paper]](https://arxiv.org/pdf/1811.09886.pdf)
   - Park, Jongsoo, Maxim Naumov, Protonu Basu et al. *arXiv 2018*
   - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
 
