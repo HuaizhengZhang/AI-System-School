@@ -4,7 +4,27 @@
   <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
 </p>
 
+A curated list of research in machine learning system. Link to the code if available is also present. I also summarize some papers if I think it is really interesting.
 
+I categorize them by myself. You are kindly invited to pull requests!
+
+## Table of Contents
+### Resources
+- [Book](#book)
+- [Video](#video)
+- [Course](#course)
+- [Survey](#survey)
+- [Tools](#userful-tools)
+- [Project with code](#project)
+### Papers
+- [Inference](#machine-learning-system-papers-inference)
+- [Training](#machine-learning-system-papers-training)
+- [Resource Management](#resource-management)
+- [DRL system](#deep-reinforcement-learning-system)
+- [Edge or mobile](#edge-or-mobile-papers)
+- [Video System](#video-system-papers)
+- [Advanced Theory](#advanced-theory)
+- [Traditional System Optimization](#traditional-system-optimization-papers)
 
 ## Book
 
@@ -21,7 +41,7 @@
 
 ## Course
 
-- CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) ## *Strong Recommendation*
+- CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) (*Strong Recommendation*)
 
 ## Survey
 
@@ -55,6 +75,8 @@
 #### 
 
 ## Project
+
+- Weld: Weld is a runtime for improving the performance of data-intensive applications. [Project Website](https://www.weld.rs/)
 
 - MindsDB: MindsDB's goal is to make it very simple for developers to use the power of artificial neural networks in their projects [[GitHub]](https://github.com/mindsdb/mindsdb)
 
@@ -115,7 +137,7 @@
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
   - Summary: 
 
-## System Optimization
+## Resource Management
 
 - Resource management with deep reinforcement learning 
   - Mao, Hongzi, Mohammad Alizadeh, Ishai Menache, and Srikanth Kandula (*ACM HotNets 2016*)
@@ -137,11 +159,6 @@
   - Jiang, Junchen, et al. (*SIGCOMM 2018*)
   - Summary: 
 
-## Traditional System Optimization Papers
-
-- AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
-[[Paper]](https://dl.acm.org/citation.cfm?id=2382556)
-
 ## Edge or Mobile Papers 
 
 - Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
@@ -149,6 +166,13 @@
   - Summary:
 
 ## Advanced Theory
+
 - Differentiable MPC for End-to-end Planning and Control [[Paper]](https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf)  [[GitHub]](https://locuslab.github.io/mpc.pytorch/)
   - Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter (*NIPS 2018*)
   - Summary:
+  
+## Traditional System Optimization Papers
+
+- AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
+[[Paper]](https://dl.acm.org/citation.cfm?id=2382556)
+
