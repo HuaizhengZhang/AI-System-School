@@ -12,6 +12,13 @@
 
 - Streaming Systems [[Book]](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 
+## Video
+
+- A New Golden Age for Computer Architecture History, Challenges, and Opportunities. David Patterson [[YouTube]](https://www.youtube.com/watch?v=uyc_pDBJotI&t=767s)
+
+- How to Have a Bad Career. David Patterson (I am a big fan) [[YouTube]](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
+  - Family first
+
 ## Course
 
 - CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) ## *Strong Recommendation*
