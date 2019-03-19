@@ -42,6 +42,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 ## Course
 
 - CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) (*Strong Recommendation*)
+- CSE 599W: System for ML. [[Chen Tianqi]](https://github.com/tqchen) [[Course Website]]（http://dlsys.cs.washington.edu/）
 
 ## Survey
 
