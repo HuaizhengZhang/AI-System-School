@@ -76,7 +76,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 ## Project
 
-- Weld: Weld is a runtime for improving the performance of data-intensive applications. [Project Website](https://www.weld.rs/)
+- Weld: Weld is a runtime for improving the performance of data-intensive applications. [[Project Website]](https://www.weld.rs/)
 
 - MindsDB: MindsDB's goal is to make it very simple for developers to use the power of artificial neural networks in their projects [[GitHub]](https://github.com/mindsdb/mindsdb)
 
