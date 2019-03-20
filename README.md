@@ -1,9 +1,5 @@
 # Awesome-System-for-Machine-Learning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center">
-  <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
-</p>
-
 A curated list of research in machine learning system. Link to the code if available is also present. I also summarize some papers if I think they are really interesting.
 
 I categorize them by myself. You are kindly invited to pull requests!
@@ -37,7 +33,8 @@ I categorize them by myself. You are kindly invited to pull requests!
 - A New Golden Age for Computer Architecture History, Challenges, and Opportunities. David Patterson [[YouTube]](https://www.youtube.com/watch?v=uyc_pDBJotI&t=767s)
 
 - How to Have a Bad Career. David Patterson (I am a big fan) [[YouTube]](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
-  - Family first
+
+- SysML 18: Perspectives and Challenges. Michael Jordan [[YouTube]](https://www.youtube.com/watch?v=4inIBmY8dQI&t=26s)
 
 ## Course
 
