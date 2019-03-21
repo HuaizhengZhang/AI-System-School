@@ -115,9 +115,9 @@ I categorize them by myself. You are kindly invited to pull requests!
   
 ## Resource Management
 
-- Resource management with deep reinforcement learning 
+- Resource management with deep reinforcement learning [[Paper]](https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf) [[GitHub]](https://github.com/hongzimao/deeprm)
   - Mao, Hongzi, Mohammad Alizadeh, Ishai Menache, and Srikanth Kandula (*ACM HotNets 2016*)
-  - Summary:
+  - Summary:  Highly cited paper. Nice definaton. An example solution that translates the problem of packing tasks with multiple resource demands into a learning problem and then used DRL to solve it.
   
 ## Deep Reinforcement Learning System
 
@@ -129,7 +129,6 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 - Live Video Analytics at Scale with Approximation and Delay-Tolerance [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/videostorm_nsdi17.pdf)
   - Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. (*NSDI 2017*)
-  - Summary: 
 - Chameleon: scalable adaptation of video analytics [[Paper]](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf)
   - Jiang, Junchen, et al. (*SIGCOMM 2018*)
   - Summary: Configuration controller for balancing accuracy and resource. Golden configuration is a good design. Periodic profiling often exceeded any resource savings gained by adapting the configurations.
@@ -138,16 +137,15 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 - Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
   - Yi, Shanhe, et al. (*Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*)
-  - Summary:
 
 ## Advanced Theory
 
 - Differentiable MPC for End-to-end Planning and Control [[Paper]](https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf)  [[GitHub]](https://locuslab.github.io/mpc.pytorch/)
   - Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter (*NIPS 2018*)
-  - Summary:
   
 ## Traditional System Optimization Papers
 
 - AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
-[[Paper]](https://dl.acm.org/citation.cfm?id=2382556)
+[[Paper]](https://www3.cs.stonybrook.edu/~anshul/tocs12.pdf)
+- Gandhi, Anshul, et al. (*TOCS 2012*)
 
