@@ -55,13 +55,10 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 - Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
   - Stop guessing why software is slow. Advanced sampling and profiling techniques quickly analyze your code, isolate issues, and deliver insights for optimizing performance on modern processors
-  
 - NVIDIA DALI [[GitHub]](https://github.com/NVIDIA/DALI)
   - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
-  
 - gpushare-scheduler-extender [[GitHub]](https://github.com/HuaizhengZhang/gpushare-scheduler-extender)
   - Some of these tasks can be run on the same Nvidia GPU device to increase GPU utilization
-  
 - Machine Learning Pipelines for Kubeflow [[GitHub]](https://github.com/kubeflow/pipelines)
   - Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
 
@@ -70,18 +67,12 @@ I categorize them by myself. You are kindly invited to pull requests!
 ## Project
 
 - Weld: Weld is a runtime for improving the performance of data-intensive applications. [[Project Website]](https://www.weld.rs/)
-
 - MindsDB: MindsDB's goal is to make it very simple for developers to use the power of artificial neural networks in their projects [[GitHub]](https://github.com/mindsdb/mindsdb)
-
 - PAI: OpenPAI is an open source platform that provides complete AI model training and resource management capabilities. [[Microsoft Project]](https://github.com/Microsoft/pai#resources)
-
 - Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems [[Facebook Project]](https://github.com/facebook/bistro)
-
 - Osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework. [[Facebook Project]](https://osquery.io/)
-
 - TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
 [[Project Website]](https://tvm.ai/)
-
 - Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
 [[GitHub]](https://github.com/uber/horovod)
 
@@ -90,24 +81,19 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Clipper: A Low-Latency Online Prediction Serving System
 [[GitHub]](https://github.com/ucbrise/clipper)
   - Crankshaw, Daniel, et al. (*NSDI 2017*)
-  - Summary: Adaptive batch
-  
+  - Summary: Adaptive batch 
 - InferLine: ML Inference Pipeline Composition Framework [[Paper]](https://arxiv.org/pdf/1812.01776.pdf)
   - Crankshaw, Daniel, et al. (*Preprint*)
   - Summary: update version of Clipper
-
 - TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments [[Paper]](https://arxiv.org/pdf/1811.09732.pdf)
   - Dakkak, Abdul, et al (*Preprint*)
   - Summary: model cold start problem
-
 - Dynamic Space-Time Scheduling for GPU Inference [[Paper]](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf)
   - Jain, Paras, et al. (*NIPS 18, System for ML*)
   - Summary: 
-
 - Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems
   - Wei, Jinliang, Garth Gibson, Vijay Vasudevan, and Eric Xing. (*On going*)
   - Summary:
-  
 - Accelerating Deep Learning Workloads through Efficient Multi-Model Execution. 
   - D. Narayanan, K. Santhanam, A. Phanishayee and M. Zaharia. (*NeurIPS Systems for ML Workshop 2018*)
   - Summary: They assume that their system, HiveMind, is given as input models grouped into model batches that are amenable to co-optimization and co-execution. a compiler, and a runtime.
@@ -117,19 +103,16 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Beyond data and model parallelism for deep neural networks
   - Jia, Zhihao, Matei Zaharia, and Alex Aiken. (*SysML 2019*)
   - Summary: SOAP (sample, operation, attribution and parameter) parallelism. Operator graph, device topology and extution optimizer. MCMC search algorithm and excution simulator.
-
 - Device placement optimization with reinforcement learning
   - Mirhoseini, Azalia, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. (*ICML 17*)
   - Summary: Using REINFORCE learn a device placement policy. Group operations to excute. Need a lot of GPUs.
-
 - Spotlight: Optimizing device placement for training deep neural networks
   - Gao, Yuanxiang, Li Chen, and Baochun Li (*ICML 18*)
   - Summary:
-
 - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
   - Summary: 
-
+  
 ## Resource Management
 
 - Resource management with deep reinforcement learning 
@@ -147,7 +130,6 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Live Video Analytics at Scale with Approximation and Delay-Tolerance [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/videostorm_nsdi17.pdf)
   - Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. (*NSDI 2017*)
   - Summary: 
-
 - Chameleon: scalable adaptation of video analytics [[Paper]](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf)
   - Jiang, Junchen, et al. (*SIGCOMM 2018*)
   - Summary: Configuration controller for balancing accuracy and resource. Golden configuration is a good design. Periodic profiling often exceeded any resource savings gained by adapting the configurations.
