@@ -60,7 +60,8 @@ I categorize them by myself. You are kindly invited to pull requests!
   - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
 - gpushare-scheduler-extender [[GitHub]](https://github.com/HuaizhengZhang/gpushare-scheduler-extender)
   - Some of these tasks can be run on the same Nvidia GPU device to increase GPU utilization
-
+- TensorRT [[NVIDIA]](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html)
+  - It is designed to work in a complementary fashion with training frameworks such as TensorFlow, Caffe, PyTorch, MXNet, etc. It focuses specifically on running an already trained network quickly and efficiently on a GPU for the purpose of generating a result
 
 ## Project
 
