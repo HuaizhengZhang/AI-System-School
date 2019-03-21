@@ -59,8 +59,7 @@ I categorize them by myself. You are kindly invited to pull requests!
   - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications
 - gpushare-scheduler-extender [[GitHub]](https://github.com/HuaizhengZhang/gpushare-scheduler-extender)
   - Some of these tasks can be run on the same Nvidia GPU device to increase GPU utilization
-- Machine Learning Pipelines for Kubeflow [[GitHub]](https://github.com/kubeflow/pipelines)
-  - Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
+
 
 #### 
 
@@ -75,10 +74,13 @@ I categorize them by myself. You are kindly invited to pull requests!
 [[Project Website]](https://tvm.ai/)
 - Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
 [[GitHub]](https://github.com/uber/horovod)
+- Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
+- Kubeflow: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable. [[GitHub]](https://github.com/kubeflow/pipelines)
+  - 
 
 ## Machine Learning System Papers (Inference)
 
-- Clipper: A Low-Latency Online Prediction Serving System
+- Clipper: A Low-Latency Online Prediction Serving System [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
 [[GitHub]](https://github.com/ucbrise/clipper)
   - Crankshaw, Daniel, et al. (*NSDI 2017*)
   - Summary: Adaptive batch 
@@ -91,24 +93,22 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Dynamic Space-Time Scheduling for GPU Inference [[Paper]](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf)
   - Jain, Paras, et al. (*NIPS 18, System for ML*)
   - Summary: 
-- Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems
+- Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems [[Paper]](http://www.cs.cmu.edu/~jinlianw/papers/dynamic_scheduling_nips18_sysml.pdf)
   - Wei, Jinliang, Garth Gibson, Vijay Vasudevan, and Eric Xing. (*On going*)
-  - Summary:
-- Accelerating Deep Learning Workloads through Efficient Multi-Model Execution. 
+- Accelerating Deep Learning Workloads through Efficient Multi-Model Execution. [[Paper]](https://cs.stanford.edu/~matei/papers/2018/mlsys_hivemind.pdf)
   - D. Narayanan, K. Santhanam, A. Phanishayee and M. Zaharia. (*NeurIPS Systems for ML Workshop 2018*)
   - Summary: They assume that their system, HiveMind, is given as input models grouped into model batches that are amenable to co-optimization and co-execution. a compiler, and a runtime.
 
 ## Machine Learning System Papers (Training)
 
-- Beyond data and model parallelism for deep neural networks
+- Beyond data and model parallelism for deep neural networks [[Paper]](https://arxiv.org/pdf/1807.05358.pdf)
   - Jia, Zhihao, Matei Zaharia, and Alex Aiken. (*SysML 2019*)
   - Summary: SOAP (sample, operation, attribution and parameter) parallelism. Operator graph, device topology and extution optimizer. MCMC search algorithm and excution simulator.
-- Device placement optimization with reinforcement learning
+- Device placement optimization with reinforcement learning [[Paper]](https://arxiv.org/pdf/1706.04972.pdf)
   - Mirhoseini, Azalia, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. (*ICML 17*)
   - Summary: Using REINFORCE learn a device placement policy. Group operations to excute. Need a lot of GPUs.
-- Spotlight: Optimizing device placement for training deep neural networks
+- Spotlight: Optimizing device placement for training deep neural networks  [[Paper]](http://proceedings.mlr.press/v80/gao18a/gao18a.pdf)
   - Gao, Yuanxiang, Li Chen, and Baochun Li (*ICML 18*)
-  - Summary:
 - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
   - Summary: 
@@ -123,7 +123,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 - Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
   - Moritz, Philipp, et al. (*OSDI 2018*)
-  - Summary: Distributed DRL system
+  - Summary: Distributed DRL training, simulation and inference system. Can be used as a high-performance python framework.
 
 ## Video System papers
 
@@ -135,6 +135,9 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 ## Edge or Mobile Papers 
 
+- NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision [[Paper]]()
+  - Fang, Biyi, Xiao Zeng, and Mi Zhang. (*MobiCom 2018*)
+  - Summary: Borrow some ideas from network prune. The pruned model then recovers to trade-off computation resource and accuracy at runtime
 - Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
   - Yi, Shanhe, et al. (*Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*)
 
