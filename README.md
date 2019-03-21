@@ -38,8 +38,9 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 ## Course
 
-- CS294: AI For Systems and Systems For AI  [[Course Website]](https://github.com/ucbrise/cs294-ai-sys-sp19) (*Strong Recommendation*)
-- CSE 599W: System for ML. [[Chen Tianqi]](https://github.com/tqchen) [[Course Website]](http://dlsys.cs.washington.edu/)
+- CS294: AI For Systems and Systems For AI. [[UC Berkeley]](https://github.com/ucbrise/cs294-ai-sys-sp19) (*Strong Recommendation*)
+- CSE 599W: System for ML.  [[Chen Tianqi]](https://github.com/tqchen) [[University of Washington]](http://dlsys.cs.washington.edu/)
+- CSE 291F: Advanced Data Analytics and ML Systems. [[UCSD]](http://cseweb.ucsd.edu/classes/wi19/cse291-f/)
 
 ## Survey
 
@@ -155,7 +156,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 - Chameleon: scalable adaptation of video analytics [[Paper]](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf)
   - Jiang, Junchen, et al. (*SIGCOMM 2018*)
-  - Summary: 
+  - Summary: Configuration controller for balancing accuracy and resource. Golden configuration is a good design. Periodic profiling often exceeded any resource savings gained by adapting the configurations.
 
 ## Edge or Mobile Papers 
 
