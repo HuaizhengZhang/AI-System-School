@@ -13,11 +13,12 @@ I categorize them by myself. You are kindly invited to pull requests!
 - [Tools](#userful-tools)
 - [Project with code](#project)
 ### Papers
-- [Inference](#machine-learning-system-papers-inference)
-- [Training](#machine-learning-system-papers-training)
+- [Model Deployment](#model-deployment-papers)
+- [Inference Optimization](#machine-learning-system-papers-inference)
+- [Distributed Training](#machine-learning-system-papers-training)
 - [Resource Management](#resource-management)
-- [DRL system](#deep-reinforcement-learning-system)
-- [Edge or mobile](#edge-or-mobile-papers)
+- [Deep Reinforcement Learning system](#deep-reinforcement-learning-system)
+- [Edge AI](#edge-or-mobile-papers)
 - [Video System](#video-system-papers)
 - [Advanced Theory](#advanced-theory)
 - [Traditional System Optimization](#traditional-system-optimization-papers)
@@ -61,8 +62,6 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Some of these tasks can be run on the same Nvidia GPU device to increase GPU utilization
 
 
-#### 
-
 ## Project
 
 - Weld: Weld is a runtime for improving the performance of data-intensive applications. [[Project Website]](https://www.weld.rs/)
@@ -76,9 +75,9 @@ I categorize them by myself. You are kindly invited to pull requests!
 [[GitHub]](https://github.com/uber/horovod)
 - Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
 - Kubeflow: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable. [[GitHub]](https://github.com/kubeflow/pipelines)
-  - 
 
-## Machine Learning System Papers (Inference)
+  
+## Model Deployment Papers
 
 - Clipper: A Low-Latency Online Prediction Serving System [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
 [[GitHub]](https://github.com/ucbrise/clipper)
@@ -90,6 +89,9 @@ I categorize them by myself. You are kindly invited to pull requests!
 - TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments [[Paper]](https://arxiv.org/pdf/1811.09732.pdf)
   - Dakkak, Abdul, et al (*Preprint*)
   - Summary: model cold start problem
+
+## Machine Learning System Papers (Inference)
+
 - Dynamic Space-Time Scheduling for GPU Inference [[Paper]](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf)
   - Jain, Paras, et al. (*NIPS 18, System for ML*)
   - Summary: 
