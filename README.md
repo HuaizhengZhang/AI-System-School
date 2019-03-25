@@ -138,10 +138,16 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Chameleon: scalable adaptation of video analytics [[Paper]](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf)
   - Jiang, Junchen, et al. (*SIGCOMM 2018*)
   - Summary: Configuration controller for balancing accuracy and resource. Golden configuration is a good design. Periodic profiling often exceeded any resource savings gained by adapting the configurations.
-- Noscope: optimizing neural network queries over video at scale [[Paper]](https://arxiv.org/pdf/1703.02529) [GitHub](https://github.com/stanford-futuredata/noscope)
+- Noscope: optimizing neural network queries over video at scale [[Paper]](https://arxiv.org/pdf/1703.02529) [[GitHub]](https://github.com/stanford-futuredata/noscope)
   - Kang, Daniel, John Emmons, Firas Abuzaid, Peter Bailis, and Matei Zaharia. (*VLDB2017*)
   - Summary: 
-
+- SVE: Distributed video processing at Facebook scale [[Paper]](http://www.cs.princeton.edu/~wlloyd/papers/sve-sosp17.pdf)
+  - Huang, Qi, et al. (*SOSP2017*)
+  - Summary: 
+- Scanner: Efficient Video Analysis at Scale [[Paper]](http://graphics.stanford.edu/papers/scanner/poms18_scanner.pdf)[[GitHub]](https://github.com/scanner-research/scanner)
+  - Poms, Alex, Will Crichton, Pat Hanrahan, and Kayvon Fatahalian (*SIGGRAPH 2018*)
+  - Summary:
+  
 ## Edge or Mobile Papers 
 
 - NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision [[Paper]]()
@@ -159,5 +165,5 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 - AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
 [[Paper]](https://www3.cs.stonybrook.edu/~anshul/tocs12.pdf)
-- Gandhi, Anshul, et al. (*TOCS 2012*)
+  - Gandhi, Anshul, et al. (*TOCS 2012*)
 
