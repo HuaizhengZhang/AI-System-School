@@ -1,4 +1,8 @@
-# Awesome-System-for-Machine-Learning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
+# Awesome-System-for-Machine-Learning
 
 A curated list of research in machine learning system. Link to the code if available is also present. I also summarize some papers if I think they are really interesting.
 
@@ -10,14 +14,14 @@ I categorize them by myself. You are kindly invited to pull requests!
 - [Video](#video)
 - [Course](#course)
 - [Survey](#survey)
-- [Tools](#userful-tools)
+- [Tool](#userful-tools)
 - [Project with code](#project)
 ### Papers
 - [Model Deployment](#model-deployment-papers)
 - [Inference Optimization](#machine-learning-system-papers-inference)
 - [Distributed Training](#machine-learning-system-papers-training)
 - [Resource Management](#resource-management)
-- [Deep Reinforcement Learning system](#deep-reinforcement-learning-system)
+- [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
 - [Edge AI](#edge-or-mobile-papers)
 - [Video System](#video-system-papers)
 - [Advanced Theory](#advanced-theory)
