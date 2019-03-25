@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-# Awesome-System-for-Machine-Learning
+# Awesome System for Machine Learning
 
 A curated list of research in machine learning system. Link to the code if available is also present. I also summarize some papers if I think they are really interesting.
 
