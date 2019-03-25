@@ -138,6 +138,9 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Chameleon: scalable adaptation of video analytics [[Paper]](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf)
   - Jiang, Junchen, et al. (*SIGCOMM 2018*)
   - Summary: Configuration controller for balancing accuracy and resource. Golden configuration is a good design. Periodic profiling often exceeded any resource savings gained by adapting the configurations.
+- Noscope: optimizing neural network queries over video at scale [[Paper]](https://arxiv.org/pdf/1703.02529) [GitHub](https://github.com/stanford-futuredata/noscope)
+  - Kang, Daniel, John Emmons, Firas Abuzaid, Peter Bailis, and Matei Zaharia. (*VLDB2017*)
+  - Summary: 
 
 ## Edge or Mobile Papers 
 
