@@ -61,6 +61,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 ## Userful Tools
 
+- Popular Network memory consumption and FLOP counts [[GitHub]](https://github.com/albanie/convnet-burden)
 - Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
   - Stop guessing why software is slow. Advanced sampling and profiling techniques quickly analyze your code, isolate issues, and deliver insights for optimizing performance on modern processors
 - NVIDIA DALI [[GitHub]](https://github.com/NVIDIA/DALI)
