@@ -18,6 +18,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 - [Tool](#userful-tools)
 - [Project with code](#project)
 ### Papers
+- [Data Prcocessing](#data-processing)
 - [Model Deployment](#model-deployment-papers)
 - [Inference Optimization](#machine-learning-system-papers-inference)
 - [Distributed Training](#machine-learning-system-papers-training)
@@ -65,7 +66,7 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
 
 ## Userful Tools
-- IntelAI/OpenVINO-model-server: Inference model server implementation with gRPC interface, compatible with TensorFlow serving API and OpenVINO™ as the execution backend. [[GitHub]](https://github.com/IntelAI/OpenVINO-model-server)
+
 - Microsoft/MMdnn: A comprehensive, cross-framework solution to convert, visualize and diagnose deep neural network models.[[GitHub]](https://github.com/Microsoft/MMdnn)
 - Popular Network memory consumption and FLOP counts [[GitHub]](https://github.com/albanie/convnet-burden)
 - Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
@@ -80,7 +81,6 @@ I categorize them by myself. You are kindly invited to pull requests!
 ## Project
 
 - Prefect: Perfect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. [[GitHub]](https://github.com/PrefectHQ/prefect)
-- Weld: Weld is a runtime for improving the performance of data-intensive applications. [[Project Website]](https://www.weld.rs/)
 - MindsDB: MindsDB's goal is to make it very simple for developers to use the power of artificial neural networks in their projects [[GitHub]](https://github.com/mindsdb/mindsdb)
 - PAI: OpenPAI is an open source platform that provides complete AI model training and resource management capabilities. [[Microsoft Project]](https://github.com/Microsoft/pai#resources)
 - Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems [[Facebook Project]](https://github.com/facebook/bistro)
@@ -90,9 +90,15 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
 - Kubeflow: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable. [[GitHub]](https://github.com/kubeflow/pipelines)
 
-  
+## Data Prcocessing
+- Weld: Weld is a runtime for improving the performance of data-intensive applications. [[Project Website]](https://www.weld.rs/)
+- Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines [[Project Website]](http://halide-lang.org/)
+  - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe. (*PLDI 2013*)
+  - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
+
 ## Model Deployment Papers
 
+- IntelAI/OpenVINO-model-server: Inference model server implementation with gRPC interface, compatible with TensorFlow serving API and OpenVINO™ as the execution backend. [[GitHub]](https://github.com/IntelAI/OpenVINO-model-server)
 - Clipper: A Low-Latency Online Prediction Serving System [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
 [[GitHub]](https://github.com/ucbrise/clipper)
   - Crankshaw, Daniel, et al. (*NSDI 2017*)
