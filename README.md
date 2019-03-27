@@ -1,4 +1,5 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![HitCount](http://hits.dwyl.io/HuaizhengZhang/Awesome-System-for-Machine-Learning.svg)](http://hits.dwyl.io/HuaizhengZhang/Awesome-System-for-Machine-Learning)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
@@ -60,7 +61,8 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
 
 ## Userful Tools
-
+- IntelAI/OpenVINO-model-server: Inference model server implementation with gRPC interface, compatible with TensorFlow serving API and OpenVINO™ as the execution backend. [[GitHub]](https://github.com/IntelAI/OpenVINO-model-server)
+- Microsoft/MMdnn: A comprehensive, cross-framework solution to convert, visualize and diagnose deep neural network models.[[GitHub]](https://github.com/Microsoft/MMdnn)
 - Popular Network memory consumption and FLOP counts [[GitHub]](https://github.com/albanie/convnet-burden)
 - Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
   - Stop guessing why software is slow. Advanced sampling and profiling techniques quickly analyze your code, isolate issues, and deliver insights for optimizing performance on modern processors
