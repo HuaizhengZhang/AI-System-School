@@ -84,8 +84,6 @@ I categorize them by myself. You are kindly invited to pull requests!
 - PAI: OpenPAI is an open source platform that provides complete AI model training and resource management capabilities. [[Microsoft Project]](https://github.com/Microsoft/pai#resources)
 - Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems [[Facebook Project]](https://github.com/facebook/bistro)
 - Osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework. [[Facebook Project]](https://osquery.io/)
-- TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
-[[Project Website]](https://tvm.ai/)
 - Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
 [[GitHub]](https://github.com/uber/horovod)
 - Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
@@ -129,6 +127,12 @@ I categorize them by myself. You are kindly invited to pull requests!
 - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
   - Summary: 
+ 
+## Machine Learning Compiler
+
+- Facebook TC: Tensor Comprehensions (TC) is a fully-functional C++ library to automatically synthesize high-performance machine learning kernels using Halide, ISL and NVRTC or LLVM. [[GitHub]](https://github.com/facebookresearch/TensorComprehensions)
+- TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
+[[Project Website]](https://tvm.ai/)
   
 ## Resource Management
 
