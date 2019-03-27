@@ -52,6 +52,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 - CSci 8980: Machine Learning in Computer Systems [[University of Minnesota, Twin Cities]](http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/)
 
 ## Survey
+
 - Applied machine learning at Facebook: a datacenter infrastructure perspective [[Paper]](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
   - Hazelwood, Kim, et al. (*HPCA 2018*)
 - Infrastructure for Usable Machine Learning: The Stanford DAWN Project
@@ -92,6 +93,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Kubeflow: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable. [[GitHub]](https://github.com/kubeflow/pipelines)
 
 ## Data Prcocessing
+- Modin: Speed up your Pandas workflows by changing a single line of code [[GitHub]](https://github.com/modin-project/modin)
 - Weld: Weld is a runtime for improving the performance of data-intensive applications. [[Project Website]](https://www.weld.rs/)
 - Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines [[Project Website]](http://halide-lang.org/)
   - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe. (*PLDI 2013*)
