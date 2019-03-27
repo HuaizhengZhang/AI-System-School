@@ -49,7 +49,8 @@ I categorize them by myself. You are kindly invited to pull requests!
 - CSci 8980: Machine Learning in Computer Systems [[University of Minnesota, Twin Cities]](http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/)
 
 ## Survey
-
+- Infrastructure for Usable Machine Learning: The Stanford DAWN Project
+  - Bailis, Peter, Kunle Olukotun, Christopher Ré, and Matei Zaharia. (*preprint 2017)
 - Hidden technical debt in machine learning systems [[Paper]](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
   - Sculley, David, et al. (*NIPS 2015*)
   - Summary: 
