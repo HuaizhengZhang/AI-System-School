@@ -21,6 +21,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 - [Model Deployment](#model-deployment-papers)
 - [Inference Optimization](#machine-learning-system-papers-inference)
 - [Distributed Training](#machine-learning-system-papers-training)
+- [Machine Learning Compiler](#machine-learning-compiler)
 - [Resource Management](#resource-management)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
 - [Edge AI](#edge-or-mobile-papers)
@@ -133,6 +134,8 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Facebook TC: Tensor Comprehensions (TC) is a fully-functional C++ library to automatically synthesize high-performance machine learning kernels using Halide, ISL and NVRTC or LLVM. [[GitHub]](https://github.com/facebookresearch/TensorComprehensions)
 - TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
 [[Project Website]](https://tvm.ai/)
+  - {TVM}: An Automated End-to-End Optimizing Compiler for Deep Learning [[Paper]](https://www.usenix.org/system/files/osdi18-chen.pdf)
+    - Chen, Tianqi, et al. (*OSDI 2018*)
   
 ## Resource Management
 
