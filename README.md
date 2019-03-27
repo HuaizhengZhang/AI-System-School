@@ -49,8 +49,10 @@ I categorize them by myself. You are kindly invited to pull requests!
 - CSci 8980: Machine Learning in Computer Systems [[University of Minnesota, Twin Cities]](http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/)
 
 ## Survey
+- Applied machine learning at Facebook: a datacenter infrastructure perspective [[Paper]](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
+  - Hazelwood, Kim, et al. (*HPCA 2018*)
 - Infrastructure for Usable Machine Learning: The Stanford DAWN Project
-  - Bailis, Peter, Kunle Olukotun, Christopher Ré, and Matei Zaharia. (*preprint 2017)
+  - Bailis, Peter, Kunle Olukotun, Christopher Ré, and Matei Zaharia. (*preprint 2017*)
 - Hidden technical debt in machine learning systems [[Paper]](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
   - Sculley, David, et al. (*NIPS 2015*)
   - Summary: 
@@ -139,6 +141,9 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
   - Moritz, Philipp, et al. (*OSDI 2018*)
   - Summary: Distributed DRL training, simulation and inference system. Can be used as a high-performance python framework.
+- Elf: An extensive, lightweight and flexible research platform for real-time strategy games [[Paper]](https://papers.nips.cc/paper/6859-elf-an-extensive-lightweight-and-flexible-research-platform-for-real-time-strategy-games.pdf) [[GitHub]](https://github.com/facebookresearch/ELF)
+  - Tian, Yuandong, Qucheng Gong, Wenling Shang, Yuxin Wu, and C. Lawrence Zitnick. (*NIPS 2017*)
+  - Summary:
 
 ## Video System papers
 
