@@ -149,6 +149,10 @@ I categorize them by myself. You are kindly invited to pull requests!
 - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
   - Summary: 
+- Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
+  - Xiao, Wencong, et al. (*OSDI 2018*)
+  - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
+
  
 ## Machine Learning Compiler
 
