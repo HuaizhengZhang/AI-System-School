@@ -68,7 +68,7 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
 
 ## Userful Tools
-
+- torchstat: a lightweight neural network analyzer based on PyTorch. [[GitHub]](https://github.com/Swall0w/torchstat)
 - Microsoft/MMdnn: A comprehensive, cross-framework solution to convert, visualize and diagnose deep neural network models.[[GitHub]](https://github.com/Microsoft/MMdnn)
 - Popular Network memory consumption and FLOP counts [[GitHub]](https://github.com/albanie/convnet-burden)
 - Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
