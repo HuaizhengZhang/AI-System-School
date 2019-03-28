@@ -10,6 +10,13 @@ A curated list of research in machine learning system. Link to the code if avail
 
 I categorize them by myself. You are kindly invited to pull requests!
 
+### PR template
+```
+- Title [[Paper]](link) [[GitHub]](link)
+  - Author (*conference(journal) year*)
+  - Summary: 
+```
+
 ## Table of Contents
 ### Resources
 - [Book](#book)
@@ -19,7 +26,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 - [Tool](#userful-tools)
 - [Project with code](#project)
 ### Papers
-- [Data Prcocessing](#data-processing)
+- [Data Processing](#data-processing)
 - [Model Deployment](#model-deployment-papers)
 - [Inference Optimization](#machine-learning-system-papers-inference)
 - [Distributed Training](#machine-learning-system-papers-training)
