@@ -68,6 +68,7 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
 
 ## Userful Tools
+
 - torchstat: a lightweight neural network analyzer based on PyTorch. [[GitHub]](https://github.com/Swall0w/torchstat)
 - Microsoft/MMdnn: A comprehensive, cross-framework solution to convert, visualize and diagnose deep neural network models.[[GitHub]](https://github.com/Microsoft/MMdnn)
 - Popular Network memory consumption and FLOP counts [[GitHub]](https://github.com/albanie/convnet-burden)
@@ -100,7 +101,11 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
 
 ## Model Deployment Papers
-
+- TFX: A TensorFlow-Based Production-Scale Machine Learning Platform [[Paper]](http://stevenwhang.com/tfx_paper.pdf) [[Website]](https://www.tensorflow.org/tfx)
+  - Baylor, Denis, et al. (*KDD 2017*)
+  - Summary: 
+- Tensorflow-serving: Flexible, high-performance ml serving [[Paper]](https://arxiv.org/pdf/1712.06139) [[GitHub]](https://github.com/tensorflow/serving)
+  - Olston, Christopher, et al.
 - IntelAI/OpenVINO-model-server: Inference model server implementation with gRPC interface, compatible with TensorFlow serving API and OpenVINO™ as the execution backend. [[GitHub]](https://github.com/IntelAI/OpenVINO-model-server)
 - Clipper: A Low-Latency Online Prediction Serving System [[Paper]](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
 [[GitHub]](https://github.com/ucbrise/clipper)
@@ -160,6 +165,8 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Elf: An extensive, lightweight and flexible research platform for real-time strategy games [[Paper]](https://papers.nips.cc/paper/6859-elf-an-extensive-lightweight-and-flexible-research-platform-for-real-time-strategy-games.pdf) [[GitHub]](https://github.com/facebookresearch/ELF)
   - Tian, Yuandong, Qucheng Gong, Wenling Shang, Yuxin Wu, and C. Lawrence Zitnick. (*NIPS 2017*)
   - Summary:
+- Horizon: Facebook's Open Source Applied Reinforcement Learning Platform [[Paper]](https://arxiv.org/pdf/1811.00260) [[GitHub]](https://github.com/facebookresearch/Horizon)
+  - Gauci, Jason, et al. (*preprint 2019*)
 
 ## Video System papers
 
