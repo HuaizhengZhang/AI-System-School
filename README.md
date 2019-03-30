@@ -1,8 +1,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![HitCount](http://hits.dwyl.io/HuaizhengZhang/Awesome-System-for-Machine-Learning.svg)](http://hits.dwyl.io/HuaizhengZhang/Awesome-System-for-Machine-Learning)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/HuaizhengZhang)
+
 
 # Awesome System for Machine Learning
 
