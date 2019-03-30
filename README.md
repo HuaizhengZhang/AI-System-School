@@ -59,7 +59,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 - CSci 8980: Machine Learning in Computer Systems [[University of Minnesota, Twin Cities]](http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/)
 
 ## Survey
-
+- How (and How Not) to Write a Good Systems Paper [[Advice]](https://www.usenix.org/legacy/events/samples/submit/advice_old.html)
 - Applied machine learning at Facebook: a datacenter infrastructure perspective [[Paper]](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
   - Hazelwood, Kim, et al. (*HPCA 2018*)
 - Infrastructure for Usable Machine Learning: The Stanford DAWN Project
