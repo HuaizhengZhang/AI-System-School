@@ -194,6 +194,8 @@ I categorize them by myself. You are kindly invited to pull requests!
 - Scanner: Efficient Video Analysis at Scale [[Paper]](http://graphics.stanford.edu/papers/scanner/poms18_scanner.pdf)[[GitHub]](https://github.com/scanner-research/scanner)
   - Poms, Alex, Will Crichton, Pat Hanrahan, and Kayvon Fatahalian (*SIGGRAPH 2018*)
   - Summary:
+- A cloud-based large-scale distributed video analysis system [[Paper]](https://ai.google/research/pubs/pub45631)
+  - Wang, Yongzhe, et al. (*ICIP 2016*)
   
 ## Edge or Mobile Papers 
 
