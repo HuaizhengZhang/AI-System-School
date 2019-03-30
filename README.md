@@ -112,6 +112,7 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
 
 ## Model Deployment Papers
+
 - TFX: A TensorFlow-Based Production-Scale Machine Learning Platform [[Paper]](http://stevenwhang.com/tfx_paper.pdf) [[Website]](https://www.tensorflow.org/tfx)
   - Baylor, Denis, et al. (*KDD 2017*)
   - Summary: 
@@ -142,6 +143,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 
 ## Machine Learning System Papers (Training)
 
+### Parallelism
 - Beyond data and model parallelism for deep neural networks [[Paper]](https://arxiv.org/pdf/1807.05358.pdf)
   - Jia, Zhihao, Matei Zaharia, and Alex Aiken. (*SysML 2019*)
   - Summary: SOAP (sample, operation, attribution and parameter) parallelism. Operator graph, device topology and extution optimizer. MCMC search algorithm and excution simulator.
@@ -153,9 +155,14 @@ I categorize them by myself. You are kindly invited to pull requests!
 - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
   - Summary: 
+
+### Cluster
 - Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
   - Xiao, Wencong, et al. (*OSDI 2018*)
   - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
+- Optimus: an efficient dynamic resource scheduler for deep learning clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
+  - Peng, Yanghua, et al. (*EuroSys 2018*)
+  - Summary: Job scheduling on clusters. Total complete time as the metric.
 
  
 ## Machine Learning Compiler
