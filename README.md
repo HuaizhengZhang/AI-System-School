@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 
-# Awesome System for Machine Learning
+# Awesome System for Machine Learning (Path to system for AI)
 
 A curated list of research in machine learning system. Link to the code if available is also present. I also summarize some papers if I think they are really interesting.
 
@@ -25,15 +25,19 @@ I categorize them by myself. You are kindly invited to pull requests!
 - [Tool](#userful-tools)
 - [Project with code](#project)
 ### Papers
+
+#### System for AI
 - [Data Processing](#data-processing)
 - [Model Deployment](#model-deployment-papers)
 - [Inference Optimization](#machine-learning-system-papers-inference)
 - [Distributed Training](#machine-learning-system-papers-training)
 - [Machine Learning Compiler](#machine-learning-compiler)
-- [Resource Management](#resource-management)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
 - [Edge AI](#edge-or-mobile-papers)
 - [Video System](#video-system-papers)
+
+#### AI for System
+- [Resource Management](#resource-management)
 - [Advanced Theory](#advanced-theory)
 - [Traditional System Optimization](#traditional-system-optimization-papers)
 
@@ -161,13 +165,7 @@ I categorize them by myself. You are kindly invited to pull requests!
 [[Project Website]](https://tvm.ai/)
   - {TVM}: An Automated End-to-End Optimizing Compiler for Deep Learning [[Paper]](https://www.usenix.org/system/files/osdi18-chen.pdf)
     - Chen, Tianqi, et al. (*OSDI 2018*)
-  
-## Resource Management
-
-- Resource management with deep reinforcement learning [[Paper]](https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf) [[GitHub]](https://github.com/hongzimao/deeprm)
-  - Mao, Hongzi, Mohammad Alizadeh, Ishai Menache, and Srikanth Kandula (*ACM HotNets 2016*)
-  - Summary:  Highly cited paper. Nice definaton. An example solution that translates the problem of packing tasks with multiple resource demands into a learning problem and then used DRL to solve it.
-  
+    
 ## Deep Reinforcement Learning System
 
 - Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
@@ -197,6 +195,9 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary:
 - A cloud-based large-scale distributed video analysis system [[Paper]](https://ai.google/research/pubs/pub45631)
   - Wang, Yongzhe, et al. (*ICIP 2016*)
+- Rosetta: Large scale system for text detection and recognition in images [[Paper]](https://research.fb.com/wp-content/uploads/2018/10/Rosetta-Large-scale-system-for-text-detection-and-recognition-in-images.pdf)
+  - Borisyuk, Fedor, Albert Gordo, and Viswanath Sivakumar. (*KDD 2018*)
+  - Summary: 
   
 ## Edge or Mobile Papers 
 
@@ -205,6 +206,12 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary: Borrow some ideas from network prune. The pruned model then recovers to trade-off computation resource and accuracy at runtime
 - Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
   - Yi, Shanhe, et al. (*Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*)
+  
+## Resource Management
+
+- Resource management with deep reinforcement learning [[Paper]](https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf) [[GitHub]](https://github.com/hongzimao/deeprm)
+  - Mao, Hongzi, Mohammad Alizadeh, Ishai Menache, and Srikanth Kandula (*ACM HotNets 2016*)
+  - Summary:  Highly cited paper. Nice definaton. An example solution that translates the problem of packing tasks with multiple resource demands into a learning problem and then used DRL to solve it.
 
 ## Advanced Theory
 
