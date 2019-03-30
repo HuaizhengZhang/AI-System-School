@@ -3,7 +3,8 @@
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
 
-# Awesome System for Machine Learning (Path to system for AI)
+# Awesome System for Machine Learning 
+### *Path to system for AI*
 
 A curated list of research in machine learning system. Link to the code if available is also present. I also summarize some papers if I think they are really interesting.
 
@@ -142,7 +143,6 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary: They assume that their system, HiveMind, is given as input models grouped into model batches that are amenable to co-optimization and co-execution. a compiler, and a runtime.
 
 ## Machine Learning System Papers (Training)
-
 ### Parallelism
 - Beyond data and model parallelism for deep neural networks [[Paper]](https://arxiv.org/pdf/1807.05358.pdf)
   - Jia, Zhihao, Matei Zaharia, and Alex Aiken. (*SysML 2019*)
@@ -155,7 +155,6 @@ I categorize them by myself. You are kindly invited to pull requests!
 - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
   - Summary: 
-
 ### Cluster
 - Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
   - Xiao, Wencong, et al. (*OSDI 2018*)
