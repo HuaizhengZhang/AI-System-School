@@ -10,15 +10,6 @@ A curated list of research in machine learning system. Link to the code if avail
 
 I categorize them by myself. You are kindly invited to pull requests!
 
-![AI system](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/imgs/AI_system.png)
-
-### PR template
-```
-- Title [[Paper]](link) [[GitHub]](link)
-  - Author (*conference(journal) year*)
-  - Summary: 
-```
-
 ## Table of Contents
 ### Resources
 - [Book](#book)
@@ -43,6 +34,16 @@ I categorize them by myself. You are kindly invited to pull requests!
 - [Resource Management](#resource-management)
 - [Advanced Theory](#advanced-theory)
 - [Traditional System Optimization](#traditional-system-optimization-papers)
+
+
+![AI system](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/imgs/AI_system.png)
+
+### PR template
+```
+- Title [[Paper]](link) [[GitHub]](link)
+  - Author (*conference(journal) year*)
+  - Summary: 
+```
 
 ## Book
 
