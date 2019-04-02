@@ -117,8 +117,8 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe. (*PLDI 2013*)
   - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
 
-## Model Deployment Papers
-
+## Model Deployment
+- Model Server for Apache MXNet: Model Server for Apache MXNet is a tool for serving neural net models for inference [[GitHub]](https://github.com/awslabs/mxnet-model-server)
 - TFX: A TensorFlow-Based Production-Scale Machine Learning Platform [[Paper]](http://stevenwhang.com/tfx_paper.pdf) [[Website]](https://www.tensorflow.org/tfx)
   - Baylor, Denis, et al. (*KDD 2017*)
   - Summary: 
