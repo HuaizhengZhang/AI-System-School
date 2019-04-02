@@ -189,6 +189,9 @@ I categorize them by myself. You are kindly invited to pull requests!
   - Summary:
 - Horizon: Facebook's Open Source Applied Reinforcement Learning Platform [[Paper]](https://arxiv.org/pdf/1811.00260) [[GitHub]](https://github.com/facebookresearch/Horizon)
   - Gauci, Jason, et al. (*preprint 2019*)
+- RLgraph: Modular Computation Graphs for Deep Reinforcement Learning [[Paper]](http://www.sysml.cc/doc/2019/43.pdf)[[GitHub]](https://github.com/rlgraph/rlgraph)
+  - Schaarschmidt, Michael, Sven Mika, Kai Fricke, and Eiko Yoneki. (*SysML 2019*)
+  - Summary:
 
 ## Video System papers
 
