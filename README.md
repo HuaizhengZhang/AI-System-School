@@ -182,6 +182,7 @@ I categorize them by myself. You are kindly invited to pull requests!
     - Chen, Tianqi, et al. (*OSDI 2018*)
 - Facebook TC: Tensor Comprehensions (TC) is a fully-functional C++ library to automatically synthesize high-performance machine learning kernels using Halide, ISL and NVRTC or LLVM. [[GitHub]](https://github.com/facebookresearch/TensorComprehensions)
 - Tensorflow/mlir: "Multi-Level Intermediate Representation" Compiler Infrastructure [[GitHub]](https://github.com/tensorflow/mlir)
+- PyTorch/glow： Compiler for Neural Network hardware accelerators [[GitHub]](https://github.com/pytorch/glow)
     
 ## Deep Reinforcement Learning System
 
