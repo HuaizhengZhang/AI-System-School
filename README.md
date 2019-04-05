@@ -4,11 +4,12 @@
 
 
 # Awesome System for Machine Learning 
+
 ### *Path to system for AI* [[Whitepaper You Must Read]](http://www.sysml.cc/doc/sysml-whitepaper.pdf)
 
 A curated list of research in machine learning system. Link to the code if available is also present. I also summarize some papers if I think they are really interesting.
 
-I categorize them by myself. You are kindly invited to pull requests!
+![AI system](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/imgs/AI_system.png)
 
 ## Table of Contents
 ### Resources
@@ -34,10 +35,6 @@ I categorize them by myself. You are kindly invited to pull requests!
 - [Resource Management](#resource-management)
 - [Advanced Theory](#advanced-theory)
 - [Traditional System Optimization](#traditional-system-optimization-papers)
-
-### Overview
-
-![AI system](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/imgs/AI_system.png)
 
 ### PR template
 ```
