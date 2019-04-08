@@ -25,7 +25,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Data Processing](#data-processing)
 - [Distributed Training](#machine-learning-system-papers-training)
 - [Inference Optimization](#machine-learning-system-papers-inference)
-- [Model Deployment](#model-deployment-papers)
+- [Model Deployment](#model-deployment)
 - [Machine Learning Compiler](#machine-learning-compiler)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
 - [Edge AI](#edge-or-mobile-papers)
