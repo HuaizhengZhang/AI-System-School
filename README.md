@@ -100,6 +100,7 @@ A curated list of research in machine learning system. Link to the code if avail
   - Some of these tasks can be run on the same Nvidia GPU device to increase GPU utilization
 - TensorRT [[NVIDIA]](https://docs.nvidia.com/deeplearning/sdk/tensorrt-developer-guide/index.html)
   - It is designed to work in a complementary fashion with training frameworks such as TensorFlow, Caffe, PyTorch, MXNet, etc. It focuses specifically on running an already trained network quickly and efficiently on a GPU for the purpose of generating a result
+- TensorStream: A library for real-time video stream decoding to CUDA memory [[GitHub]](https://github.com/Fonbet/argus-tensor-stream)
 
 ## Project
 
