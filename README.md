@@ -124,6 +124,8 @@ A curated list of research in machine learning system. Link to the code if avail
   - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
 
 ## Model Deployment
+
+- Brusta: PyTorch model serving project [[GitHub]](https://github.com/hyoungseok/brusta)
 - Model Server for Apache MXNet: Model Server for Apache MXNet is a tool for serving neural net models for inference [[GitHub]](https://github.com/awslabs/mxnet-model-server)
 - TFX: A TensorFlow-Based Production-Scale Machine Learning Platform [[Paper]](http://stevenwhang.com/tfx_paper.pdf) [[Website]](https://www.tensorflow.org/tfx)
   - Baylor, Denis, et al. (*KDD 2017*)
