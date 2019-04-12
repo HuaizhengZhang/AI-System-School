@@ -87,7 +87,7 @@ A curated list of research in machine learning system. Link to the code if avail
   - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
 
 ## Userful Tools
-
+- MLPerf Benchmark Suite/Inference: Reference implementations of inference benchmarks [[GitHub]](https://github.com/mlperf/inference)
 - Pytorch-Memory-Utils: detect your GPU memory during training with Pytorch. [[GitHub]](https://github.com/Oldpan/Pytorch-Memory-Utils)
 - Faiss: A library for efficient similarity search and clustering of dense vectors [[GitHub]](https://github.com/facebookresearch/faiss)
 - torchstat: a lightweight neural network analyzer based on PyTorch. [[GitHub]](https://github.com/Swall0w/torchstat)
