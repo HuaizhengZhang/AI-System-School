@@ -210,6 +210,8 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Video System papers
 
+- CaTDet: Cascaded Tracked Detector for Efficient Object Detection from Video [[Paper]](http://www.sysml.cc/doc/2019/111.pdf)
+  - Mao, Huizi, Taeyoung Kong, and William J. Dally. (*SysML2019*)
 - Live Video Analytics at Scale with Approximation and Delay-Tolerance [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/videostorm_nsdi17.pdf)
   - Zhang, Haoyu, Ganesh Ananthanarayanan, Peter Bodik, Matthai Philipose, Paramvir Bahl, and Michael J. Freedman. (*NSDI 2017*)
 - Chameleon: scalable adaptation of video analytics [[Paper]](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf)
@@ -237,6 +239,8 @@ A curated list of research in machine learning system. Link to the code if avail
   - Summary: Borrow some ideas from network prune. The pruned model then recovers to trade-off computation resource and accuracy at runtime
 - Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
   - Yi, Shanhe, et al. (*Second ACM/IEEE Symposium on Edge Computing. ACM, 2017.*)
+- Scaling Video Analytics on Constrained Edge Nodes [[Paper]](http://www.sysml.cc/doc/2019/197.pdf) [[GitHub]](https://github.com/viscloud/filterforward)
+  - Canel, C., Kim, T., Zhou, G., Li, C., Lim, H., Andersen, D. G., Kaminsky, M., and Dulloo (*SysML 2019*)
   
 ## Resource Management
 
