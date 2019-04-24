@@ -108,6 +108,9 @@ A curated list of research in machine learning system. Link to the code if avail
 - TensorStream: A library for real-time video stream decoding to CUDA memory [[GitHub]](https://github.com/Fonbet/argus-tensor-stream)
 
 ## Project
+- Machine Learning for .NET [[GitHub]](https://github.com/dotnet/machinelearning)
+  - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
+  - ML.NET allows .NET developers to develop their own models and infuse custom machine learning into their applications, using .NET, even without prior expertise in developing or tuning machine learning models.
 - ONNX: Open Neural Network Exchange [[GitHub]](https://github.com/onnx/onnx)
 - BentoML: Machine Learning Toolkit for packaging and deploying models [[GitHub]](https://github.com/bentoml/BentoML)
 - ModelDB: A system to manage ML models [[GitHub]](https://github.com/mitdbg/modeldb) [[MIT short paper]](https://mitdbg.github.io/modeldb/papers/hilda_modeldb.pdf)
