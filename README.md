@@ -24,8 +24,8 @@ A curated list of research in machine learning system. Link to the code if avail
 #### System for AI
 - [Data Processing](#data-processing)
 - [Distributed Training](#machine-learning-system-papers-training)
-- [Inference Optimization](#machine-learning-system-papers-inference)
 - [Model Deployment](#model-deployment)
+- [Inference Optimization](#machine-learning-system-papers-inference)
 - [Machine Learning Compiler](#machine-learning-compiler)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
 - [Edge AI](#edge-or-mobile-papers)
@@ -131,8 +131,10 @@ A curated list of research in machine learning system. Link to the code if avail
   - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe. (*PLDI 2013*)
   - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
 
-## Model Deployment
-
+## Model Serving
+- {PRETZEL}: Opening the Black Box of Machine Learning Prediction Serving Systems. [[Paper]](https://www.usenix.org/system/files/osdi18-lee.pdf)
+  - Lee, Y., Scolari, A., Chun, B.G., Santambrogio, M.D., Weimer, M. and Interlandi, M., 2018. (*OSDI 2018*)
+  - Summary:
 - Brusta: PyTorch model serving project [[GitHub]](https://github.com/hyoungseok/brusta)
 - Model Server for Apache MXNet: Model Server for Apache MXNet is a tool for serving neural net models for inference [[GitHub]](https://github.com/awslabs/mxnet-model-server)
 - TFX: A TensorFlow-Based Production-Scale Machine Learning Platform [[Paper]](http://stevenwhang.com/tfx_paper.pdf) [[Website]](https://www.tensorflow.org/tfx)
