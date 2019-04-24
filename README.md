@@ -24,7 +24,7 @@ A curated list of research in machine learning system. Link to the code if avail
 #### System for AI
 - [Data Processing](#data-processing)
 - [Distributed Training](#machine-learning-system-papers-training)
-- [Model Deployment](#model-deployment)
+- [Model Serving](#model-serving)
 - [Inference Optimization](#machine-learning-system-papers-inference)
 - [Machine Learning Compiler](#machine-learning-compiler)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
