@@ -277,4 +277,5 @@ A curated list of research in machine learning system. Link to the code if avail
 - AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
 [[Paper]](https://www3.cs.stonybrook.edu/~anshul/tocs12.pdf)
   - Gandhi, Anshul, et al. (*TOCS 2012*)
-
+- Large-scale cluster management at Google with Borg [[Paper]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
+  - Verma, Abhishek, et al. (*ECCS2015*)
