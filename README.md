@@ -28,6 +28,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Model Serving](#model-serving)
 - [Inference Optimization](#machine-learning-system-papers-inference)
 - [Machine Learning Compiler](#machine-learning-compiler)
+- [AutoML System](#automl-system)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
 - [Edge AI](#edge-or-mobile-papers)
 - [Video System](#video-system-papers)
@@ -215,6 +216,10 @@ A curated list of research in machine learning system. Link to the code if avail
 - Facebook TC: Tensor Comprehensions (TC) is a fully-functional C++ library to automatically synthesize high-performance machine learning kernels using Halide, ISL and NVRTC or LLVM. [[GitHub]](https://github.com/facebookresearch/TensorComprehensions)
 - Tensorflow/mlir: "Multi-Level Intermediate Representation" Compiler Infrastructure [[GitHub]](https://github.com/tensorflow/mlir)
 - PyTorch/glow： Compiler for Neural Network hardware accelerators [[GitHub]](https://github.com/pytorch/glow)
+
+## AutoML System
+
+- Aut-sklearn: Automated Machine Learning with scikit-learn [[GitHub]](https://github.com/automl/auto-sklearn) [[Paper]](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
     
 ## Deep Reinforcement Learning System
 
