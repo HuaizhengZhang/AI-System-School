@@ -16,6 +16,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Book](#book)
 - [Video](#video)
 - [Course](#course)
+- [Blog](#blog)
 - [Survey](#survey)
 - [Tool](#userful-tools)
 - [Project with code](#project)
@@ -65,6 +66,11 @@ A curated list of research in machine learning system. Link to the code if avail
 - CSE 599W: System for ML.  [[Chen Tianqi]](https://github.com/tqchen) [[University of Washington]](http://dlsys.cs.washington.edu/)
 - CSE 291F: Advanced Data Analytics and ML Systems. [[UCSD]](http://cseweb.ucsd.edu/classes/wi19/cse291-f/)
 - CSci 8980: Machine Learning in Computer Systems [[University of Minnesota, Twin Cities]](http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/)
+
+## Blog
+
+- Machine learning in netflix [[Medium]](https://medium.com/@NetflixTechBlog)
+- 了解/从事机器学习/深度学习系统相关的研究需要什么样的知识结构？ [[Zhihu]](https://www.zhihu.com/question/315611053/answer/623529977)
 
 ## Survey
 
