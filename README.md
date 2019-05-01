@@ -94,7 +94,7 @@ A curated list of research in machine learning system. Link to the code if avail
   - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
 
 ## Userful Tools
-- NNI: An open source AutoML toolkit for neural architecture search and hyper-parameter tuning [[GitHub]](https://github.com/Microsoft/nni)
+- Pyflame: A Ptracing Profiler For Python [[GitHub]](https://github.com/uber/pyflame)
 - Netron: Visualizer for deep learning and machine learning models [[GitHub]](https://github.com/lutzroeder/netron)
 - Facebook/FBGEMM: FBGEMM (Facebook GEneral Matrix Multiplication) is a low-precision, high-performance matrix-matrix multiplications and convolution library for server-side inference. [[GitHub]](https://github.com/pytorch/FBGEMM)
 - XiaoMi/mobile-ai-bench: Benchmarking Neural Network Inference on Mobile Devices [[GitHub]](https://github.com/XiaoMi/mobile-ai-bench)
@@ -129,8 +129,6 @@ A curated list of research in machine learning system. Link to the code if avail
 - PAI: OpenPAI is an open source platform that provides complete AI model training and resource management capabilities. [[Microsoft Project]](https://github.com/Microsoft/pai#resources)
 - Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems [[Facebook Project]](https://github.com/facebook/bistro)
 - Osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework. [[Facebook Project]](https://osquery.io/)
-- Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
-[[GitHub]](https://github.com/uber/horovod)
 - Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
 - Kubeflow: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable. [[GitHub]](https://github.com/kubeflow/pipelines)
 
@@ -142,6 +140,35 @@ A curated list of research in machine learning system. Link to the code if avail
 - Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines [[Project Website]](http://halide-lang.org/)
   - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe. (*PLDI 2013*)
   - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
+  
+## Machine Learning System Papers (Training)
+- Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks. [[Paper]](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf) [[GitHub]](https://github.com/flexflow/FlexFlow)
+  - Zhihao Jia, Sina Lin, Charles R. Qi, and Alex Aiken. (*ICML 2018*)
+- Mesh-TensorFlow: Deep Learning for Supercomputers [[Paper]](https://arxiv.org/pdf/1811.02084.pdf) [[GitHub]](https://github.com/tensorflow/mesh)
+  - Shazeer, Noam, Youlong Cheng, Niki Parmar, Dustin Tran, et al. (*NIPS 2018*)
+  - Summary: Data parallelism for language model
+- PyTorch-BigGraph: A Large-scale Graph Embedding System [[Paper]](https://arxiv.org/pdf/1903.12287.pdf) [[GitHub]](https://github.com/facebookresearch/PyTorch-BigGraph)
+  - Lerer, Adam and Wu, Ledell and Shen, Jiajun and Lacroix, Timothee and Wehrstedt, Luca and Bose, Abhijit and Peysakhovich, Alex (*SysML 2019*)
+- Beyond data and model parallelism for deep neural networks [[Paper]](https://arxiv.org/pdf/1807.05358.pdf) [[GitHub]](https://github.com/jiazhihao/metaflow_sysml19)
+  - Jia, Zhihao, Matei Zaharia, and Alex Aiken. (*SysML 2019*)
+  - Summary: SOAP (sample, operation, attribution and parameter) parallelism. Operator graph, device topology and extution optimizer. MCMC search algorithm and excution simulator.
+- Device placement optimization with reinforcement learning [[Paper]](https://arxiv.org/pdf/1706.04972.pdf)
+  - Mirhoseini, Azalia, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. (*ICML 17*)
+  - Summary: Using REINFORCE learn a device placement policy. Group operations to excute. Need a lot of GPUs.
+- Spotlight: Optimizing device placement for training deep neural networks  [[Paper]](http://proceedings.mlr.press/v80/gao18a/gao18a.pdf)
+  - Gao, Yuanxiang, Li Chen, and Baochun Li (*ICML 18*)
+- GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
+  - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
+  - Summary: 
+- Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
+  - Xiao, Wencong, et al. (*OSDI 2018*)
+  - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
+- Optimus: an efficient dynamic resource scheduler for deep learning clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
+  - Peng, Yanghua, et al. (*EuroSys 2018*)
+  - Summary: Job scheduling on clusters. Total complete time as the metric.
+- Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
+[[GitHub]](https://github.com/uber/horovod)
+
 
 ## Model Serving
 - {PRETZEL}: Opening the Black Box of Machine Learning Prediction Serving Systems. [[Paper]](https://www.usenix.org/system/files/osdi18-lee.pdf)
@@ -181,32 +208,6 @@ A curated list of research in machine learning system. Link to the code if avail
   - D. Narayanan, K. Santhanam, A. Phanishayee and M. Zaharia. (*NeurIPS Systems for ML Workshop 2018*)
   - Summary: They assume that their system, HiveMind, is given as input models grouped into model batches that are amenable to co-optimization and co-execution. a compiler, and a runtime.
 
-## Machine Learning System Papers (Training)
-- Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks. [[Paper]](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf) [[GitHub]](https://github.com/flexflow/FlexFlow)
-  - Zhihao Jia, Sina Lin, Charles R. Qi, and Alex Aiken. (*ICML 2018*)
-- Mesh-TensorFlow: Deep Learning for Supercomputers [[Paper]](https://arxiv.org/pdf/1811.02084.pdf) [[GitHub]](https://github.com/tensorflow/mesh)
-  - Shazeer, Noam, Youlong Cheng, Niki Parmar, Dustin Tran, et al. (*NIPS 2018*)
-  - Summary: Data parallelism for language model
-- PyTorch-BigGraph: A Large-scale Graph Embedding System [[Paper]](https://arxiv.org/pdf/1903.12287.pdf) [[GitHub]](https://github.com/facebookresearch/PyTorch-BigGraph)
-  - Lerer, Adam and Wu, Ledell and Shen, Jiajun and Lacroix, Timothee and Wehrstedt, Luca and Bose, Abhijit and Peysakhovich, Alex (*SysML 2019*)
-- Beyond data and model parallelism for deep neural networks [[Paper]](https://arxiv.org/pdf/1807.05358.pdf) [[GitHub]](https://github.com/jiazhihao/metaflow_sysml19)
-  - Jia, Zhihao, Matei Zaharia, and Alex Aiken. (*SysML 2019*)
-  - Summary: SOAP (sample, operation, attribution and parameter) parallelism. Operator graph, device topology and extution optimizer. MCMC search algorithm and excution simulator.
-- Device placement optimization with reinforcement learning [[Paper]](https://arxiv.org/pdf/1706.04972.pdf)
-  - Mirhoseini, Azalia, Hieu Pham, Quoc V. Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. (*ICML 17*)
-  - Summary: Using REINFORCE learn a device placement policy. Group operations to excute. Need a lot of GPUs.
-- Spotlight: Optimizing device placement for training deep neural networks  [[Paper]](http://proceedings.mlr.press/v80/gao18a/gao18a.pdf)
-  - Gao, Yuanxiang, Li Chen, and Baochun Li (*ICML 18*)
-- GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
-  - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
-  - Summary: 
-- Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
-  - Xiao, Wencong, et al. (*OSDI 2018*)
-  - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
-- Optimus: an efficient dynamic resource scheduler for deep learning clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
-  - Peng, Yanghua, et al. (*EuroSys 2018*)
-  - Summary: Job scheduling on clusters. Total complete time as the metric.
-
  
 ## Machine Learning Compiler
 
@@ -221,6 +222,7 @@ A curated list of research in machine learning system. Link to the code if avail
 ## AutoML System
 
 - Aut-sklearn: Automated Machine Learning with scikit-learn [[GitHub]](https://github.com/automl/auto-sklearn) [[Paper]](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
+- NNI: An open source AutoML toolkit for neural architecture search and hyper-parameter tuning [[GitHub]](https://github.com/Microsoft/nni)
     
 ## Deep Reinforcement Learning System
 
