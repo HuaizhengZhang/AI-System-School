@@ -197,6 +197,8 @@ A curated list of research in machine learning system. Link to the code if avail
   - Wang, Wei, Jinyang Gao, Meihui Zhang, Sheng Wang, Gang Chen, Teck Khim Ng, Beng Chin Ooi, Jie Shao, and Moaz Reyad.
   - Summary: Contain both training and inference. Auto-Hype-Parameter search for training. Ensemble models for inference. Using DRL to balance trade-off between accuracy and latency.
 - GraphPipe: Machine Learning Model Deployment Made Simple [[GitHub]](https://github.com/oracle/graphpipe)
+- Nexus: Nexus is a scalable and efficient serving system for DNN applications on GPU cluster. [[GitHub]](https://github.com/uwsampl/nexus)
+
 
 ## Machine Learning System Papers (Inference)
 
