@@ -245,7 +245,9 @@ A curated list of research in machine learning system. Link to the code if avail
   - Schaarschmidt, Michael, Sven Mika, Kai Fricke, and Eiko Yoneki. (*SysML 2019*)
   - Summary:
 
-## Video System papers
+## Video System
+
+- VidGear: Powerful Multi-Threaded OpenCV and FFmpeg based Turbo Video Processing Python Library with unique State-of-the-Art Features. [[GitHub]](https://github.com/abhiTronix/vidgear)
 
 - CaTDet: Cascaded Tracked Detector for Efficient Object Detection from Video [[Paper]](http://www.sysml.cc/doc/2019/111.pdf)
   - Mao, Huizi, Taeyoung Kong, and William J. Dally. (*SysML2019*)
