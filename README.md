@@ -31,7 +31,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [AutoML System](#automl-system)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
 - [Edge AI](#edge-or-mobile-papers)
-- [Video System](#video-system-papers)
+- [Video System](#video-system)
 
 #### AI for System
 - [Resource Management](#resource-management)
