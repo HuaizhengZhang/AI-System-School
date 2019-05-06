@@ -1,6 +1,9 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/stargazers/)
 
 
 # Awesome System for Machine Learning 
