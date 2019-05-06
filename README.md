@@ -101,6 +101,7 @@ A curated list of research in machine learning system. Link to the code if avail
   - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
 
 ## Userful Tools
+- PyTorch/cpuinfo: cpuinfo is a library to detect essential for performance optimization information about host CPU. [[GitHub]](https://github.com/pytorch/cpuinfo)
 - Pyflame: A Ptracing Profiler For Python [[GitHub]](https://github.com/uber/pyflame)
 - Netron: Visualizer for deep learning and machine learning models [[GitHub]](https://github.com/lutzroeder/netron)
 - Facebook/FBGEMM: FBGEMM (Facebook GEneral Matrix Multiplication) is a low-precision, high-performance matrix-matrix multiplications and convolution library for server-side inference. [[GitHub]](https://github.com/pytorch/FBGEMM)
