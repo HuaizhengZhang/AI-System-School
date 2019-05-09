@@ -171,14 +171,14 @@ A curated list of research in machine learning system. Link to the code if avail
 - Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
 [[GitHub]](https://github.com/uber/horovod)
 
-### Training(multi-jobs on cluster)
+### Training(Multi-jobs on cluster)
 - Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
   - Xiao, Wencong, et al. (*OSDI 2018*)
   - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
 - Optimus: an efficient dynamic resource scheduler for deep learning clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
   - Peng, Yanghua, et al. (*EuroSys 2018*)
   - Summary: Job scheduling on clusters. Total complete time as the metric.
-- Multi-tenant GPU clusters for deep learning workloads: Analysis and implications.
+- Multi-tenant GPU clusters for deep learning workloads: Analysis and implications. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf) [[wait dataset]]()
   - Jeon, Myeongjae, Shivaram Venkataraman, Junjie Qian, Amar Phanishayee, Wencong Xiao, and Fan Yang
 
 
