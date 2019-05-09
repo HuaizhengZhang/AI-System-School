@@ -147,6 +147,9 @@ A curated list of research in machine learning system. Link to the code if avail
   - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
   
 ## Machine Learning System Papers (Training)
+
+
+### Training(Parallelism)
 - Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks. [[Paper]](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf) [[GitHub]](https://github.com/flexflow/FlexFlow)
   - Zhihao Jia, Sina Lin, Charles R. Qi, and Alex Aiken. (*ICML 2018*)
 - Mesh-TensorFlow: Deep Learning for Supercomputers [[Paper]](https://arxiv.org/pdf/1811.02084.pdf) [[GitHub]](https://github.com/tensorflow/mesh)
@@ -165,14 +168,18 @@ A curated list of research in machine learning system. Link to the code if avail
 - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
   - Summary: 
+- Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
+[[GitHub]](https://github.com/uber/horovod)
+
+### Training(multi-jobs on cluster)
 - Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
   - Xiao, Wencong, et al. (*OSDI 2018*)
   - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
 - Optimus: an efficient dynamic resource scheduler for deep learning clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
   - Peng, Yanghua, et al. (*EuroSys 2018*)
   - Summary: Job scheduling on clusters. Total complete time as the metric.
-- Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
-[[GitHub]](https://github.com/uber/horovod)
+- Multi-tenant GPU clusters for deep learning workloads: Analysis and implications.
+  - Jeon, Myeongjae, Shivaram Venkataraman, Junjie Qian, Amar Phanishayee, Wencong Xiao, and Fan Yang
 
 
 ## Model Serving
