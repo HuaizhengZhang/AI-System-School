@@ -187,6 +187,7 @@ A curated list of research in machine learning system. Link to the code if avail
   - Summary: Job scheduling on clusters. Total complete time as the metric.
 - Multi-tenant GPU clusters for deep learning workloads: Analysis and implications. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf) [[wait dataset]]()
   - Jeon, Myeongjae, Shivaram Venkataraman, Junjie Qian, Amar Phanishayee, Wencong Xiao, and Fan Yang
+- Slurm: A Highly Scalable Workload Manager [[GitHub]](https://github.com/SchedMD/slurm)
 
 
 ## Model Serving
