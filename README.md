@@ -112,8 +112,10 @@ A curated list of research in machine learning system. Link to the code if avail
 - Popular Network memory consumption and FLOP counts [[GitHub]](https://github.com/albanie/convnet-burden)
 - Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
   - Stop guessing why software is slow. Advanced sampling and profiling techniques quickly analyze your code, isolate issues, and deliver insights for optimizing performance on modern processors
-
 - Pyflame: A Ptracing Profiler For Python [[GitHub]](https://github.com/uber/pyflame)
+
+### Others
+- Facebook AI Performance Evaluation Platform [[GitHub]](https://github.com/facebook/FAI-PEP)
 - Netron: Visualizer for deep learning and machine learning models [[GitHub]](https://github.com/lutzroeder/netron)
 - Facebook/FBGEMM: FBGEMM (Facebook GEneral Matrix Multiplication) is a low-precision, high-performance matrix-matrix multiplications and convolution library for server-side inference. [[GitHub]](https://github.com/pytorch/FBGEMM)
 - Dslabs: Distributed Systems Labs and Framework for UW system course [[GitHub]](https://github.com/emichael/dslabs)
