@@ -54,7 +54,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Computer Architecture: A Quantitative Approach [[Must read]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.1881&rep=rep1&type=pdf)
 - Streaming Systems [[Book]](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - Kubernetes in Action (start to read) [[Book]](https://www.oreilly.com/library/view/kubernetes-in-action/9781617293726/)
-- Machine Learning Systems: Designs that scale(https://www.manning.com/books/machine-learning-systems)
+- Machine Learning Systems: Designs that scale [[Website]](https://www.manning.com/books/machine-learning-systems)
 
 ## Video
 - InfoQ: AI, ML and Data Engineering [[YouTube]](https://www.youtube.com/playlist?list=PLndbWGuLoHeYsZk6VpCEj_SSd9IFgjJ-2)
@@ -76,7 +76,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - CSci 8980: Machine Learning in Computer Systems [[University of Minnesota, Twin Cities]](http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/)
 
 ## Blog
-
+- Model Serving in PyTorch [[Blog]](https://pytorch.org/blog/model-serving-in-pyorch/)
 - Machine learning in Netflix [[Medium]](https://medium.com/@NetflixTechBlog)
 - SciPy Conference Materials (slides, repo) [[GitHub]](https://github.com/deniederhut/Slides-SciPyConf-2018)
 - 继Spark之后，UC Berkeley 推出新一代AI计算引擎——Ray [[Blog]](http://www.qtmuniao.com/2019/04/06/ray/)
