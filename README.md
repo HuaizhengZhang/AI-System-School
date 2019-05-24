@@ -76,6 +76,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - CSci 8980: Machine Learning in Computer Systems [[University of Minnesota, Twin Cities]](http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/)
 
 ## Blog
+- Architecting a Machine Learning Pipeline [[Blog]](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 - Model Serving in PyTorch [[Blog]](https://pytorch.org/blog/model-serving-in-pyorch/)
 - Machine learning in Netflix [[Medium]](https://medium.com/@NetflixTechBlog)
 - SciPy Conference Materials (slides, repo) [[GitHub]](https://github.com/deniederhut/Slides-SciPyConf-2018)
