@@ -75,6 +75,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - CSE 599W: System for ML.  [[Chen Tianqi]](https://github.com/tqchen) [[University of Washington]](http://dlsys.cs.washington.edu/)
 - CSE 291F: Advanced Data Analytics and ML Systems. [[UCSD]](http://cseweb.ucsd.edu/classes/wi19/cse291-f/)
 - CSci 8980: Machine Learning in Computer Systems [[University of Minnesota, Twin Cities]](http://www-users.cselabs.umn.edu/classes/Spring-2019/csci8980/)
+- Mu Li (MxNet, Parameter Server): Introduction to Deep Learning [[Better DL Course I think]] (https://courses.d2l.ai/berkeley-stat-157/index.html) [[Book]](https://www.d2l.ai/)
 
 ## Blog
 - Architecting a Machine Learning Pipeline [[Blog]](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
