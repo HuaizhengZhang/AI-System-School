@@ -31,6 +31,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Distributed Training](#machine-learning-system-papers-training)
 - [Model Serving](#model-serving)
 - [Inference Optimization](#machine-learning-system-papers-inference)
+- [Machine learning infrastructure](#machine-learning-infrastructure)
 - [Machine Learning Compiler](#machine-learning-compiler)
 - [AutoML System](#automl-system)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
@@ -239,7 +240,6 @@ A curated list of research in machine learning system. Link to the code if avail
   - D. Narayanan, K. Santhanam, A. Phanishayee and M. Zaharia. (*NeurIPS Systems for ML Workshop 2018*)
   - Summary: They assume that their system, HiveMind, is given as input models grouped into model batches that are amenable to co-optimization and co-execution. a compiler, and a runtime.
 
- 
 ## Machine Learning Compiler
 
 - TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
@@ -249,6 +249,12 @@ A curated list of research in machine learning system. Link to the code if avail
 - Facebook TC: Tensor Comprehensions (TC) is a fully-functional C++ library to automatically synthesize high-performance machine learning kernels using Halide, ISL and NVRTC or LLVM. [[GitHub]](https://github.com/facebookresearch/TensorComprehensions)
 - Tensorflow/mlir: "Multi-Level Intermediate Representation" Compiler Infrastructure [[GitHub]](https://github.com/tensorflow/mlir) [[Video]](https://www.youtube.com/watch?v=qzljG6DKgic)
 - PyTorch/glow： Compiler for Neural Network hardware accelerators [[GitHub]](https://github.com/pytorch/glow)
+
+## Machine Learning Infrastructure
+
+- cortexlabs/cortex: Deploy machine learning applications without worrying about setting up infrastructure, managing dependencies, or orchestrating data pipelines. [[GitHub]](https://github.com/cortexlabs/cortex)
+
+
 
 ## AutoML System
 - Taking human out of learning applications: A survey on automated machine learning. [[Must Read Survey]](https://arxiv.org/pdf/1810.13306.pdf)
