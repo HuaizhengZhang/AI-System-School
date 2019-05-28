@@ -78,7 +78,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Mu Li (MxNet, Parameter Server): Introduction to Deep Learning [[Best DL Course I think]](https://courses.d2l.ai/berkeley-stat-157/index.html)  [[Book]](https://www.d2l.ai/)
 
 ## Blog
-- Architecting a Machine Learning Pipeline [[Blog]](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
+- Architecting a Machine Learning Pipeline [[Part1]](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)[[Part2]](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 - Model Serving in PyTorch [[Blog]](https://pytorch.org/blog/model-serving-in-pyorch/)
 - Machine learning in Netflix [[Medium]](https://medium.com/@NetflixTechBlog)
 - SciPy Conference Materials (slides, repo) [[GitHub]](https://github.com/deniederhut/Slides-SciPyConf-2018)
