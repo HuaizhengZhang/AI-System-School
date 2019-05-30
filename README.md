@@ -288,6 +288,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - TensorStream: A library for real-time video stream decoding to CUDA memory [[GitHub]](https://github.com/Fonbet/argus-tensor-stream)
 - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) [[GitHub]](https://github.com/ermig1979/Simd)
 - Pretrained image and video models for Pytorch. [[GitHub]](https://github.com/alexandonian/pretorched-x)
+- LiveDetect - Live video client to DeepDetect. [[GitHub]](https://github.com/jolibrain/livedetect)
 
 ### Papers
 - CaTDet: Cascaded Tracked Detector for Efficient Object Detection from Video [[Paper]](http://www.sysml.cc/doc/2019/111.pdf)
