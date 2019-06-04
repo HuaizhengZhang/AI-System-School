@@ -288,7 +288,7 @@ A curated list of research in machine learning system. Link to the code if avail
 ## Video System
 
 ### Tools
-- VideoFlow: Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. [[GitHub]] (https://github.com/videoflow/videoflow)
+- VideoFlow: Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. [[GitHub]](https://github.com/videoflow/videoflow)
 - VidGear: Powerful Multi-Threaded OpenCV and FFmpeg based Turbo Video Processing Python Library with unique State-of-the-Art Features. [[GitHub]](https://github.com/abhiTronix/vidgear)
 - NVIDIA DALI: A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications [[GitHub]](https://github.com/NVIDIA/DALI)
 - TensorStream: A library for real-time video stream decoding to CUDA memory [[GitHub]](https://github.com/Fonbet/argus-tensor-stream)
