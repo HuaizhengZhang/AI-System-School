@@ -143,6 +143,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 
 ## Project
+- iterative/dvc: Data & models versioning for ML projects, make them shareable and reproducible [[GitHub]](https://github.com/iterative/dvc)
 - Machine Learning for .NET [[GitHub]](https://github.com/dotnet/machinelearning)
   - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
   - ML.NET allows .NET developers to develop their own models and infuse custom machine learning into their applications, using .NET, even without prior expertise in developing or tuning machine learning models.
