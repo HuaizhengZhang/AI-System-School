@@ -79,6 +79,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Mu Li (MxNet, Parameter Server): Introduction to Deep Learning [[Best DL Course I think]](https://courses.d2l.ai/berkeley-stat-157/index.html)  [[Book]](https://www.d2l.ai/)
 
 ## Blog
+- Polyaxon, Argo and Seldon for Model Training, Package and Deployment in Kubernetes [[Blog]](https://medium.com/analytics-vidhya/polyaxon-argo-and-seldon-for-model-training-package-and-deployment-in-kubernetes-fa089ba7d60b)
 - Overview of the different approaches to putting Machine Learning (ML) models in production [[Blog]](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
 - Architecting a Machine Learning Pipeline [[Part1]](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)[[Part2]](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 - Model Serving in PyTorch [[Blog]](https://pytorch.org/blog/model-serving-in-pyorch/)
