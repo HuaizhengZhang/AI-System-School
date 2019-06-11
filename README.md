@@ -159,7 +159,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
 - Kubeflow: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable. [[GitHub]](https://github.com/kubeflow/pipelines)
 
-## Data Prcocessing
+## Data Processing
 - Kedro is a workflow development tool that helps you build data pipelines that are robust, scalable, deployable, reproducible and versioned. [[GitHub]](https://github.com/quantumblacklabs/kedro)
 - Google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more [[GitHub]](https://github.com/google/jax)
 - CuPy: NumPy-like API accelerated with CUDA [[GitHub]](https://github.com/cupy/cupy)
@@ -270,6 +270,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Taking human out of learning applications: A survey on automated machine learning. [[Must Read Survey]](https://arxiv.org/pdf/1810.13306.pdf)
   - Quanming, Y., Mengshuo, W., Hugo, J.E., Isabelle, G., Yi-Qi, H., Yu-Feng, L., Wei-Wei, T., Qiang, Y. and Yang, Y.
 - Aut-sklearn: Automated Machine Learning with scikit-learn [[GitHub]](https://github.com/automl/auto-sklearn) [[Paper]](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
+- Katib: A Distributed General AutoML Platform on Kubernetes [[GitHub]](https://github.com/kubeflow/katib/) [[Paper]](https://www.usenix.org/system/files/opml19papers-zhou.pdf)
 - NNI: An open source AutoML toolkit for neural architecture search and hyper-parameter tuning [[GitHub]](https://github.com/Microsoft/nni)
 - AutoKeras: Accessible AutoML for deep learning. [[GitHub]](https://github.com/keras-team/autokeras)
 - Facebook/Ax: Adaptive experimentation is the machine-learning guided process of iteratively exploring a (possibly infinite) parameter space in order to identify optimal configurations in a resource-efficient manner. [[GitHub]](https://github.com/facebook/Ax)
