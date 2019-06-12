@@ -160,6 +160,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework. [[Facebook Project]](https://osquery.io/)
 - Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
 - Kubeflow: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable. [[GitHub]](https://github.com/kubeflow/pipelines)
+- Polytaxon: A platform for reproducible and scalable machine learning and deep learning on kubernetes. [[GitHub]](https://github.com/polyaxon/polyaxon)
 
 ## Data Processing
 - Kedro is a workflow development tool that helps you build data pipelines that are robust, scalable, deployable, reproducible and versioned. [[GitHub]](https://github.com/quantumblacklabs/kedro)
