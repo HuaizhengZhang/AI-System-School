@@ -91,6 +91,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Survey
 
+- Survey on End-To-End Machine Learning Automation [[Paper]](https://arxiv.org/pdf/1906.02287.pdf) [[GitHub]](https://github.com/DataSystemsGroupUT/AutoML_Survey)
 - Opportunities and Challenges Of Machine Learning Accelerators In Production [[Paper]](https://www.usenix.org/system/files/opml19papers-ananthanarayanan.pdf)
   - Ananthanarayanan, Rajagopal, et al. "
   - 2019 {USENIX} Conference on Operational Machine Learning (OpML 19). 2019.
