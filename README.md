@@ -245,6 +245,7 @@ Class materials for a distributed systems lecture series [[GitHub]](https://gith
 - Deepcpu: Serving rnn-based deep learning models 10x faster. [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
    - Zhang, M., Rajbhandari, S., Wang, W. and He, Y., 2018. (*ATC2018*)
 - Orkhon: ML Inference Framework and Server Runtime [[GitHub]](https://github.com/vertexclique/orkhon)
+- NVIDIA/tensorrt-inference-server: The TensorRT Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs. [[GitHub]](https://github.com/NVIDIA/tensorrt-inference-server)
 
 
 ## Machine Learning System Papers (Inference)
