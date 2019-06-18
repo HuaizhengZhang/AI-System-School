@@ -249,6 +249,7 @@ Class materials for a distributed systems lecture series [[GitHub]](https://gith
 
 ## Machine Learning System Papers (Inference)
 
+- TensorRT is a C++ library that facilitates high performance inference on NVIDIA GPUs and deep learning accelerators. [[GitHub]](https://github.com/NVIDIA/TensorRT)
 - Dynamic Space-Time Scheduling for GPU Inference [[Paper]](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf)
   - Jain, Paras, et al. (*NIPS 18, System for ML*)
   - Summary: 
