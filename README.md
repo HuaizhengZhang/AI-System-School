@@ -242,7 +242,7 @@ Class materials for a distributed systems lecture series [[GitHub]](https://gith
   - Wang, Wei, Jinyang Gao, Meihui Zhang, Sheng Wang, Gang Chen, Teck Khim Ng, Beng Chin Ooi, Jie Shao, and Moaz Reyad.
   - Summary: Contain both training and inference. Auto-Hype-Parameter search for training. Ensemble models for inference. Using DRL to balance trade-off between accuracy and latency.
 - GraphPipe: Machine Learning Model Deployment Made Simple [[GitHub]](https://github.com/oracle/graphpipe)
-- Nexus: Nexus is a scalable and efficient serving system for DNN applications on GPU cluster. [[GitHub]](https://github.com/uwsampl/nexus)
+- Nexus: Nexus is a scalable and efficient serving system for DNN applications on GPU cluster. [[Paper]](https://pdfs.semanticscholar.org/0c0f/353dbac84311ea4f1485d4a8ac0b0459be8c.pdf) [[GitHub]](https://github.com/uwsampl/nexus)
 - Deepcpu: Serving rnn-based deep learning models 10x faster. [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
    - Zhang, M., Rajbhandari, S., Wang, W. and He, Y., 2018. (*ATC2018*)
 - Orkhon: ML Inference Framework and Server Runtime [[GitHub]](https://github.com/vertexclique/orkhon)
