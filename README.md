@@ -82,7 +82,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Mu Li (MxNet, Parameter Server): Introduction to Deep Learning [[Best DL Course I think]](https://courses.d2l.ai/berkeley-stat-157/index.html)  [[Book]](https://www.d2l.ai/)
 
 ## Blog
-- The Deep Learning Toolset — An Overview [Blog](https://medium.com/luminovo/the-deep-learning-toolset-an-overview-b71756016c06)
+- The Deep Learning Toolset — An Overview [[Blog]](https://medium.com/luminovo/the-deep-learning-toolset-an-overview-b71756016c06)
 - Summary of CSE 599W: Systems for ML [[Chinese Blog]](http://jcf94.com/2018/10/04/2018-10-04-cse559w/)
 - Polyaxon, Argo and Seldon for Model Training, Package and Deployment in Kubernetes [[Blog]](https://medium.com/analytics-vidhya/polyaxon-argo-and-seldon-for-model-training-package-and-deployment-in-kubernetes-fa089ba7d60b)
 - Overview of the different approaches to putting Machine Learning (ML) models in production [[Blog]](https://medium.com/analytics-and-data/overview-of-the-different-approaches-to-putting-machinelearning-ml-models-in-production-c699b34abf86)
@@ -175,9 +175,9 @@ A curated list of research in machine learning system. Link to the code if avail
   
 ## Machine Learning System Papers (Training)
 
-Class materials for a distributed systems lecture series [[GitHub]](https://github.com/aphyr/distsys-class)
+- Class materials for a distributed systems lecture series [[GitHub]](https://github.com/aphyr/distsys-class)
 
-bytedance/byteps: A high performance and general PS framework for distributed training [[GitHub]](https://github.com/bytedance/byteps)
+- bytedance/byteps: A high performance and general PS framework for distributed training [[GitHub]](https://github.com/bytedance/byteps)
 
 ### Training(Parallelism)
 - Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks. [[Paper]](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf) [[GitHub]](https://github.com/flexflow/FlexFlow)
