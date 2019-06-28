@@ -177,6 +177,8 @@ A curated list of research in machine learning system. Link to the code if avail
 
 Class materials for a distributed systems lecture series [[GitHub]](https://github.com/aphyr/distsys-class)
 
+bytedance/byteps: A high performance and general PS framework for distributed training [[GitHub]](https://github.com/bytedance/byteps)
+
 ### Training(Parallelism)
 - Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks. [[Paper]](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf) [[GitHub]](https://github.com/flexflow/FlexFlow)
   - Zhihao Jia, Sina Lin, Charles R. Qi, and Alex Aiken. (*ICML 2018*)
