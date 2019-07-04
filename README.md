@@ -60,6 +60,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Video
 
+- ICML Keynote: Lessons Learned from Helping 200,000 non-ML experts use ML [[Video]](https://slideslive.com/38916584/keynote-lessons-learned-from-helping-200000-nonml-experts-use-ml)
 - Adaptive & Multitask Learning Systems [[Website]](https://www.amtl-workshop.org/schedule)
 - System thinking. A TED talk. [[YouTube]](https://www.youtube.com/watch?v=_vS_b7cJn2A)
 - Flexible systems are the next frontier of machine learning. Jeff Dean [[YouTube]](https://www.youtube.com/watch?v=Jnunp-EymJQ&list=WL&index=12)
