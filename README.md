@@ -17,11 +17,11 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Table of Contents
 ### Resources
+- [Survey](#survey)
 - [Book](#book)
 - [Video](#video)
 - [Course](#course)
 - [Blog](#blog)
-- [Survey](#survey)
 - [Tool](#userful-tools)
 - [Project with code](#project)
 ### Papers
@@ -50,6 +50,32 @@ A curated list of research in machine learning system. Link to the code if avail
   - Author (*conference(journal) year*)
   - Summary: 
 ```
+
+## Survey
+
+- Survey on End-To-End Machine Learning Automation [[Paper]](https://arxiv.org/pdf/1906.02287.pdf) [[GitHub]](https://github.com/DataSystemsGroupUT/AutoML_Survey)
+- Opportunities and Challenges Of Machine Learning Accelerators In Production [[Paper]](https://www.usenix.org/system/files/opml19papers-ananthanarayanan.pdf)
+  - Ananthanarayanan, Rajagopal, et al. "
+  - 2019 {USENIX} Conference on Operational Machine Learning (OpML 19). 2019.
+- Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools [[Paper]](https://arxiv.org/pdf/1903.11314.pdf)
+  - RUBEN MAYER, HANS-ARNO JACOBSEN
+  - Summary:
+- How (and How Not) to Write a Good Systems Paper [[Advice]](https://www.usenix.org/legacy/events/samples/submit/advice_old.html)
+- Applied machine learning at Facebook: a datacenter infrastructure perspective [[Paper]](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
+  - Hazelwood, Kim, et al. (*HPCA 2018*)
+- Infrastructure for Usable Machine Learning: The Stanford DAWN Project
+  - Bailis, Peter, Kunle Olukotun, Christopher Ré, and Matei Zaharia. (*preprint 2017*)
+- Hidden technical debt in machine learning systems [[Paper]](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+  - Sculley, David, et al. (*NIPS 2015*)
+  - Summary: 
+- End-to-end arguments in system design [[Paper]](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+  - Saltzer, Jerome H., David P. Reed, and David D. Clark. 
+- System Design for Large Scale Machine Learning [[Thesis]](http://shivaram.org/publications/shivaram-dissertation.pdf)
+- Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications [[Paper]](https://arxiv.org/pdf/1811.09886.pdf)
+  - Park, Jongsoo, Maxim Naumov, Protonu Basu et al. *arXiv 2018*
+  - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
+- A Berkeley View of Systems Challenges for AI [[Paper]](https://arxiv.org/pdf/1712.05855.pdf)
+
 
 ## Book
 
@@ -100,31 +126,6 @@ A curated list of research in machine learning system. Link to the code if avail
 - data-engineer-roadmap: Learning from multiple companies in Silicon Valley. Netflix, Facebook, Google, Startups [[GitHub]](https://github.com/hasbrain/data-engineer-roadmap)
 - TensorFlow Serving + Docker + Tornado机器学习模型生产级快速部署 [[Blog]](https://zhuanlan.zhihu.com/p/52096200?utm_source=wechat_session&utm_medium=social&utm_oi=38612796178432)
 - Deploying a Machine Learning Model as a REST API [[Blog]](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
-
-## Survey
-
-- Survey on End-To-End Machine Learning Automation [[Paper]](https://arxiv.org/pdf/1906.02287.pdf) [[GitHub]](https://github.com/DataSystemsGroupUT/AutoML_Survey)
-- Opportunities and Challenges Of Machine Learning Accelerators In Production [[Paper]](https://www.usenix.org/system/files/opml19papers-ananthanarayanan.pdf)
-  - Ananthanarayanan, Rajagopal, et al. "
-  - 2019 {USENIX} Conference on Operational Machine Learning (OpML 19). 2019.
-- Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools [[Paper]](https://arxiv.org/pdf/1903.11314.pdf)
-  - RUBEN MAYER, HANS-ARNO JACOBSEN
-  - Summary:
-- How (and How Not) to Write a Good Systems Paper [[Advice]](https://www.usenix.org/legacy/events/samples/submit/advice_old.html)
-- Applied machine learning at Facebook: a datacenter infrastructure perspective [[Paper]](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
-  - Hazelwood, Kim, et al. (*HPCA 2018*)
-- Infrastructure for Usable Machine Learning: The Stanford DAWN Project
-  - Bailis, Peter, Kunle Olukotun, Christopher Ré, and Matei Zaharia. (*preprint 2017*)
-- Hidden technical debt in machine learning systems [[Paper]](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
-  - Sculley, David, et al. (*NIPS 2015*)
-  - Summary: 
-- End-to-end arguments in system design [[Paper]](http://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
-  - Saltzer, Jerome H., David P. Reed, and David D. Clark. 
-- System Design for Large Scale Machine Learning [[Thesis]](http://shivaram.org/publications/shivaram-dissertation.pdf)
-- Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications [[Paper]](https://arxiv.org/pdf/1811.09886.pdf)
-  - Park, Jongsoo, Maxim Naumov, Protonu Basu et al. *arXiv 2018*
-  - Summary: This paper presents a characterizations of DL models and then shows the new design principle of DL hardware.
-- A Berkeley View of Systems Challenges for AI [[Paper]](https://arxiv.org/pdf/1712.05855.pdf)
 
 ## Userful Tools
 
