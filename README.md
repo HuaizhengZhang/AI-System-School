@@ -275,7 +275,10 @@ A curated list of research in machine learning system. Link to the code if avail
 - Accelerating Deep Learning Workloads through Efficient Multi-Model Execution. [[Paper]](https://cs.stanford.edu/~matei/papers/2018/mlsys_hivemind.pdf)
   - D. Narayanan, K. Santhanam, A. Phanishayee and M. Zaharia. (*NeurIPS Systems for ML Workshop 2018*)
   - Summary: They assume that their system, HiveMind, is given as input models grouped into model batches that are amenable to co-optimization and co-execution. a compiler, and a runtime.
-
+- DeepCPU: Serving RNN-based Deep Learning Models 10x Faster [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
+  - Minjia Zhang, Samyam Rajbhandari, Wenhan Wang, and Yuxiong He, Microsoft AI and Research (*ATC 2018*)
+  
+  
 ## Machine Learning Compiler
 
 - TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
