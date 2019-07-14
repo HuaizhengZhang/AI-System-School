@@ -291,7 +291,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - PyTorch/glow： Compiler for Neural Network hardware accelerators [[GitHub]](https://github.com/pytorch/glow)
 
 ## Machine Learning Infrastructure
-
+- AI infrastructures list [[GitHub]](https://github.com/1duo/awesome-ai-infrastructures)
 - cortexlabs/cortex: Deploy machine learning applications without worrying about setting up infrastructure, managing dependencies, or orchestrating data pipelines. [[GitHub]](https://github.com/cortexlabs/cortex)
 - Osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework. [[Facebook Project]](https://osquery.io/)
 - Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
