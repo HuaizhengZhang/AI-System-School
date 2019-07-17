@@ -222,7 +222,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Optimus: an efficient dynamic resource scheduler for deep learning clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
   - Peng, Yanghua, et al. (*EuroSys 2018*)
   - Summary: Job scheduling on clusters. Total complete time as the metric.
-- Multi-tenant GPU clusters for deep learning workloads: Analysis and implications. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf) [[wait dataset]]()
+- Multi-tenant GPU clusters for deep learning workloads: Analysis and implications. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf) [[dataset]](https://github.com/msr-fiddle/philly-traces)
   - Jeon, Myeongjae, Shivaram Venkataraman, Junjie Qian, Amar Phanishayee, Wencong Xiao, and Fan Yang
 - Slurm: A Highly Scalable Workload Manager [[GitHub]](https://github.com/SchedMD/slurm)
 
