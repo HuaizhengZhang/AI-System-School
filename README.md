@@ -338,6 +338,9 @@ A curated list of research in machine learning system. Link to the code if avail
 - LiveDetect - Live video client to DeepDetect. [[GitHub]](https://github.com/jolibrain/livedetect)
 
 ### Papers
+
+- Visual Road: A Video Data Management Benchmark [[Project Website]](http://db.cs.washington.edu/projects/visualroad/)
+  - Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung (*SIGMOD 2019*)
 - CaTDet: Cascaded Tracked Detector for Efficient Object Detection from Video [[Paper]](http://www.sysml.cc/doc/2019/111.pdf)
   - Mao, Huizi, Taeyoung Kong, and William J. Dally. (*SysML2019*)
 - Live Video Analytics at Scale with Approximation and Delay-Tolerance [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/02/videostorm_nsdi17.pdf)
