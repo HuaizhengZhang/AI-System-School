@@ -298,6 +298,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
 - Kubeflow: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable. [[GitHub]](https://github.com/kubeflow/pipelines)
 - Polytaxon: A platform for reproducible and scalable machine learning and deep learning on kubernetes. [[GitHub]](https://github.com/polyaxon/polyaxon)
+- MLOps on Azure [[GitHub]](https://github.com/microsoft/MLOps)
 
 
 ## AutoML System
