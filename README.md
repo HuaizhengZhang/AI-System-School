@@ -32,7 +32,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Model Database](#model-database-experiment-version-control)
 - [Model Serving](#model-serving)
 - [Inference Optimization](#machine-learning-system-papers-inference)
-- [Machine learning infrastructure](#machine-learning-infrastructure)
+- [Machine Learning Infrastructure](#machine-learning-infrastructure)
 - [Machine Learning Compiler](#machine-learning-compiler)
 - [AutoML System](#automl-system)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
@@ -53,6 +53,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Survey
 
+- awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning [[GitHub]](https://github.com/EthicalML/awesome-production-machine-learning)
 - Survey on End-To-End Machine Learning Automation [[Paper]](https://arxiv.org/pdf/1906.02287.pdf) [[GitHub]](https://github.com/DataSystemsGroupUT/AutoML_Survey)
 - Opportunities and Challenges Of Machine Learning Accelerators In Production [[Paper]](https://www.usenix.org/system/files/opml19papers-ananthanarayanan.pdf)
   - Ananthanarayanan, Rajagopal, et al. "
