@@ -266,6 +266,7 @@ A curated list of research in machine learning system. Link to the code if avail
    - Zhang, M., Rajbhandari, S., Wang, W. and He, Y., 2018. (*ATC2018*)
 - Orkhon: ML Inference Framework and Server Runtime [[GitHub]](https://github.com/vertexclique/orkhon)
 - NVIDIA/tensorrt-inference-server: The TensorRT Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs. [[GitHub]](https://github.com/NVIDIA/tensorrt-inference-server)
+- Apache PredictionIO® is an open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task [[Website]](http://predictionio.apache.org/)
 
 
 ## Machine Learning System Papers (Inference)
