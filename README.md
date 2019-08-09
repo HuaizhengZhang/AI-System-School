@@ -187,8 +187,8 @@ A curated list of research in machine learning system. Link to the code if avail
 - Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines [[Project Website]](http://halide-lang.org/)
   - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe. (*PLDI 2013*)
   - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
-a-mma/AquilaDB: Resilient, Replicated, Decentralized, Host neutral vector database to store Feature Vectors along with JSON Metadata. Do similarity search from anywhere, even from the darkest rifts of Aquila. Production ready solution for Machine Learning engineers and Data scientists. [[GitHub]](https://github.com/a-mma/AquilaDB)
-  
+- a-mma/AquilaDB: Resilient, Replicated, Decentralized, Host neutral vector database to store Feature Vectors along with JSON Metadata. Do similarity search from anywhere, even from the darkest rifts of Aquila. Production ready solution for Machine Learning engineers and Data scientists. [[GitHub]](https://github.com/a-mma/AquilaDB)
+- ShannonAI/service-streamer: Boosting your Web Services of Deep Learning Applications. [[GitHub]](https://github.com/ShannonAI/service-streamer)
 
 ## Machine Learning System Papers (Training)
 
