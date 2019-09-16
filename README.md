@@ -257,7 +257,7 @@ A curated list of research in machine learning system. Link to the code if avail
 [[GitHub]](https://github.com/ucbrise/clipper)
   - Crankshaw, Daniel, et al. (*NSDI 2017*)
   - Summary: Adaptive batch 
-- InferLine: ML Inference Pipeline Composition Framework [[Paper]](https://arxiv.org/pdf/1812.01776.pdf)
+- InferLine: ML Inference Pipeline Composition Framework [[Paper]](https://arxiv.org/pdf/1812.01776.pdf) [[GitHub]](https://github.com/simon-mo/inferline-models)
   - Crankshaw, Daniel, et al. (*Preprint*)
   - Summary: update version of Clipper
 - TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments [[Paper]](https://arxiv.org/pdf/1811.09732.pdf)
