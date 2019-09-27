@@ -327,7 +327,13 @@ A curated list of research in machine learning system. Link to the code if avail
 - AutoKeras: Accessible AutoML for deep learning. [[GitHub]](https://github.com/keras-team/autokeras)
 - Facebook/Ax: Adaptive experimentation is the machine-learning guided process of iteratively exploring a (possibly infinite) parameter space in order to identify optimal configurations in a resource-efficient manner. [[GitHub]](https://github.com/facebook/Ax)
 - DeepSwarm: DeepSwarm is an open-source library which uses Ant Colony Optimization to tackle the neural architecture search problem. [[GitHub]](https://github.com/Pattio/DeepSwarm)
-- Google/AdaNet: AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert. Importantly, AdaNet provides a general framework for not only learning a neural network architecture, but also for learning to ensemble to obtain even better models. [[GitHub]](https://github.com/tensorflow/adanet) 
+- Google/AdaNet: AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert. Importantly, AdaNet provides a general framework for not only learning a neural network architecture, but also for learning to ensemble to obtain even better models. [[GitHub]](https://github.com/tensorflow/adanet)
+
+### Auto Model Selection
+
+- Automating model search for large scale machine learning. 
+  - Sparks, E.R., Talwalkar, A., Haas, D., Franklin, M.J., Jordan, M.I. and Kraska, T., 2015, August.
+  - In Proceedings of the Sixth ACM Symposium on Cloud Computing (pp. 368-380). ACM.
     
 ## Deep Reinforcement Learning System
 
