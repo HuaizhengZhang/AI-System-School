@@ -142,7 +142,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Userful Tools
 
-### Profile
+#### Profile
 - NetworKit is a growing open-source toolkit for large-scale network analysis. [[GitHub]](https://github.com/kit-parco/networkit)
 - gpu-sentry: Flask-based package for monitoring utilisation of nVidia GPUs. [[GitHub]](https://github.com/jacenkow/gpu-sentry)
 - anderskm/gputil: A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python [[GitHub]](https://github.com/anderskm/gputil)
@@ -155,7 +155,7 @@ A curated list of research in machine learning system. Link to the code if avail
   - Stop guessing why software is slow. Advanced sampling and profiling techniques quickly analyze your code, isolate issues, and deliver insights for optimizing performance on modern processors
 - Pyflame: A Ptracing Profiler For Python [[GitHub]](https://github.com/uber/pyflame)
 
-### Others
+#### Others
 - Facebook AI Performance Evaluation Platform [[GitHub]](https://github.com/facebook/FAI-PEP)
 - Netron: Visualizer for deep learning and machine learning models [[GitHub]](https://github.com/lutzroeder/netron)
 - Facebook/FBGEMM: FBGEMM (Facebook GEneral Matrix Multiplication) is a low-precision, high-performance matrix-matrix multiplications and convolution library for server-side inference. [[GitHub]](https://github.com/pytorch/FBGEMM)
@@ -203,7 +203,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 - bytedance/byteps: A high performance and general PS framework for distributed training [[GitHub]](https://github.com/bytedance/byteps)
 
-### Training(Parallelism)
+#### Training(Parallelism)
 - Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks. [[Paper]](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf) [[GitHub]](https://github.com/flexflow/FlexFlow)
   - Zhihao Jia, Sina Lin, Charles R. Qi, and Alex Aiken. (*ICML 2018*)
 - Mesh-TensorFlow: Deep Learning for Supercomputers [[Paper]](https://arxiv.org/pdf/1811.02084.pdf) [[GitHub]](https://github.com/tensorflow/mesh)
@@ -226,7 +226,7 @@ A curated list of research in machine learning system. Link to the code if avail
 [[GitHub]](https://github.com/uber/horovod)
 - Distributed machine learning infrastructure for large-scale robotics research [[GitHub]](https://github.com/google-research/tensor2robot) [[Blog]](https://ai.google/research/teams/brain/robotics/)
 
-### Training(Multi-jobs on cluster)
+#### Training(Multi-jobs on cluster)
 - Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
   - Xiao, Wencong, et al. (*OSDI 2018*)
   - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
@@ -317,10 +317,15 @@ A curated list of research in machine learning system. Link to the code if avail
 - intel-analytics/analytics-zoo Distributed Tensorflow, Keras and BigDL on Apache Spark [[GitHub]](https://github.com/intel-analytics/analytics-zoo)
 
 ## AutoML System
-- Google vizier: A service for black-box optimization. [[Paper]](https://ai.google/research/pubs/pub46180.pdf) [[GitHub]](https://github.com/tobegit3hub/advisor)
-  - Golovin, Daniel, et al. (*SIGMOD 2017*)
+
+#### Survey
+- A curated list of automated machine learning papers, articles, tutorials, slides and projects [[GitHub]](https://github.com/hibayesian/awesome-automl-papers)
 - Taking human out of learning applications: A survey on automated machine learning. [[Must Read Survey]](https://arxiv.org/pdf/1810.13306.pdf)
   - Quanming, Y., Mengshuo, W., Hugo, J.E., Isabelle, G., Yi-Qi, H., Yu-Feng, L., Wei-Wei, T., Qiang, Y. and Yang, Y.
+  
+#### General Auto Learning toolkit 
+- Google vizier: A service for black-box optimization. [[Paper]](https://ai.google/research/pubs/pub46180.pdf) [[GitHub]](https://github.com/tobegit3hub/advisor)
+  - Golovin, Daniel, et al. (*SIGMOD 2017*)
 - Aut-sklearn: Automated Machine Learning with scikit-learn [[GitHub]](https://github.com/automl/auto-sklearn) [[Paper]](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
 - Katib: A Distributed General AutoML Platform on Kubernetes [[GitHub]](https://github.com/kubeflow/katib/) [[Paper]](https://www.usenix.org/system/files/opml19papers-zhou.pdf)
 - NNI: An open source AutoML toolkit for neural architecture search and hyper-parameter tuning [[GitHub]](https://github.com/Microsoft/nni)
@@ -329,7 +334,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - DeepSwarm: DeepSwarm is an open-source library which uses Ant Colony Optimization to tackle the neural architecture search problem. [[GitHub]](https://github.com/Pattio/DeepSwarm)
 - Google/AdaNet: AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert. Importantly, AdaNet provides a general framework for not only learning a neural network architecture, but also for learning to ensemble to obtain even better models. [[GitHub]](https://github.com/tensorflow/adanet)
 
-### Auto Model Selection
+#### Auto Model Selection
 
 - Automating model search for large scale machine learning. 
   - Sparks, E.R., Talwalkar, A., Haas, D., Franklin, M.J., Jordan, M.I. and Kraska, T., 2015, August.
