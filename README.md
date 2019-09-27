@@ -336,9 +336,12 @@ A curated list of research in machine learning system. Link to the code if avail
 
 #### Auto Model Selection
 
-- Automating model search for large scale machine learning. 
+- Automating model search for large scale machine learning [[Paper]](https://amplab.cs.berkeley.edu/wp-content/uploads/2015/07/163-sparks.pdf)
   - Sparks, E.R., Talwalkar, A., Haas, D., Franklin, M.J., Jordan, M.I. and Kraska, T., 2015, August.
   - In Proceedings of the Sixth ACM Symposium on Cloud Computing (pp. 368-380). ACM.
+- A framework for searching a predictive model [[Paper]](https://arxiv.org/pdf/1908.10310.pdf)
+  - Takahashi, Yoshiki, Masato Asahara, and Kazuyuki Shudo
+  - In SysML Conference, vol. 2018. 2018.
     
 ## Deep Reinforcement Learning System
 
