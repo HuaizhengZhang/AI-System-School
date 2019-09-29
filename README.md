@@ -342,6 +342,9 @@ A curated list of research in machine learning system. Link to the code if avail
 - A framework for searching a predictive model [[Paper]](https://arxiv.org/pdf/1908.10310.pdf)
   - Takahashi, Yoshiki, Masato Asahara, and Kazuyuki Shudo
   - In SysML Conference, vol. 2018. 2018.
+- Dynamic Autoselection and Autotuning of Machine Learning Models for Cloud Network Analytics [[Paper]](https://ieeexplore.ieee.org/document/8500348)
+  - IEEE Transactions on Parallel and Distributed Systems 30, no. 5 (2018): 1052-1064.
+  - Karn, Rupesh Raj, Prabhakar Kudva, and Ibrahim Abe M. Elfadel.
     
 ## Deep Reinforcement Learning System
 
