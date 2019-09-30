@@ -322,6 +322,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - A curated list of automated machine learning papers, articles, tutorials, slides and projects [[GitHub]](https://github.com/hibayesian/awesome-automl-papers)
 - Taking human out of learning applications: A survey on automated machine learning. [[Must Read Survey]](https://arxiv.org/pdf/1810.13306.pdf)
   - Quanming, Y., Mengshuo, W., Hugo, J.E., Isabelle, G., Yi-Qi, H., Yu-Feng, L., Wei-Wei, T., Qiang, Y. and Yang, Y.
+- AutoML Freiburg-Hannover [[Website]](https://www.ml4aad.org/automl/)
   
 #### General Auto Learning toolkit 
 - Google vizier: A service for black-box optimization. [[Paper]](https://ai.google/research/pubs/pub46180.pdf) [[GitHub]](https://github.com/tobegit3hub/advisor)
