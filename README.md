@@ -305,6 +305,10 @@ A curated list of research in machine learning system. Link to the code if avail
 - PyTorch/glow： Compiler for Neural Network hardware accelerators [[GitHub]](https://github.com/pytorch/glow)
 
 ## Machine Learning Infrastructure
+- The Case for Learning-and-System Co-design [[Paper]](https://dl.acm.org/citation.cfm?id=3352031)
+  - Mike Liang, C.J., Xue, H., Yang, M. and Zhou, L., 2019. 
+  - ACM SIGOPS Operating Systems Review, 53(1), pp.68-74.
+  - Summary: Make the system learnable. Propose a framework named AutoSys which contains both training plane and inference plane
 - AI infrastructures list [[GitHub]](https://github.com/1duo/awesome-ai-infrastructures)
 - cortexlabs/cortex: Deploy machine learning applications without worrying about setting up infrastructure, managing dependencies, or orchestrating data pipelines. [[GitHub]](https://github.com/cortexlabs/cortex)
 - Osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework. [[Facebook Project]](https://osquery.io/)
