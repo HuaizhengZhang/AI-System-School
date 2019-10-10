@@ -52,9 +52,8 @@ A curated list of research in machine learning system. Link to the code if avail
 ```
 
 ## Survey
-
+- Toward Highly Available, Intelligent Cloud and ML Systems [[Slide]](http://sysnetome.com/Talks/cguo_netai_2018.pdf)
 - awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning [[GitHub]](https://github.com/EthicalML/awesome-production-machine-learning)
-- Survey on End-To-End Machine Learning Automation [[Paper]](https://arxiv.org/pdf/1906.02287.pdf) [[GitHub]](https://github.com/DataSystemsGroupUT/AutoML_Survey)
 - Opportunities and Challenges Of Machine Learning Accelerators In Production [[Paper]](https://www.usenix.org/system/files/opml19papers-ananthanarayanan.pdf)
   - Ananthanarayanan, Rajagopal, et al. "
   - 2019 {USENIX} Conference on Operational Machine Learning (OpML 19). 2019.
@@ -327,6 +326,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Taking human out of learning applications: A survey on automated machine learning. [[Must Read Survey]](https://arxiv.org/pdf/1810.13306.pdf)
   - Quanming, Y., Mengshuo, W., Hugo, J.E., Isabelle, G., Yi-Qi, H., Yu-Feng, L., Wei-Wei, T., Qiang, Y. and Yang, Y.
 - AutoML Freiburg-Hannover [[Website]](https://www.ml4aad.org/automl/)
+- Survey on End-To-End Machine Learning Automation [[Paper]](https://arxiv.org/pdf/1906.02287.pdf) [[GitHub]](https://github.com/DataSystemsGroupUT/AutoML_Survey)
   
 #### General Auto Learning toolkit 
 - Google vizier: A service for black-box optimization. [[Paper]](https://ai.google/research/pubs/pub46180.pdf) [[GitHub]](https://github.com/tobegit3hub/advisor)
