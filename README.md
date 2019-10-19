@@ -220,10 +220,13 @@ A curated list of research in machine learning system. Link to the code if avail
   - Gao, Yuanxiang, Li Chen, and Baochun Li (*ICML 18*)
 - GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
-  - Summary: 
 - Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
 [[GitHub]](https://github.com/uber/horovod)
 - Distributed machine learning infrastructure for large-scale robotics research [[GitHub]](https://github.com/google-research/tensor2robot) [[Blog]](https://ai.google/research/teams/brain/robotics/)
+- A Generic Communication Scheduler for Distributed DNN Training Acceleration [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf) [[BytePS]](https://github.com/bytedance/byteps)
+  - PENG, Y., Zhu, Y., CHEN, Y., BAO, Y., Yi, B., Lan, C., Wu, C. and Guo, (*SOSP 2019*)
+  - Summary: communication schedular
+
 
 #### Training(Multi-jobs on cluster)
 - Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
