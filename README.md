@@ -306,6 +306,9 @@ A curated list of research in machine learning system. Link to the code if avail
 - Facebook TC: Tensor Comprehensions (TC) is a fully-functional C++ library to automatically synthesize high-performance machine learning kernels using Halide, ISL and NVRTC or LLVM. [[GitHub]](https://github.com/facebookresearch/TensorComprehensions)
 - Tensorflow/mlir: "Multi-Level Intermediate Representation" Compiler Infrastructure [[GitHub]](https://github.com/tensorflow/mlir) [[Video]](https://www.youtube.com/watch?v=qzljG6DKgic)
 - PyTorch/glow： Compiler for Neural Network hardware accelerators [[GitHub]](https://github.com/pytorch/glow)
+- TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_taso.pdf) [[GitHub]](https://github.com/jiazhihao/TASO)
+  - Jia, Zhihao, Oded Padon, James Thomas, Todd Warszawski, Matei Zaharia, and Alex Aiken. (*SOSP 2019*)
+  - Experiments tested on TVM and XLA
 
 ## Machine Learning Infrastructure
 - The Case for Learning-and-System Co-design [[Paper]](https://dl.acm.org/citation.cfm?id=3352031)
