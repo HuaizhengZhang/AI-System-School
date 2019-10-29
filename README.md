@@ -331,7 +331,9 @@ A curated list of research in machine learning system. Link to the code if avail
   - Quanming, Y., Mengshuo, W., Hugo, J.E., Isabelle, G., Yi-Qi, H., Yu-Feng, L., Wei-Wei, T., Qiang, Y. and Yang, Y.
 - AutoML Freiburg-Hannover [[Website]](https://www.ml4aad.org/automl/)
 - Survey on End-To-End Machine Learning Automation [[Paper]](https://arxiv.org/pdf/1906.02287.pdf) [[GitHub]](https://github.com/DataSystemsGroupUT/AutoML_Survey)
-  
+- Design Automation for Efficient Deep Learning Computing [[paper]](https://arxiv.org/pdf/1904.10616.pdf)
+  - Han, Song, et al. (*arXiv preprint arXiv:1904.10616 (2019)*)
+
 #### General Auto Learning toolkit 
 - Google vizier: A service for black-box optimization. [[Paper]](https://ai.google/research/pubs/pub46180.pdf) [[GitHub]](https://github.com/tobegit3hub/advisor)
   - Golovin, Daniel, et al. (*SIGMOD 2017*)
