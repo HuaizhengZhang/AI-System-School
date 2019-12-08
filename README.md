@@ -205,6 +205,8 @@ A curated list of research in machine learning system. Link to the code if avail
 - bytedance/byteps: A high performance and general PS framework for distributed training [[GitHub]](https://github.com/bytedance/byteps)
 
 #### Training(Parallelism)
+
+- PipeDream: Generalized Pipeline Parallelism for DNN Training (SOSP2019) [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) [[Github]](https://github.com/msr-fiddle/pipedream)
 - Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks. [[Paper]](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf) [[GitHub]](https://github.com/flexflow/FlexFlow)
   - Zhihao Jia, Sina Lin, Charles R. Qi, and Alex Aiken. (*ICML 2018*)
 - Mesh-TensorFlow: Deep Learning for Supercomputers [[Paper]](https://arxiv.org/pdf/1811.02084.pdf) [[GitHub]](https://github.com/tensorflow/mesh)
