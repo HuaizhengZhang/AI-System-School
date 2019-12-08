@@ -254,6 +254,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - INFaaS: A Model-less Inference Serving System Romero [[Paper]](https://arxiv.org/abs/1905.13348) [[GitHub]](https://github.com/stanford-mast/INFaaS)
   - F., Li, Q., Yadwadkar, N.J. and Kozyrakis, C., 2019.
   - arXiv preprint arXiv:1905.13348.
+- - Nexus: Nexus is a scalable and efficient serving system for DNN applications on GPU cluster (SOSP2019) [[Paper]](https://pdfs.semanticscholar.org/0c0f/353dbac84311ea4f1485d4a8ac0b0459be8c.pdf) [[GitHub]](https://github.com/uwsampl/nexus)
 - Deep Learning Inference Service at Microsoft [[Paper]](https://www.usenix.org/system/files/opml19papers-soifer.pdf)
   - J Soifer, et al. (*OptML2019*)
 - {PRETZEL}: Opening the Black Box of Machine Learning Prediction Serving Systems. [[Paper]](https://www.usenix.org/system/files/osdi18-lee.pdf)
@@ -279,7 +280,6 @@ A curated list of research in machine learning system. Link to the code if avail
   - Wang, Wei, Jinyang Gao, Meihui Zhang, Sheng Wang, Gang Chen, Teck Khim Ng, Beng Chin Ooi, Jie Shao, and Moaz Reyad.
   - Summary: Contain both training and inference. Auto-Hype-Parameter search for training. Ensemble models for inference. Using DRL to balance trade-off between accuracy and latency.
 - GraphPipe: Machine Learning Model Deployment Made Simple [[GitHub]](https://github.com/oracle/graphpipe)
-- Nexus: Nexus is a scalable and efficient serving system for DNN applications on GPU cluster. [[Paper]](https://pdfs.semanticscholar.org/0c0f/353dbac84311ea4f1485d4a8ac0b0459be8c.pdf) [[GitHub]](https://github.com/uwsampl/nexus)
 - Deepcpu: Serving rnn-based deep learning models 10x faster. [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
    - Zhang, M., Rajbhandari, S., Wang, W. and He, Y., 2018. (*ATC2018*)
 - Orkhon: ML Inference Framework and Server Runtime [[GitHub]](https://github.com/vertexclique/orkhon)
