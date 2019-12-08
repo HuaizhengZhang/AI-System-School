@@ -31,7 +31,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Distributed Training](#machine-learning-system-papers-training)
 - [Model Database](#model-database-experiment-version-control)
 - [Model Serving](#model-serving)
-- [Inference Optimization](#machine-learning-system-papers-inference)
+- [Inference Optimization](#inference-optimization)
 - [Machine Learning Infrastructure](#machine-learning-infrastructure)
 - [Machine Learning Compiler](#machine-learning-compiler)
 - [AutoML System](#automl-system)
@@ -290,7 +290,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 
 
-## Machine Learning System Papers (Inference)
+## Inference Optimization
 
 - TensorRT is a C++ library that facilitates high performance inference on NVIDIA GPUs and deep learning accelerators. [[GitHub]](https://github.com/NVIDIA/TensorRT)
 - Dynamic Space-Time Scheduling for GPU Inference [[Paper]](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf)
