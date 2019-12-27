@@ -392,8 +392,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ### Papers
 
-- Fu, Daniel Y., et al. "Rekall: Specifying video events using compositions of spatiotemporal labels." arXiv preprint arXiv:1910.02993 (2019). [[Paper]]
-
+- Fu, Daniel Y., et al. "Rekall: Specifying video events using compositions of spatiotemporal labels." arXiv preprint arXiv:1910.02993 (2019). [[Paper]](https://arxiv.org/pdf/1910.02993.pdf)
 - Puffer: Puffer is a Stanford University research study about using machine learning to improve video-streaming algorithms. Please visit [[GitHub]](https://github.com/StanfordSNR/puffer)
 - Visual Road: A Video Data Management Benchmark [[Project Website]](http://db.cs.washington.edu/projects/visualroad/)
   - Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung (*SIGMOD 2019*)
@@ -404,9 +403,10 @@ A curated list of research in machine learning system. Link to the code if avail
 - Chameleon: scalable adaptation of video analytics [[Paper]](http://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady.pdf)
   - Jiang, Junchen, et al. (*SIGCOMM 2018*)
   - Summary: Configuration controller for balancing accuracy and resource. Golden configuration is a good design. Periodic profiling often exceeded any resource savings gained by adapting the configurations.
+- Kang, Daniel, Peter Bailis, and Matei Zaharia. "Blazeit: Fast exploratory video queries using neural networks." arXiv preprint arXiv:1805.01046 (2018). [[Paper]](https://arxiv.org/pdf/1805.01046.pdf)
 - Noscope: optimizing neural network queries over video at scale [[Paper]](https://arxiv.org/pdf/1703.02529) [[GitHub]](https://github.com/stanford-futuredata/noscope)
   - Kang, Daniel, John Emmons, Firas Abuzaid, Peter Bailis, and Matei Zaharia. (*VLDB2017*)
-  - Summary: 
+  - Summary: Information cache + difference detection model + small detection model + sequence optimizer
 - SVE: Distributed video processing at Facebook scale [[Paper]](http://www.cs.princeton.edu/~wlloyd/papers/sve-sosp17.pdf)
   - Huang, Qi, et al. (*SOSP2017*)
   - Summary: 
