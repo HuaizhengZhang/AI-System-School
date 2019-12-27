@@ -392,6 +392,8 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ### Papers
 
+- Fu, Daniel Y., et al. "Rekall: Specifying video events using compositions of spatiotemporal labels." arXiv preprint arXiv:1910.02993 (2019). [[Paper]]
+
 - Puffer: Puffer is a Stanford University research study about using machine learning to improve video-streaming algorithms. Please visit [[GitHub]](https://github.com/StanfordSNR/puffer)
 - Visual Road: A Video Data Management Benchmark [[Project Website]](http://db.cs.washington.edu/projects/visualroad/)
   - Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung (*SIGMOD 2019*)
