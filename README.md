@@ -86,6 +86,8 @@ A curated list of research in machine learning system. Link to the code if avail
 - Machine Learning Systems: Designs that scale [[Website]](https://www.manning.com/books/machine-learning-systems)
 
 ## Video
+
+- From Research to Production with PyTorch [[Video]](https://www.infoq.com/presentations/pytorch-torchscript-botorch/#downloadPdf/)
 - Introduction to Microservices, Docker, and Kubernetes [[YouTube]](https://www.youtube.com/watch?v=1xo-0gCVhTU)
 - ICML Keynote: Lessons Learned from Helping 200,000 non-ML experts use ML [[Video]](https://slideslive.com/38916584/keynote-lessons-learned-from-helping-200000-nonml-experts-use-ml)
 - Adaptive & Multitask Learning Systems [[Website]](https://www.amtl-workshop.org/schedule)
