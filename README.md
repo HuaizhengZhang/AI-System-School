@@ -30,8 +30,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Data Processing](#data-processing)
 - [Training System](training.md#training-system)
 - [Inference System](inference.md#inference-system)
-- [Machine Learning Infrastructure](#machine-learning-infrastructure)
-- [Machine Learning Compiler](#machine-learning-compiler)
+- [Machine Learning Infrastructure](infra.md#machine-learning-infrastructure)
 - [AutoML System](#automl-system)
 - [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
 - [Edge AI](#edge-or-mobile-papers)
@@ -198,22 +197,6 @@ A curated list of research in machine learning system. Link to the code if avail
 - a-mma/AquilaDB: Resilient, Replicated, Decentralized, Host neutral vector database to store Feature Vectors along with JSON Metadata. Do similarity search from anywhere, even from the darkest rifts of Aquila. Production ready solution for Machine Learning engineers and Data scientists. [[GitHub]](https://github.com/a-mma/AquilaDB)
 - ShannonAI/service-streamer: Boosting your Web Services of Deep Learning Applications. [[GitHub]](https://github.com/ShannonAI/service-streamer)
 
-
-## Machine Learning Infrastructure
-- The Case for Learning-and-System Co-design [[Paper]](https://dl.acm.org/citation.cfm?id=3352031)
-  - Mike Liang, C.J., Xue, H., Yang, M. and Zhou, L., 2019. 
-  - ACM SIGOPS Operating Systems Review, 53(1), pp.68-74.
-  - Summary: Make the system learnable. Propose a framework named AutoSys which contains both training plane and inference plane
-- AI infrastructures list [[GitHub]](https://github.com/1duo/awesome-ai-infrastructures)
-- cortexlabs/cortex: Deploy machine learning applications without worrying about setting up infrastructure, managing dependencies, or orchestrating data pipelines. [[GitHub]](https://github.com/cortexlabs/cortex)
-- Osquery is a SQL powered operating system instrumentation, monitoring, and analytics framework. [[Facebook Project]](https://osquery.io/)
-- Seldon: Sheldon Core is an open source platform for deploying machine learning models on a Kubernetes cluster.[[GitHub]](https://github.com/SeldonIO/seldon-core)
-- Kubeflow: Kubeflow is a machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable. [[GitHub]](https://github.com/kubeflow/pipelines)
-- Polytaxon: A platform for reproducible and scalable machine learning and deep learning on kubernetes. [[GitHub]](https://github.com/polyaxon/polyaxon)
-- MLOps on Azure [[GitHub]](https://github.com/microsoft/MLOps)
-- Flame: An ML framework to accelerate research and its path to production. [[GitHub]](https://github.com/Open-ASAPP/flambe)
-- Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. [[GitHub]](https://github.com/uber/ludwig)
-- intel-analytics/analytics-zoo Distributed Tensorflow, Keras and BigDL on Apache Spark [[GitHub]](https://github.com/intel-analytics/analytics-zoo)
 
 ## AutoML System
 
