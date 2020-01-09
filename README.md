@@ -26,7 +26,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Tool](#userful-tools)
 - [Project with code](#project)
 
-### System for AI
+### System for AI Papers
 - [Data Processing](#data-processing)
 - [Training System](training.md#training-system)
 - [Inference System](inference.md#inference-system)
@@ -36,10 +36,6 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Edge AI](#edge-or-mobile-papers)
 - [Video System](#video-system)
 
-### AI for System
-- [Resource Management](#resource-management)
-- [Advanced Theory](#advanced-theory)
-- [Traditional System Optimization](#traditional-system-optimization-papers)
 
 ### PR template
 ```
@@ -307,22 +303,4 @@ A curated list of research in machine learning system. Link to the code if avail
 - alibaba/MNN: MNN is a lightweight deep neural network inference engine. It loads models and do inference on devices. [[GitHub]](https://github.com/alibaba/MNN)
 - XiaoMi/mobile-ai-bench: Benchmarking Neural Network Inference on Mobile Devices [[GitHub]](https://github.com/XiaoMi/mobile-ai-bench)
 - XiaoMi/mace-models: Mobile AI Compute Engine Model Zoo [[GitHub]](https://github.com/XiaoMi/mace-models)
-  
-## Resource Management
 
-- Resource management with deep reinforcement learning [[Paper]](https://people.csail.mit.edu/alizadeh/papers/deeprm-hotnets16.pdf) [[GitHub]](https://github.com/hongzimao/deeprm)
-  - Mao, Hongzi, Mohammad Alizadeh, Ishai Menache, and Srikanth Kandula (*ACM HotNets 2016*)
-  - Summary:  Highly cited paper. Nice definaton. An example solution that translates the problem of packing tasks with multiple resource demands into a learning problem and then used DRL to solve it.
-
-## Advanced Theory
-
-- Differentiable MPC for End-to-end Planning and Control [[Paper]](https://www.cc.gatech.edu/~bboots3/files/DMPC.pdf)  [[GitHub]](https://locuslab.github.io/mpc.pytorch/)
-  - Amos, Brandon, Ivan Jimenez, Jacob Sacks, Byron Boots, and J. Zico Kolter (*NIPS 2018*)
-  
-## Traditional System Optimization Papers
-
-- AutoScale: Dynamic, Robust Capacity Management for Multi-Tier Data Centers
-[[Paper]](https://www3.cs.stonybrook.edu/~anshul/tocs12.pdf)
-  - Gandhi, Anshul, et al. (*TOCS 2012*)
-- Large-scale cluster management at Google with Borg [[Paper]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43438.pdf)
-  - Verma, Abhishek, et al. (*ECCS2015*)
