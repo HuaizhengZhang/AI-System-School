@@ -26,14 +26,14 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Project with code](#project)
 
 ## System for AI Papers
-- #### [Data Processing](data_processing.md#data-processing)
-- #### [Training System](training.md#training-system)
-- #### [Inference System](inference.md#inference-system)
-- #### [Machine Learning Infrastructure](infra.md#machine-learning-infrastructure)
-- #### [AutoML System](AutoML_system.md#automl-system)
-- #### [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
-- #### [Edge AI](#edge-or-mobile-papers)
-- #### [Video System](#video-system)
+- [Data Processing](data_processing.md#data-processing)
+- [Training System](training.md#training-system)
+- [Inference System](inference.md#inference-system)
+- [Machine Learning Infrastructure](infra.md#machine-learning-infrastructure)
+- [AutoML System](AutoML_system.md#automl-system)
+- [Deep Reinforcement Learning System](drl_system.md#deep-reinforcement-learning-system)
+- [Edge AI](#edge-or-mobile-papers)
+- [Video System](#video-system)
 
 
 ### PR template
@@ -181,20 +181,6 @@ A curated list of research in machine learning system. Link to the code if avail
 
 
 
-    
-## Deep Reinforcement Learning System
-
-- Ray: A Distributed Framework for Emerging {AI} Applications [[GitHub]](https://www.usenix.org/conference/osdi18/presentation/moritz)
-  - Moritz, Philipp, et al. (*OSDI 2018*)
-  - Summary: Distributed DRL training, simulation and inference system. Can be used as a high-performance python framework.
-- Elf: An extensive, lightweight and flexible research platform for real-time strategy games [[Paper]](https://papers.nips.cc/paper/6859-elf-an-extensive-lightweight-and-flexible-research-platform-for-real-time-strategy-games.pdf) [[GitHub]](https://github.com/facebookresearch/ELF)
-  - Tian, Yuandong, Qucheng Gong, Wenling Shang, Yuxin Wu, and C. Lawrence Zitnick. (*NIPS 2017*)
-  - Summary:
-- Horizon: Facebook's Open Source Applied Reinforcement Learning Platform [[Paper]](https://arxiv.org/pdf/1811.00260) [[GitHub]](https://github.com/facebookresearch/Horizon)
-  - Gauci, Jason, et al. (*preprint 2019*)
-- RLgraph: Modular Computation Graphs for Deep Reinforcement Learning [[Paper]](http://www.sysml.cc/doc/2019/43.pdf)[[GitHub]](https://github.com/rlgraph/rlgraph)
-  - Schaarschmidt, Michael, Sven Mika, Kai Fricke, and Eiko Yoneki. (*SysML 2019*)
-  - Summary:
 
 ## Video System
 
