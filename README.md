@@ -15,9 +15,8 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ![AI system](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/imgs/AI_system.png)
 
-## Table of Contents
 
-### General Resources
+## General Resources
 - [Survey](#survey)
 - [Book](#book)
 - [Video](#video)
@@ -26,15 +25,15 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Tool](#userful-tools)
 - [Project with code](#project)
 
-### System for AI Papers
-- [Data Processing](#data-processing)
-- [Training System](training.md#training-system)
-- [Inference System](inference.md#inference-system)
-- [Machine Learning Infrastructure](infra.md#machine-learning-infrastructure)
-- [AutoML System](#automl-system)
-- [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
-- [Edge AI](#edge-or-mobile-papers)
-- [Video System](#video-system)
+## System for AI Papers
+- ### [Data Processing](data_processing.md#data-processing)
+- ### [Training System](training.md#training-system)
+- ### [Inference System](inference.md#inference-system)
+- ### [Machine Learning Infrastructure](infra.md#machine-learning-infrastructure)
+- ### [AutoML System](#automl-system)
+- ### [Deep Reinforcement Learning System](#deep-reinforcement-learning-system)
+- ### [Edge AI](#edge-or-mobile-papers)
+- ### [Video System](#video-system)
 
 
 ### PR template
@@ -179,19 +178,6 @@ A curated list of research in machine learning system. Link to the code if avail
 - PAI: OpenPAI is an open source platform that provides complete AI model training and resource management capabilities. [[Microsoft Project]](https://github.com/Microsoft/pai#resources)
 - Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems [[Facebook Project]](https://github.com/facebook/bistro)
 - GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network. [[GitHub]](https://github.com/gnes-ai/gnes)
-
-
-## Data Processing
-- Kedro is a workflow development tool that helps you build data pipelines that are robust, scalable, deployable, reproducible and versioned. [[GitHub]](https://github.com/quantumblacklabs/kedro)
-- Google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more [[GitHub]](https://github.com/google/jax)
-- CuPy: NumPy-like API accelerated with CUDA [[GitHub]](https://github.com/cupy/cupy)
-- Modin: Speed up your Pandas workflows by changing a single line of code [[GitHub]](https://github.com/modin-project/modin)
-- Weld: Weld is a runtime for improving the performance of data-intensive applications. [[Project Website]](https://www.weld.rs/)
-- Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines [[Project Website]](http://halide-lang.org/)
-  - Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Frédo Durand, Saman Amarasinghe. (*PLDI 2013*)
-  - Summary: Halide is a programming language designed to make it easier to write high-performance image and array processing code on modern machines.
-- a-mma/AquilaDB: Resilient, Replicated, Decentralized, Host neutral vector database to store Feature Vectors along with JSON Metadata. Do similarity search from anywhere, even from the darkest rifts of Aquila. Production ready solution for Machine Learning engineers and Data scientists. [[GitHub]](https://github.com/a-mma/AquilaDB)
-- ShannonAI/service-streamer: Boosting your Web Services of Deep Learning Applications. [[GitHub]](https://github.com/ShannonAI/service-streamer)
 
 
 ## AutoML System
