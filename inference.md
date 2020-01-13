@@ -10,11 +10,14 @@ System for machine learning inference.
 
 ## Model Serving
 
+- Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. [[arxiv]](https://arxiv.org/pdf/1906.01974.pdf)[[GitHub]](https://github.com/stanford-futuredata/Willump)
+  - Peter Kraft, Daniel Kang, Deepak Narayanan, Shoumik Palkar, Peter Bailis, Matei Zaharia.
+  - arXiv Preprint. 2019.
 - Parity Models: Erasure-Coded Resilience for Prediction Serving Systems(SOSP2019) [[Paper]](http://www.cs.cmu.edu/~rvinayak/papers/sosp2019parity-models.pdf) [[GitHub]](https://github.com/Thesys-lab/parity-models)
 - INFaaS: A Model-less Inference Serving System Romero [[Paper]](https://arxiv.org/abs/1905.13348) [[GitHub]](https://github.com/stanford-mast/INFaaS)
   - F., Li, Q., Yadwadkar, N.J. and Kozyrakis, C., 2019.
   - arXiv preprint arXiv:1905.13348.
-- - Nexus: Nexus is a scalable and efficient serving system for DNN applications on GPU cluster (SOSP2019) [[Paper]](https://pdfs.semanticscholar.org/0c0f/353dbac84311ea4f1485d4a8ac0b0459be8c.pdf) [[GitHub]](https://github.com/uwsampl/nexus)
+- Nexus: Nexus is a scalable and efficient serving system for DNN applications on GPU cluster (SOSP2019) [[Paper]](https://pdfs.semanticscholar.org/0c0f/353dbac84311ea4f1485d4a8ac0b0459be8c.pdf) [[GitHub]](https://github.com/uwsampl/nexus)
 - Deep Learning Inference Service at Microsoft [[Paper]](https://www.usenix.org/system/files/opml19papers-soifer.pdf)
   - J Soifer, et al. (*OptML2019*)
 - {PRETZEL}: Opening the Black Box of Machine Learning Prediction Serving Systems. [[Paper]](https://www.usenix.org/system/files/osdi18-lee.pdf)
