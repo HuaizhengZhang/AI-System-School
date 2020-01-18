@@ -2,6 +2,8 @@
 
 System for machine learning inference.
 
+- Bianco, Simone, et al. "Benchmark analysis of representative deep neural network architectures." IEEE Access 6 (2018): 64270-64277. [[Paper]](https://arxiv.org/abs/1810.00736)
+
 ## Model Zoo (Experiment Version Control)
 
 - TRAINS - Auto-Magical Experiment Manager & Version Control for AI [[GitHub]](https://github.com/allegroai/trains)
