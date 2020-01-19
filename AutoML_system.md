@@ -11,8 +11,8 @@
   - Han, Song, et al. (*arXiv preprint arXiv:1904.10616 (2019)*)
   
 
-## General Auto Learning toolkit
-
+## AutoML Opensource Toolkit
+- Swearingen, Thomas, et al. "ATM: A distributed, collaborative, scalable system for automated machine learning." 2017 IEEE International Conference on Big Data (Big Data). IEEE, 2017. [[Paper]](https://dai.lids.mit.edu/wp-content/uploads/2018/02/atm_IEEE_BIgData-9-1.pdf) [[GitHub]](https://github.com/HDI-Project/ATM)
 - Google vizier: A service for black-box optimization. [[Paper]](https://ai.google/research/pubs/pub46180.pdf) [[GitHub]](https://github.com/tobegit3hub/advisor)
   - Golovin, Daniel, et al. (*SIGMOD 2017*)
 - Aut-sklearn: Automated Machine Learning with scikit-learn [[GitHub]](https://github.com/automl/auto-sklearn) [[Paper]](https://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
