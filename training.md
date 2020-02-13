@@ -5,6 +5,7 @@ System for deep learning training.
 
 ## Training(Parallelism)
 
+- ZeRO: Memory Optimization Towards Training A Trillion Parameter Models. *Microsoft Work* [[Paper]](https://arxiv.org/pdf/1910.02054.pdf) [[GitHub]](https://github.com/microsoft/DeepSpeed)
 - Class materials for a distributed systems lecture series [[GitHub]](https://github.com/aphyr/distsys-class)
 - bytedance/byteps: A high performance and general PS framework for distributed training [[GitHub]](https://github.com/bytedance/byteps)
 - PipeDream: Generalized Pipeline Parallelism for DNN Training (SOSP2019) [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) [[Github]](https://github.com/msr-fiddle/pipedream)
