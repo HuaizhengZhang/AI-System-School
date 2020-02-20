@@ -45,13 +45,16 @@ System for machine learning inference.
   - Wang, Wei, Jinyang Gao, Meihui Zhang, Sheng Wang, Gang Chen, Teck Khim Ng, Beng Chin Ooi, Jie Shao, and Moaz Reyad.
   - Summary: Contain both training and inference. Auto-Hype-Parameter search for training. Ensemble models for inference. Using DRL to balance trade-off between accuracy and latency.
 - GraphPipe: Machine Learning Model Deployment Made Simple [[GitHub]](https://github.com/oracle/graphpipe)
-- Deepcpu: Serving rnn-based deep learning models 10x faster. [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
-   - Zhang, M., Rajbhandari, S., Wang, W. and He, Y., 2018. (*ATC2018*)
 - Orkhon: ML Inference Framework and Server Runtime [[GitHub]](https://github.com/vertexclique/orkhon)
 - NVIDIA/tensorrt-inference-server: The TensorRT Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs. [[GitHub]](https://github.com/NVIDIA/tensorrt-inference-server)
 - Apache PredictionIO® is an open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task [[Website]](http://predictionio.apache.org/)
 
+## Cache for Inference
 
+- Kumar, Adarsh, et al. "Accelerating deep learning inference via freezing." 11th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 19). 2019.
+- Xu, Mengwei, et al. "DeepCache: Principled cache for mobile deep vision." Proceedings of the 24th Annual International Conference on Mobile Computing and Networking. 2018.
+- Park, Keunyoung, and Doo-Hyun Kim. "Accelerating image classification using feature map similarity in convolutional neural networks." Applied Sciences 9.1 (2019): 108.
+- Cavigelli, Lukas, and Luca Benini. "CBinfer: Exploiting frame-to-frame locality for faster convolutional network inference on video streams." IEEE Transactions on Circuits and Systems for Video Technology (2019).
 
 ## Inference Optimization
 
