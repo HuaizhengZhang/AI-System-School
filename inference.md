@@ -51,10 +51,10 @@ System for machine learning inference.
 
 ## Cache for Inference
 
-- Kumar, Adarsh, et al. "Accelerating deep learning inference via freezing." 11th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 19). 2019.
-- Xu, Mengwei, et al. "DeepCache: Principled cache for mobile deep vision." Proceedings of the 24th Annual International Conference on Mobile Computing and Networking. 2018.
-- Park, Keunyoung, and Doo-Hyun Kim. "Accelerating image classification using feature map similarity in convolutional neural networks." Applied Sciences 9.1 (2019): 108.
-- Cavigelli, Lukas, and Luca Benini. "CBinfer: Exploiting frame-to-frame locality for faster convolutional network inference on video streams." IEEE Transactions on Circuits and Systems for Video Technology (2019).
+- Kumar, Adarsh, et al. "Accelerating deep learning inference via freezing." 11th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 19). 2019. [[Paper]](http://shivaram.org/publications/freeze-hotcloud19.pdf)
+- Xu, Mengwei, et al. "DeepCache: Principled cache for mobile deep vision." Proceedings of the 24th Annual International Conference on Mobile Computing and Networking. 2018. [[Paper]](https://arxiv.org/pdf/1712.01670.pdf)
+- Park, Keunyoung, and Doo-Hyun Kim. "Accelerating image classification using feature map similarity in convolutional neural networks." Applied Sciences 9.1 (2019): 108. [[Paper]](https://www.mdpi.com/2076-3417/9/1/108/htm)
+- Cavigelli, Lukas, and Luca Benini. "CBinfer: Exploiting frame-to-frame locality for faster convolutional network inference on video streams." IEEE Transactions on Circuits and Systems for Video Technology (2019). [[Paper]](https://arxiv.org/pdf/1808.05488)
 
 ## Inference Optimization
 
