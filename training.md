@@ -4,8 +4,7 @@ System for deep learning training.
 
 ## Survey
 
-- Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools [[Paper]](https://arxiv.org/pdf/1903.11314.pdf)
-  - RUBEN MAYER, HANS-ARNO JACOBSEN
+- Mayer, Ruben, and Hans-Arno Jacobsen. "Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques, and Tools." ACM Computing Surveys (CSUR) 53.1 (2020): 1-37. [[Paper]](https://arxiv.org/pdf/1903.11314.pdf)
 
 
 ## Training(Parallelism)
