@@ -2,6 +2,11 @@
 
 System for deep learning training.
 
+## Survey
+
+- Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques and Tools [[Paper]](https://arxiv.org/pdf/1903.11314.pdf)
+  - RUBEN MAYER, HANS-ARNO JACOBSEN
+
 
 ## Training(Parallelism)
 
