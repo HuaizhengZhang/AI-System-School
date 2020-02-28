@@ -1,6 +1,8 @@
 # Inference System
 
 System for machine learning inference.
+
+## Survey
 - Reddi, Vijay Janapa, et al. "Mlperf inference benchmark." arXiv preprint arXiv:1911.02549 (2019). [[Paper]](https://arxiv.org/pdf/1911.02549.pdf) [[GitHub]](https://github.com/mlperf/inference)
 - Bianco, Simone, et al. "Benchmark analysis of representative deep neural network architectures." IEEE Access 6 (2018): 64270-64277. [[Paper]](https://arxiv.org/abs/1810.00736)
 
@@ -69,7 +71,10 @@ System for machine learning inference.
   - Summary: They assume that their system, HiveMind, is given as input models grouped into model batches that are amenable to co-optimization and co-execution. a compiler, and a runtime.
 - DeepCPU: Serving RNN-based Deep Learning Models 10x Faster [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
   - Minjia Zhang, Samyam Rajbhandari, Wenhan Wang, and Yuxiong He, Microsoft AI and Research (*ATC 2018*)
-  
+
+## Cluster Management for Inference
+
+- Li, Tian, et al. "Ease. ml: Towards multi-tenant resource sharing for machine learning workloads." Proceedings of the VLDB Endowment 11.5 (2018): 607-620. [[Paper]](http://www.vldb.org/pvldb/vol11/p607-li.pdf)
   
 ## Machine Learning Compiler
 - {TVM}: An Automated End-to-End Optimizing Compiler for Deep Learning [[Paper]](https://www.usenix.org/system/files/osdi18-chen.pdf) [[YouTube]](https://www.youtube.com/watch?v=I1APhlSjVjs) [[Project Website]](https://tvm.ai/)
