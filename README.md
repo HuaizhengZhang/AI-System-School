@@ -35,14 +35,6 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Edge AI](edge_system.md#edge-or-mobile-papers)
 - [Video System](video_system.md#video-system)
 
-
-### PR template
-```
-- Title [[Paper]](link) [[GitHub]](link)
-  - Author (*conference(journal) year*)
-  - Summary: 
-```
-
 ## Survey
 - Toward Highly Available, Intelligent Cloud and ML Systems [[Slide]](http://sysnetome.com/Talks/cguo_netai_2018.pdf)
 - awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning [[GitHub]](https://github.com/EthicalML/awesome-production-machine-learning)
