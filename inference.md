@@ -72,9 +72,14 @@ System for machine learning inference.
 - DeepCPU: Serving RNN-based Deep Learning Models 10x Faster [[Paper]](https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf)
   - Minjia Zhang, Samyam Rajbhandari, Wenhan Wang, and Yuxiong He, Microsoft AI and Research (*ATC 2018*)
 
-## Cluster Management for Inference
+## Cluster Management for Inference (now only contain multi-tenant)
 
-- Li, Tian, et al. "Ease. ml: Towards multi-tenant resource sharing for machine learning workloads." Proceedings of the VLDB Endowment 11.5 (2018): 607-620. [[Paper]](http://www.vldb.org/pvldb/vol11/p607-li.pdf)
+- Ease. ml: Towards multi-tenant resource sharing for machine learning workloads [[Paper]](http://www.vldb.org/pvldb/vol11/p607-li.pdf)
+  - Li, Tian, et al
+  - Proceedings of the VLDB Endowment 11.5 (2018): 607-620.
+- Perseus: Characterizing Performance and Cost of Multi-Tenant Serving for CNN Models [[Paper]](https://arxiv.org/pdf/1912.02322.pdf)
+  - LeMay, Matthew, Shijian Li, and Tian Guo. 
+  - arXiv preprint arXiv:1912.02322 (2019).
   
 ## Machine Learning Compiler
 - {TVM}: An Automated End-to-End Optimizing Compiler for Deep Learning [[Paper]](https://www.usenix.org/system/files/osdi18-chen.pdf) [[YouTube]](https://www.youtube.com/watch?v=I1APhlSjVjs) [[Project Website]](https://tvm.ai/)
