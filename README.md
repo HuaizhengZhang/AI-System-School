@@ -9,7 +9,7 @@
 
 # Awesome System for Machine Learning 
 
-### *Path to system for AI* [[Whitepaper You Must Read]](http://www.sysml.cc/doc/sysml-whitepaper.pdf)
+### *Path to system for AI* [[Whitepaper You Must Read]](./paper/sysml-whitepaper.pdf)
 
 A curated list of research in machine learning system. Link to the code if available is also present. I also summarize some papers if I think they are really interesting. *You are very welcome to pull request by using our template*
 
