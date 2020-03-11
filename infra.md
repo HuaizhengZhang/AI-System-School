@@ -1,5 +1,7 @@
 # Machine Learning Infrastructure
 
+## Opensource Project
+
 - The Case for Learning-and-System Co-design [[Paper]](https://dl.acm.org/citation.cfm?id=3352031)
   - Mike Liang, C.J., Xue, H., Yang, M. and Zhou, L., 2019. 
   - ACM SIGOPS Operating Systems Review, 53(1), pp.68-74.
@@ -14,3 +16,7 @@
 - Flame: An ML framework to accelerate research and its path to production. [[GitHub]](https://github.com/Open-ASAPP/flambe)
 - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. [[GitHub]](https://github.com/uber/ludwig)
 - intel-analytics/analytics-zoo Distributed Tensorflow, Keras and BigDL on Apache Spark [[GitHub]](https://github.com/intel-analytics/analytics-zoo)
+
+## GPU Sharing
+
+Yu, P. and Chowdhury, M., 2019. Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications. arXiv preprint arXiv:1902.04610. [[Paper]](https://arxiv.org/pdf/1902.04610.pdf) [[GitHub]](https://github.com/SymbioticLab/Salus)
