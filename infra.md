@@ -19,4 +19,4 @@
 
 ## GPU Sharing
 
-Yu, P. and Chowdhury, M., 2019. Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications. arXiv preprint arXiv:1902.04610. [[Paper]](https://arxiv.org/pdf/1902.04610.pdf) [[GitHub]](https://github.com/SymbioticLab/Salus)
+- Yu, P. and Chowdhury, M., 2019. Salus: Fine-Grained GPU Sharing Primitives for Deep Learning Applications. arXiv preprint arXiv:1902.04610. [[Paper]](https://arxiv.org/pdf/1902.04610.pdf) [[GitHub]](https://github.com/SymbioticLab/Salus)
