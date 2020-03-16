@@ -66,6 +66,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Video
 
+- ScalaDML2020: Learn from the best minds in the machine learning community. [[Video]](https://info.matroid.com/scaledml-media-archive-preview)
 - From Research to Production with PyTorch [[Video]](https://www.infoq.com/presentations/pytorch-torchscript-botorch/#downloadPdf/)
 - Introduction to Microservices, Docker, and Kubernetes [[YouTube]](https://www.youtube.com/watch?v=1xo-0gCVhTU)
 - ICML Keynote: Lessons Learned from Helping 200,000 non-ML experts use ML [[Video]](https://slideslive.com/38916584/keynote-lessons-learned-from-helping-200000-nonml-experts-use-ml)
