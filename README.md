@@ -127,6 +127,7 @@ A curated list of research in machine learning system. Link to the code if avail
 ## Userful Tools
 
 #### Profile
+- Collective Knowledge repository to automate MLPerf - a broad ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms [[GitHub]](https://github.com/ctuning/ck-mlperf)
 - NetworKit is a growing open-source toolkit for large-scale network analysis. [[GitHub]](https://github.com/kit-parco/networkit)
 - gpu-sentry: Flask-based package for monitoring utilisation of nVidia GPUs. [[GitHub]](https://github.com/jacenkow/gpu-sentry)
 - anderskm/gputil: A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python [[GitHub]](https://github.com/anderskm/gputil)
