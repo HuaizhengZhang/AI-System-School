@@ -87,6 +87,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Course
 
+- Topics in Networks: Machine Learning for Networking and Systems, Autumn 2019 [[Course Website]](https://people.cs.uchicago.edu/~junchenj/34702-fall19/syllabus.html)
 - CS6465: Emerging Cloud Technologies and Systems Challenges [[Cornell]](http://www.cs.cornell.edu/courses/cs6465/2019fa/)
 - CS294: AI For Systems and Systems For AI. [[UC Berkeley Spring]](https://github.com/ucbrise/cs294-ai-sys-sp19) (*Strong Recommendation*) [[Machine Learning Systems (Fall 2019)]](https://ucbrise.github.io/cs294-ai-sys-fa19/)
 - CSE 599W: System for ML.  [[Chen Tianqi]](https://github.com/tqchen) [[University of Washington]](http://dlsys.cs.washington.edu/)
