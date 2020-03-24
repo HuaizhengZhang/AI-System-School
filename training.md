@@ -39,6 +39,8 @@ System for deep learning training.
 
 
 ## Training(Multi-jobs on cluster)
+
+- Microsoft OpenPAI HiveDScheduler: As one standalone component of Microsoft OpenPAI, HiveD is designed to be a Kubernetes Scheduler Extender for Multi-Tenant GPU clusters. [[Project]](https://github.com/microsoft/hivedscheduler)
 - Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
   - Xiao, Wencong, et al. (*OSDI 2018*)
   - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
