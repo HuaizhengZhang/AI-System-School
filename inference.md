@@ -80,7 +80,7 @@ System for machine learning inference.
 
 ## Cluster Management for Inference (now only contain multi-tenant)
 
-- Ease. ml: Towards multi-tenant resource sharing for machine learning workloads [[Paper]](http://www.vldb.org/pvldb/vol11/p607-li.pdf)
+- Ease. ml: Towards multi-tenant resource sharing for machine learning workloads [[Paper]](http://www.vldb.org/pvldb/vol11/p607-li.pdf) [[GitHub]](https://github.com/DS3Lab/easeml) [[Demo]](http://www.vldb.org/pvldb/vol11/p2054-karlas.pdf)
   - Li, Tian, et al
   - Proceedings of the VLDB Endowment 11.5 (2018): 607-620.
 - Perseus: Characterizing Performance and Cost of Multi-Tenant Serving for CNN Models [[Paper]](https://arxiv.org/pdf/1912.02322.pdf)
