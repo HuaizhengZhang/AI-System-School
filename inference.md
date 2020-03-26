@@ -15,6 +15,7 @@ System for machine learning inference.
 
 ## Model Serving
 
+- Seldon Core: Blazing Fast, Industry-Ready ML. An open source platform to deploy your machine learning models on Kubernetes at massive scale. [[GitHub]](https://github.com/SeldonIO/seldon-core)
 - MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving [[Paper]](https://www.usenix.org/system/files/atc19-zhang-chengliang.pdf) [[GitHub]](https://github.com/marcoszh/MArk-Project)
   - Zhang, C., Yu, M., Wang, W. and Yan, F., 2019. 
   - In 2019 {USENIX} Annual Technical Conference ({USENIX}{ATC} 19) (pp. 1049-1062).
