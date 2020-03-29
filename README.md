@@ -168,6 +168,9 @@ A curated list of research in machine learning system. Link to the code if avail
 - PAI: OpenPAI is an open source platform that provides complete AI model training and resource management capabilities. [[Microsoft Project]](https://github.com/Microsoft/pai#resources)
 - Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems [[Facebook Project]](https://github.com/facebook/bistro)
 - GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network. [[GitHub]](https://github.com/gnes-ai/gnes)
+- Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.[[GitHub]](https://github.com/Jittor/jittor)
+- MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.[[GitHub]](https://github.com/mindspore-ai/mindspore)
+- MegEngine is a fast, scalable and easy-to-use numerical evaluation framework, with auto-differentiation.[[GitHub]](https://github.com/MegEngine/MegEngine)
 
 
 
