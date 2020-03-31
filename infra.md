@@ -3,8 +3,9 @@
 Frameworks, infra and useful toolkits (e.g., visulization) for training, inference or both. You can check [[AI infrastructures list]](https://github.com/1duo/awesome-ai-infrastructures) for more.
 
 - [Paper](#paper)
-- [Tool](#userful-tools)
 - [Project with code](#project)
+- [GPU tech](#gpu-sharing)
+- [Tool](#userful-tools)
 
 ## Paper
 
