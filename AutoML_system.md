@@ -22,6 +22,8 @@
 - Facebook/Ax: Adaptive experimentation is the machine-learning guided process of iteratively exploring a (possibly infinite) parameter space in order to identify optimal configurations in a resource-efficient manner. [[GitHub]](https://github.com/facebook/Ax)
 - DeepSwarm: DeepSwarm is an open-source library which uses Ant Colony Optimization to tackle the neural architecture search problem. [[GitHub]](https://github.com/Pattio/DeepSwarm)
 - Google/AdaNet: AdaNet is a lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert. Importantly, AdaNet provides a general framework for not only learning a neural network architecture, but also for learning to ensemble to obtain even better models. [[GitHub]](https://github.com/tensorflow/adanet)
+- TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning [[GitHub]](https://github.com/salesforce/TransmogrifAI)
+- Angel-ML/automl:An automatic machine learning toolkit, including hyper-parameter tuning and feature engineering. [[GitHub]](https://github.com/Angel-ML/automlI)
 
 
 ## Auto Model Selection
