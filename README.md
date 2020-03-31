@@ -34,6 +34,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Deep Reinforcement Learning System](drl_system.md#deep-reinforcement-learning-system)
 - [Edge AI](edge_system.md#edge-or-mobile-papers)
 - [Video System](video_system.md#video-system)
+- [GNN System](gnn_system.md#system-for-gnn-traininginference)
 
 ## Survey
 - Toward Highly Available, Intelligent Cloud and ML Systems [[Slide]](http://sysnetome.com/Talks/cguo_netai_2018.pdf)
