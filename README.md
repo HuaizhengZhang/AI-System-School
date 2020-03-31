@@ -22,8 +22,6 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Video](#video)
 - [Course](#course)
 - [Blog](#blog)
-- [Tool](#userful-tools)
-- [Project with code](#project)
 
 ## System for AI Papers
 - [Data Processing](data_processing.md#data-processing)
