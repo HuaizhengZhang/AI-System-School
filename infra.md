@@ -1,8 +1,10 @@
 # Machine Learning Infrastructure
 
-Frameworks, infra and useful toolkits (e.g., visulization) for training, inference or both.
+Frameworks, infra and useful toolkits (e.g., visulization) for training, inference or both. You can check [[AI infrastructures list]](https://github.com/1duo/awesome-ai-infrastructures) for more.
 
-- AI infrastructures list [[GitHub]](https://github.com/1duo/awesome-ai-infrastructures)
+- [Paper](#paper)
+- [Tool](#userful-tools)
+- [Project with code](#project)
 
 ## Paper
 
