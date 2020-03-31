@@ -34,7 +34,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Deep Reinforcement Learning System](drl_system.md#deep-reinforcement-learning-system)
 - [Edge AI](edge_system.md#edge-or-mobile-papers)
 - [Video System](video_system.md#video-system)
-- [GNN System](gnn_system.md#system-for-gnn-traininginference)
+- [GNN System](GNN_system.md#system-for-gnn-traininginference)
 
 ## Survey
 - Toward Highly Available, Intelligent Cloud and ML Systems [[Slide]](http://sysnetome.com/Talks/cguo_netai_2018.pdf)
@@ -126,52 +126,6 @@ A curated list of research in machine learning system. Link to the code if avail
 - TensorFlow Serving + Docker + Tornado机器学习模型生产级快速部署 [[Blog]](https://zhuanlan.zhihu.com/p/52096200?utm_source=wechat_session&utm_medium=social&utm_oi=38612796178432)
 - Deploying a Machine Learning Model as a REST API [[Blog]](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
 
-## Userful Tools
-
-#### Profile
-- Collective Knowledge repository to automate MLPerf - a broad ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms [[GitHub]](https://github.com/ctuning/ck-mlperf)
-- NetworKit is a growing open-source toolkit for large-scale network analysis. [[GitHub]](https://github.com/kit-parco/networkit)
-- gpu-sentry: Flask-based package for monitoring utilisation of nVidia GPUs. [[GitHub]](https://github.com/jacenkow/gpu-sentry)
-- anderskm/gputil: A Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python [[GitHub]](https://github.com/anderskm/gputil)
-- Pytorch-Memory-Utils: detect your GPU memory during training with Pytorch. [[GitHub]](https://github.com/Oldpan/Pytorch-Memory-Utils)
-- torchstat: a lightweight neural network analyzer based on PyTorch. [[GitHub]](https://github.com/Swall0w/torchstat)
-- NVIDIA GPU Monitoring Tools [[GitHub]](https://github.com/NVIDIA/gpu-monitoring-tools)
-- PyTorch/cpuinfo: cpuinfo is a library to detect essential for performance optimization information about host CPU. [[GitHub]](https://github.com/pytorch/cpuinfo)
-- Popular Network memory consumption and FLOP counts [[GitHub]](https://github.com/albanie/convnet-burden)
-- Intel® VTune™ Amplifier [[Website]](https://software.intel.com/en-us/vtune)
-  - Stop guessing why software is slow. Advanced sampling and profiling techniques quickly analyze your code, isolate issues, and deliver insights for optimizing performance on modern processors
-- Pyflame: A Ptracing Profiler For Python [[GitHub]](https://github.com/uber/pyflame)
-
-#### Others
-- Facebook AI Performance Evaluation Platform [[GitHub]](https://github.com/facebook/FAI-PEP)
-- Netron: Visualizer for deep learning and machine learning models [[GitHub]](https://github.com/lutzroeder/netron)
-- Facebook/FBGEMM: FBGEMM (Facebook GEneral Matrix Multiplication) is a low-precision, high-performance matrix-matrix multiplications and convolution library for server-side inference. [[GitHub]](https://github.com/pytorch/FBGEMM)
-- Dslabs: Distributed Systems Labs and Framework for UW system course [[GitHub]](https://github.com/emichael/dslabs)
-- Machine Learning Model Zoo [[Website]](https://modelzoo.co/)
-- Faiss: A library for efficient similarity search and clustering of dense vectors [[GitHub]](https://github.com/facebookresearch/faiss)
-- Microsoft/MMdnn: A comprehensive, cross-framework solution to convert, visualize and diagnose deep neural network models.[[GitHub]](https://github.com/Microsoft/MMdnn)
-- gpushare-scheduler-extender [[GitHub]](https://github.com/HuaizhengZhang/gpushare-scheduler-extender)
-  - More and more data scientists run their Nvidia GPU based inference tasks on Kubernetes. Some of these tasks can be run on the same Nvidia GPU device to increase GPU utilization. So one important challenge is how to share GPUs between the pods
-- Example recipes for Kubernetes Network Policies that you can just copy paste [[GitHub]](https://github.com/ahmetb/kubernetes-network-policy-recipes)
-
-
-## Project
-
-- Machine Learning for .NET [[GitHub]](https://github.com/dotnet/machinelearning)
-  - ML.NET is a cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
-  - ML.NET allows .NET developers to develop their own models and infuse custom machine learning into their applications, using .NET, even without prior expertise in developing or tuning machine learning models.
-- ONNX: Open Neural Network Exchange [[GitHub]](https://github.com/onnx/onnx)
-- ONNXRuntime: has an open architecture that is continually evolving to address the newest developments and challenges in AI and Deep Learning. ONNX Runtime stays up to date with the ONNX standard, supporting all ONNX releases with future compatibility and maintaining backwards compatibility with prior releases. [[GitHub]](https://github.com/microsoft/onnxruntime)
-- BentoML: Machine Learning Toolkit for packaging and deploying models [[GitHub]](https://github.com/bentoml/BentoML)
-- EuclidesDB: A multi-model machine learning feature embedding database [[GitHub]](https://github.com/perone/euclidesdb)
-- Prefect: Perfect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. [[GitHub]](https://github.com/PrefectHQ/prefect)
-- MindsDB: MindsDB's goal is to make it very simple for developers to use the power of artificial neural networks in their projects [[GitHub]](https://github.com/mindsdb/mindsdb)
-- PAI: OpenPAI is an open source platform that provides complete AI model training and resource management capabilities. [[Microsoft Project]](https://github.com/Microsoft/pai#resources)
-- Bistro: Scheduling Data-Parallel Jobs Against Live Production Systems [[Facebook Project]](https://github.com/facebook/bistro)
-- GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network. [[GitHub]](https://github.com/gnes-ai/gnes)
-- Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.[[GitHub]](https://github.com/Jittor/jittor)
-- MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.[[GitHub]](https://github.com/mindspore-ai/mindspore)
-- MegEngine is a fast, scalable and easy-to-use numerical evaluation framework, with auto-differentiation.[[GitHub]](https://github.com/MegEngine/MegEngine)
 
 
 
