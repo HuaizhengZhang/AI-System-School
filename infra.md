@@ -14,6 +14,15 @@ Frameworks, infra and useful toolkits (e.g., visulization) for training, inferen
   - ACM SIGOPS Operating Systems Review, 53(1), pp.68-74.
   - Summary: Make the system learnable. Propose a framework named AutoSys which contains both training plane and inference plane
 
+*These two papers are not only for ML but also for Big Data and they are too good to be ingnore.*
+
+- Apache hadoop yarn: Yet another resource negotiator [[Paper]](https://www.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/reading_list/YARN.pdf)
+  - Vavilapalli, Vinod Kumar, et al. 
+  - Proceedings of the 4th annual Symposium on Cloud Computing. 2013.
+- Mesos: A platform for fine-grained resource sharing in the data center [[Paper]](https://people.eecs.berkeley.edu/~alig/papers/mesos.pdf)
+  - Hindman, Benjamin, et al
+  - NSDI. Vol. 11. No. 2011. 2011.
+
 
 ## Project
 
