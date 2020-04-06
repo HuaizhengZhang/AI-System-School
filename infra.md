@@ -17,7 +17,7 @@ Frameworks, infra and useful toolkits (e.g., visulization) for training, inferen
 *These three papers are not only for ML but also for Big Data and they are too good to be ingnored.*
 
 
-- Large-scale cluster management at Google with Borg 
+- Large-scale cluster management at Google with Borg [[Paper]](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
   - Verma, Abhishek, et al
   - Proceedings of the Tenth European Conference on Computer Systems. 2015.
 - Apache hadoop yarn: Yet another resource negotiator [[Paper]](https://www.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/reading_list/YARN.pdf)
