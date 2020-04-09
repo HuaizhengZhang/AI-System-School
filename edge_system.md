@@ -4,6 +4,7 @@ This part contains papers of projects of edge or mobile system for ML.
 
 ## Project
 
+- Tengine, developed by OPEN AI LAB, is an AI application development platform for AIoT scenarios launched by OPEN AI LAB, which is dedicated to solving the fragmentation problem of aiot industrial chain and accelerating the landing of AI industrialization. [[GitHub]](https://github.com/OAID/Tengine)
 - Mobile Computer Vision @ Facebook [[GitHub]](https://github.com/facebookresearch/mobile-vision)
 - alibaba/MNN: MNN is a lightweight deep neural network inference engine. It loads models and do inference on devices. [[GitHub]](https://github.com/alibaba/MNN)
 - XiaoMi/mobile-ai-bench: Benchmarking Neural Network Inference on Mobile Devices [[GitHub]](https://github.com/XiaoMi/mobile-ai-bench)
