@@ -7,8 +7,12 @@ System for machine learning inference.
 - Bianco, Simone, et al. "Benchmark analysis of representative deep neural network architectures." IEEE Access 6 (2018): 64270-64277. [[Paper]](https://arxiv.org/abs/1810.00736)
 - Almeida, Mario, et al. "EmBench: Quantifying Performance Variations of Deep Neural Networks across Modern Commodity Devices." The 3rd International Workshop on Deep Learning for Mobile Systems and Applications. 2019. [[Paper]](https://arxiv.org/pdf/1905.07346.pdf)
 
-## Model Zoo (Experiment Version Control)
+## Model Management
 
+- DLHub: Model and data serving for science.  [[Paper]](https://arxiv.org/pdf/1811.11213.pdf)
+  - Chard, R., Li, Z., Chard, K., Ward, L., Babuji, Y., Woodard, A., Tuecke, S., Blaiszik, B., Franklin, M. and Foster, I., 2019, May. 
+  - In 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS) (pp. 283-292). IEEE. 
+- Publishing and Serving Machine Learning Models with DLHub. [[Paper]](https://dl.acm.org/doi/10.1145/3332186.3332246)
 - TRAINS - Auto-Magical Experiment Manager & Version Control for AI [[GitHub]](https://github.com/allegroai/trains)
 - ModelDB: A system to manage ML models [[GitHub]](https://github.com/mitdbg/modeldb) [[MIT short paper]](https://mitdbg.github.io/modeldb/papers/hilda_modeldb.pdf)
 - iterative/dvc: Data & models versioning for ML projects, make them shareable and reproducible [[GitHub]](https://github.com/iterative/dvc)
