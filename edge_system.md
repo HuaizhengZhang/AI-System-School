@@ -12,6 +12,10 @@ This part contains papers of projects of edge or mobile system for ML.
 
 
 ## Paper
+
+- Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[GitHub]](https://arxiv.org/pdf/2001.06901.pdf)
+  - Bensalem, M., Dizdarević, J. and Jukan, A., 2020.
+  - arXiv preprint arXiv:2001.06901. 
 - Latency and Throughput Characterization of Convolutional Neural Networks for Mobile Computer Vision [[Paper]](https://arxiv.org/pdf/1803.09492.pdf)
   - Hanhirova, J., Kämäräinen, T., Seppälä, S., Siekkinen, M., Hirvisalo, V. and Ylä-Jääski
   - In Proceedings of the 9th ACM Multimedia Systems Conference (pp. 204-215).
