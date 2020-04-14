@@ -40,6 +40,9 @@ System for deep learning training.
 
 ## Training(Multi-jobs on cluster)
 
+- Themis: Fair and Efficient {GPU} Cluster Scheduling. [[Paper]](http://wisr.cs.wisc.edu/papers/nsdi20-themis.pdf)
+  - Mahajan, K., Balasubramanian, A., Singhvi, A., Venkataraman, S., Akella, A., Phanishayee, A. and Chawla, S., 2020. Themis: Fair and Efficient {GPU} Cluster Scheduling.
+  - In 17th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 20) (pp. 289-304).
 - Tiresias: A {GPU} cluster manager for distributed deep learning. [[Paper]](https://www.usenix.org/system/files/nsdi19-gu.pdf) [[GitHub]](https://github.com/SymbioticLab/Tiresias)
   - Gu, J., Chowdhury, M., Shin, K.G., Zhu, Y., Jeon, M., Qian, J., Liu, H. and Guo, C., 2019. 
   - In 16th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 19) (pp. 485-500).
