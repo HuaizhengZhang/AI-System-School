@@ -40,6 +40,9 @@ System for deep learning training.
 
 ## Training(Multi-jobs on cluster)
 
+- Tiresias: A {GPU} cluster manager for distributed deep learning. [[Paper]](https://www.usenix.org/system/files/nsdi19-gu.pdf) [[GitHub]](https://github.com/SymbioticLab/Tiresias)
+  - Gu, J., Chowdhury, M., Shin, K.G., Zhu, Y., Jeon, M., Qian, J., Liu, H. and Guo, C., 2019. 
+  - In 16th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 19) (pp. 485-500).
 - Microsoft OpenPAI HiveDScheduler: As one standalone component of Microsoft OpenPAI, HiveD is designed to be a Kubernetes Scheduler Extender for Multi-Tenant GPU clusters. [[Project]](https://github.com/microsoft/hivedscheduler)
 - Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
   - Xiao, Wencong, et al. (*OSDI 2018*)
