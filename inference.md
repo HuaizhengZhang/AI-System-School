@@ -25,7 +25,6 @@ System for machine learning inference.
   - Zhang, C., Yu, M., Wang, W. and Yan, F., 2019. 
   - In 2019 {USENIX} Annual Technical Conference ({USENIX}{ATC} 19) (pp. 1049-1062).
   - Summary: address the scalability and cost minimization issues for model serving on the public cloud.
-  
 - Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. [[arxiv]](https://arxiv.org/pdf/1906.01974.pdf)[[GitHub]](https://github.com/stanford-futuredata/Willump)
   - Peter Kraft, Daniel Kang, Deepak Narayanan, Shoumik Palkar, Peter Bailis, Matei Zaharia.
   - arXiv Preprint. 2019.
