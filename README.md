@@ -23,7 +23,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Course](#course)
 - [Blog](#blog)
 
-## System for AI Papers
+## System for AI Papers (Ordered by Category)
 - [Data Processing](data_processing.md#data-processing)
 - [Training System](training.md#training-system)
 - [Inference System](inference.md#inference-system)
@@ -33,6 +33,10 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Edge AI](edge_system.md#edge-or-mobile-papers)
 - [Video System](video_system.md#video-system)
 - [GNN System](GNN_system.md#system-for-gnn-traininginference)
+
+## Paper Ordered by Conference
+
+- [Conference](conference.md#conference)
 
 ## Survey
 - Toward Highly Available, Intelligent Cloud and ML Systems [[Slide]](http://sysnetome.com/Talks/cguo_netai_2018.pdf)
