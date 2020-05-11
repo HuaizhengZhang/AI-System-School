@@ -1,4 +1,4 @@
-# ML system at Conference
+# ML system at Top System Conference
 
 ## 2020
 
@@ -18,3 +18,24 @@
   - Shichang Xu (University of Michigan), Subhabrata Sen (AT&T Labs Research), Z. Morley Mao (University of Michigan)
 - Env2Vec: Accelerating VNF Testing with Deep Learning
   - Guangyuan Piao, Patrick K. Nicholson, Diego Lugones (Nokia Bell Labs)
+  
+  
+## 2019
+
+### ATC 2019
+
+- The Design and Operation of CloudLab [[Paper]](https://www.usenix.org/system/files/atc19-duplyakin_0.pdf)
+  - Dmitry Duplyakin, Robert Ricci, Aleksander Maricq, Gary Wong, Jonathon Duerig, Eric Eide, Leigh Stoller, Mike Hibler, David Johnson, and Kirk Webb, University of Utah; Aditya Akella, University of Wisconsin—Madison; Kuangching Wang, Clemson University; Glenn Ricart, US Ignite; Larry Landweber, University of Wisconsin—Madison; Chip Elliott, Raytheon; Michael Zink and Emmanuel Cecchet, University of Massachusetts Amherst; Snigdhaswin Kar and Prabodh Mishra, Clemson University
+- NeuGraph: Parallel Deep Neural Network Computation on Large Graphs [[Paper]](https://www.usenix.org/system/files/atc19-ma_0.pdf)
+  - Lingxiao Ma and Zhi Yang, Peking University; Youshan Miao, Jilong Xue, Ming Wu, and Lidong Zhou, Microsoft Research; Yafei Dai, Peking University
+- Optimizing CNN Model Inference on CPUs [[Paper]](https://www.usenix.org/system/files/atc19-liu-yizhi.pdf)
+  - Yizhi Liu, Yao Wang, Ruofei Yu, Mu Li, Vin Sharma, and Yida Wang, Amazon
+- Accelerating Rule-matching Systems with Learned Rankers [[Paper]](https://www.usenix.org/system/files/atc19-li-zhao-lucas.pdf)
+  - Zhao Lucis Li, University of Science and Technology China; Chieh-Jan Mike Liang and Wei Bai, Microsoft Research; Qiming Zheng, Shanghai Jiao Tong University; Yongqiang Xiong, Microsoft Research; Guangzhong Sun, University of Science and Technology China
+- MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving [[Paper]](https://www.usenix.org/system/files/atc19-zhang-chengliang.pdf)
+  - Chengliang Zhang, Minchen Yu, and Wei Wang, Hong Kong University of Science and Technology; Feng Yan, University of Nevada, Reno  
+- Cross-dataset Time Series Anomaly Detection for Cloud Systems [[Paper]](https://www.usenix.org/system/files/atc19-zhang-xu.pdf)
+  - Xu Zhang, Microsoft Research, Nanjing University; Qingwei Lin, Yong Xu, and Si Qin, Microsoft Research; Hongyu Zhang, The University of Newcastle; Bo Qiao, Microsoft Research; Yingnong Dang, Xinsheng Yang, Qian Cheng, Murali Chintalapati, Youjiang Wu, and Ken Hsieh, Microsoft; Kaixin Sui, Xin Meng, Yaohai Xu, and Wenchi Zhang, Microsoft Research; Furao Shen, Nanjing University; Dongmei Zhang, Microsoft Research
+
+
+
