@@ -29,7 +29,7 @@ Frameworks, infra and useful toolkits (e.g., visulization) for training, inferen
 
 
 ## ML Platform
-
+- Submitit is a lightweight tool for submitting Python functions for computation within a Slurm cluster [[GitHub]](https://github.com/facebookincubator/submitit)
 - Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.[[GitHub]](https://github.com/Jittor/jittor)
 - MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.[[GitHub]](https://github.com/mindspore-ai/mindspore)
 - MegEngine is a fast, scalable and easy-to-use numerical evaluation framework, with auto-differentiation.[[GitHub]](https://github.com/MegEngine/MegEngine)
