@@ -2,6 +2,20 @@
 
 ## 2020
 
+### NSDI 2020
+
+- Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-li.pdf)
+  - Ze Li, Qian Cheng, Ken Hsieh, and Yingnong Dang, Microsoft Azure; Peng Huang, Johns Hopkins University; Pankaj Singh and Xinsheng Yang, Microsoft Azure; Qingwei Lin, Microsoft Research; Youjiang Wu, Sebastien Levy, and Murali Chintalapati, Microsoft Azure
+- Learning in situ: a randomized experiment in video streaming [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-yan.pdf)
+  - Francis Y. Yan and Hudson Ayers, Stanford University; Chenzhi Zhu, Tsinghua University; Sadjad Fouladi, James Hong, Keyi Zhang, Philip Levis, and Keith Winstein, Stanford University
+- Telekine: Secure Computing with Cloud GPUs [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-hunt.pdf)
+  - Tyler Hunt, Zhipeng Jia, Vance Miller, Ariel Szekely, and Yige Hu, The University of Texas at Austin; Christopher J. Rossbach, The University of Texas at Austin and VMware Research; Emmett Witchel, The University of Texas at Austin
+- Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf)
+  - Sonu Mehta, Ranjita Bhagwan, and Rahul Kumar, Microsoft Research India; Chetan Bansal, Microsoft Research; Chandra Maddila and B. Ashok, Microsoft Research India; Sumit Asthana, University of Michigan; Christian Bird, Microsoft Research; Aditya Kumar
+- Themis: Fair and Efficient GPU Cluster Scheduling [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-mahajan.pdf)
+  - Kshiteej Mahajan, Arjun Balasubramanian, Arjun Singhvi, Shivaram Venkataraman, and Aditya Akella, University of Wisconsin-Madison; Amar Phanishayee, Microsoft Research; Shuchi Chawla, University of Wisconsin-Madison
+
+
 ### Eurosys 2020
 
 - Balancing Efficiency and Fairness in Heterogeneous GPU Clusters for Deep Learning [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3342195.3387555)
