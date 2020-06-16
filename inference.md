@@ -19,6 +19,10 @@ System for machine learning inference.
 
 ## Model Serving
 
+- Swift machine learning model serving scheduling: a region based reinforcement learning approach. [[Paper]](https://dl.acm.org/doi/10.1145/3295500.3356164) [[GitHub]](https://github.com/SC-RRL/RRL)
+  - Qin, Heyang, Syed Zawad, Yanqi Zhou, Lei Yang, Dongfang Zhao, and Feng Yan.
+  - In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-23. 2019.
+  - Summary: The system performances under different similar con- figurations in a region can be accurately estimated by using the system performance under one of these configurations, due to their similarity. Region based DRL is designed for parallelism selection.
 - TorchServe is a flexible and easy to use tool for serving PyTorch models. [[GitHub]](https://github.com/pytorch/serve)
 - Seldon Core: Blazing Fast, Industry-Ready ML. An open source platform to deploy your machine learning models on Kubernetes at massive scale. [[GitHub]](https://github.com/SeldonIO/seldon-core)
 - MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving [[Paper]](https://www.usenix.org/system/files/atc19-zhang-chengliang.pdf) [[GitHub]](https://github.com/marcoszh/MArk-Project)
