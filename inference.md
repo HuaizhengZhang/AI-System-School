@@ -18,7 +18,10 @@ System for machine learning inference.
 - iterative/dvc: Data & models versioning for ML projects, make them shareable and reproducible [[GitHub]](https://github.com/iterative/dvc)
 
 ## Model Serving
-
+- Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/2017.Middleware.Swayam.TailLatencyInAzureML.pdf)
+  - Gujarati, Arpan, Sameh Elnikety, Yuxiong He, Kathryn S. McKinley, and Björn B. Brandenburg.
+  - In Proceedings of the 18th ACM/IFIP/USENIX Middleware Conference, pp. 109-120. 2017.
+  - Summary: a cloud autoscaler. (1) model-based autoscaling that takes into account SLAs and ML inference workload characteristics, (2) a distributed protocol that uses partial load information and prediction at frontends to provi- sion new service instances, and (3) a backend self-decommissioning protocol for service instances
 - Swift machine learning model serving scheduling: a region based reinforcement learning approach. [[Paper]](https://dl.acm.org/doi/10.1145/3295500.3356164) [[GitHub]](https://github.com/SC-RRL/RRL)
   - Qin, Heyang, Syed Zawad, Yanqi Zhou, Lei Yang, Dongfang Zhao, and Feng Yan.
   - In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, pp. 1-23. 2019.
