@@ -100,6 +100,7 @@ System for machine learning inference.
   - arXiv preprint arXiv:1912.02322 (2019).
   
 ## Machine Learning Compiler
+- Hummingbird: Hummingbird is a library for compiling trained traditional ML models into tensor computations. Hummingbird allows users to seamlessly leverage neural network frameworks (such as PyTorch) to accelerate traditional ML models.[[GitHub]](https://github.com/microsoft/hummingbird)
 - {TVM}: An Automated End-to-End Optimizing Compiler for Deep Learning [[Paper]](https://www.usenix.org/system/files/osdi18-chen.pdf) [[YouTube]](https://www.youtube.com/watch?v=I1APhlSjVjs) [[Project Website]](https://tvm.ai/)
   - Chen, Tianqi, et al. (*OSDI 2018*)
   - Summary: Automated optimization is very impressive: cost model (rank objective function) + schedule explorer (parallel simulated annealing)
