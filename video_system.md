@@ -10,7 +10,7 @@
 - Pretrained image and video models for Pytorch. [[GitHub]](https://github.com/alexandonian/pretorched-x)
 - LiveDetect - Live video client to DeepDetect. [[GitHub]](https://github.com/jolibrain/livedetect)
 
-## Papers
+## Video Analysis Papers
 
 - Fu, Daniel Y., et al. "Rekall: Specifying video events using compositions of spatiotemporal labels." arXiv preprint arXiv:1910.02993 (2019). [[Paper]](https://arxiv.org/pdf/1910.02993.pdf)
 - Puffer: Puffer is a Stanford University research study about using machine learning to improve video-streaming algorithms. Please visit [[GitHub]](https://github.com/StanfordSNR/puffer)
@@ -38,6 +38,15 @@
 - Rosetta: Large scale system for text detection and recognition in images [[Paper]](https://research.fb.com/wp-content/uploads/2018/10/Rosetta-Large-scale-system-for-text-detection-and-recognition-in-images.pdf)
   - Borisyuk, Fedor, Albert Gordo, and Viswanath Sivakumar. (*KDD 2018*)
   - Summary: 
+
+## Video Streaming Papers 
+
+- Learning in situ: a randomized experiment in video streaming [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-yan.pdf)
+  - Francis Y. Yan and Hudson Ayers, Stanford University; Chenzhi Zhu, Tsinghua University; Sadjad Fouladi, James Hong, Keyi Zhang, Philip Levis, and Keith Winstein, Stanford University (*NSDI2020*)
+- CSI: Inferring Mobile ABR Video Adaptation Behavior under HTTPS and QUIC [[Paper]](https://dl.acm.org/doi/abs/10.1145/3342195.3387558)
+  - Shichang Xu (University of Michigan), Subhabrata Sen (AT&T Labs Research), Z. Morley Mao (University of Michigan) (*Eurosys2020*)
+- Reconstructing proprietary video streaming algorithms [[Paper]](https://www.usenix.org/conference/atc20/presentation/gruener)
+  - Maximilian Grüner, Melissa Licciardello, and Ankit Singla, ETH Zürich (*ATC2020*)
 - Neural adaptive content-aware internet video delivery. [[Paper]](https://www.usenix.org/system/files/osdi18-yeo.pdf) [[GitHub]](https://github.com/kaist-ina/NAS_public)
   - Yeo, H., Jung, Y., Kim, J., Shin, J. and Han, D., 2018.  (*OSDI 2018*)
   - Summary: Combine video super-resolution and ABR
