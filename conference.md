@@ -19,7 +19,7 @@
 - HotEdge
 - HotEdge
 - HotOS
-
+- NetAI (ACM SIGCOMM Workshop on Network Meets AI & ML)
 
 ## Year 2020
 
