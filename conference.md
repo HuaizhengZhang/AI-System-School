@@ -57,8 +57,6 @@ Most of the papers deserve to be read.
 
 - Gandalf: An Intelligent, End-To-End Analytics Service for Safe Deployment in Large-Scale Cloud Infrastructure [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-li.pdf)
   - Ze Li, Qian Cheng, Ken Hsieh, and Yingnong Dang, Microsoft Azure; Peng Huang, Johns Hopkins University; Pankaj Singh and Xinsheng Yang, Microsoft Azure; Qingwei Lin, Microsoft Research; Youjiang Wu, Sebastien Levy, and Murali Chintalapati, Microsoft Azure
-- Learning in situ: a randomized experiment in video streaming [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-yan.pdf)
-  - Francis Y. Yan and Hudson Ayers, Stanford University; Chenzhi Zhu, Tsinghua University; Sadjad Fouladi, James Hong, Keyi Zhang, Philip Levis, and Keith Winstein, Stanford University
 - Telekine: Secure Computing with Cloud GPUs [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-hunt.pdf)
   - Tyler Hunt, Zhipeng Jia, Vance Miller, Ariel Szekely, and Yige Hu, The University of Texas at Austin; Christopher J. Rossbach, The University of Texas at Austin and VMware Research; Emmett Witchel, The University of Texas at Austin
 - Rex: Preventing Bugs and Misconfiguration in Large Services Using Correlated Change Analysis [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-mehta.pdf)
@@ -79,8 +77,6 @@ Most of the papers deserve to be read.
   - Muhammad Tirmazi (Harvard University), Adam Barker (Google and University of St Andrews), Nan Deng, Md Ehtesam Haque, Zhijing Gene Qin, Steven Hand (Google), Mor Harchol-Balter (Carnegie Mellon University), John Wilkes (Google)
 - AlloX: Compute Allocation in Hybrid Clusters [[Paper]](https://www.mosharaf.com/wp-content/uploads/allox-eurosys20.pdf)
   - Tan N. Le (SUNY Korea, Stony Brook University), Xiao Sun (Stony Brook University), Mosharaf Chowdhury (University of Michigan), Zhenhua Liu (Stony Brook University)
-- CSI: Inferring Mobile ABR Video Adaptation Behavior under HTTPS and QUIC [[Paper]](https://dl.acm.org/doi/abs/10.1145/3342195.3387558)
-  - Shichang Xu (University of Michigan), Subhabrata Sen (AT&T Labs Research), Z. Morley Mao (University of Michigan)
 - Env2Vec: Accelerating VNF Testing with Deep Learning [[Paper]](https://dl.acm.org/doi/abs/10.1145/3342195.3387525)
   - Guangyuan Piao, Patrick K. Nicholson, Diego Lugones (Nokia Bell Labs)
   
