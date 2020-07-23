@@ -23,6 +23,30 @@
 
 ## Year 2020
 
+### ATC 2020 [[Program]](https://www.usenix.org/conference/atc20/technical-sessions)
+
+- Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider [[Paper]](https://www.usenix.org/conference/atc20/presentation/shahrad)
+  - Mohammad Shahrad, Rodrigo Fonseca, Íñigo Goiri, Gohar Chaudhry, Paul Batum, Jason Cooke, Eduardo Laureano, Colby Tresness, Mark Russinovich, and Ricardo Bianchini, Microsoft Azure and Microsoft Research
+  - Summary: Since many ML services are stateless, FaaS is a good chance to reduce cost. This paper analyzes the real-wolrd workload on FaaS and provides a good dataset.
+- Lessons Learned from the Chameleon Testbed [[Paper]](https://www.usenix.org/conference/atc20/presentation/keahey)
+  - Kate Keahey, Argonne National Laboratory; Jason Anderson and Zhuo Zhen, University of Chicago; Pierre Riteau, StackHPC Ltd; Paul Ruth, RENCI UNC Chapel Hill; Dan Stanzione, Texas Advanced Computing Center; Mert Cevik, RENCI UNC Chapel Hill; Jacob Colleran and Haryadi S. Gunawi, University of Chicago; Cody Hammock, Texas Advanced Computing Center; Joe Mambretti, Northwestern University; Alexander Barnes, François Halbah, Alex Rocha, and Joe Stubbs, Texas Advanced Computing Center
+- Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads [[Paper]](https://www.usenix.org/conference/atc20/presentation/yuan)
+  - Gina Yuan, Shoumik Palkar, Deepak Narayanan, and Matei Zaharia, Stanford University
+- HetPipe: Enabling Large DNN Training on (Whimpy) Heterogeneous GPU Clusters through Integration of Pipelined Model Parallelism and Data Parallelism [[Paper]](https://www.usenix.org/conference/atc20/presentation/park)
+  - Jay H. Park, Gyeongchan Yun, Chang M. Yi, Nguyen T. Nguyen, and Seungmin Lee, UNIST; Jaesik Choi, KAIST; Sam H. Noh and Young-ri Choi, UNIST
+- AutoSys: The Design and Operation of Learning-Augmented Systems [[Paper]](https://www.usenix.org/conference/atc20/presentation/liang-mike)
+  - Chieh-Jan Mike Liang, Hui Xue, Mao Yang, and Lidong Zhou, Microsoft Research; Lifei Zhu, Peking University and Microsoft Research; Zhao Lucis Li and Zibo Wang, University of Science and Technology of China and Microsoft Research; Qi Chen and Quanlu Zhang, Microsoft Research; Chuanjie Liu, Microsoft Bing Platform; Wenjun Dai, Microsoft Bing Ads
+- Daydream: Accurately Estimating the Efficacy of Optimizations for DNN Training [[Paper]](https://www.usenix.org/conference/atc20/presentation/zhu-hongyu)
+  - Hongyu Zhu, University of Toronto & Vector Institute; Amar Phanishayee, Microsoft Research; Gennady Pekhimenko, University of Toronto & Vector Institute
+- ALERT: Accurate Learning for Energy and Timeliness [[Paper]](https://www.usenix.org/conference/atc20/presentation/wan)
+  - Chengcheng Wan, Muhammad Santriaji, Eri Rogers, Henry Hoffmann, Michael Maire, and Shan Lu, University of Chicago
+- NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems [[Paper]](https://www.usenix.org/conference/atc20/presentation/bateni)
+  - Soroush Bateni and Cong Liu, University of Texas at Dallas
+- PERCIVAL: Making In-Browser Perceptual Ad Blocking Practical with Deep Learning [[Paper]](https://www.usenix.org/conference/atc20/presentation/din)
+  - Zainul Abi Din, UC Davis; Panagiotis Tigas, University of Oxford; Samuel T. King, UC Davis, Bouncer Technologies; Benjamin Livshits, Brave Software, Imperial College London
+
+
+
 ### ICLR 2020: Challenges in Deploying and Monitoring Machine Learning Systems [[Workshop]](https://icml.cc/Conferences/2020/Schedule?showEvent=5738)
 
 ### MLsys 2020 [[All Papers]](https://mlsys.org/Conferences/2020/ScheduleMultitrack?text=&session=&event_type=&day=)
