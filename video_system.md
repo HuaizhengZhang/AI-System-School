@@ -12,6 +12,10 @@
 
 ## Video Analysis Papers
 
+- Server-Driven Video Streaming for Deep Learning Inference [[Paper]](https://kuntaidu.github.io/assets/doc/DDS.pdf)
+  - Kuntai Du, Ahsan Pervaiz, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang (*SIGCOMM2020*)
+- Reducto: On-Camera Filtering for ResourceEfficient Real-Time Video Analytics [[Paper]](http://web.cs.ucla.edu/~harryxu/papers/li-sigcomm20.pdf)
+  - Yuanqi Li, Arthi Padmanabhan, Pengzhan Zhao, Yufei Wang, Guoqing Harry Xu, Ravi Netravali. (*SIGCOMM2020*)
 - Fu, Daniel Y., et al. "Rekall: Specifying video events using compositions of spatiotemporal labels." arXiv preprint arXiv:1910.02993 (2019). [[Paper]](https://arxiv.org/pdf/1910.02993.pdf)
 - Puffer: Puffer is a Stanford University research study about using machine learning to improve video-streaming algorithms. Please visit [[GitHub]](https://github.com/StanfordSNR/puffer)
 - Visual Road: A Video Data Management Benchmark [[Project Website]](http://db.cs.washington.edu/projects/visualroad/)
@@ -29,18 +33,18 @@
   - Summary: Information cache + difference detection model + small detection model + sequence optimizer
 - SVE: Distributed video processing at Facebook scale [[Paper]](http://www.cs.princeton.edu/~wlloyd/papers/sve-sosp17.pdf)
   - Huang, Qi, et al. (*SOSP2017*)
-  - Summary: 
 - Scanner: Efficient Video Analysis at Scale [[Paper]](http://graphics.stanford.edu/papers/scanner/poms18_scanner.pdf)[[GitHub]](https://github.com/scanner-research/scanner)
   - Poms, Alex, Will Crichton, Pat Hanrahan, and Kayvon Fatahalian (*SIGGRAPH 2018*)
-  - Summary:
 - A cloud-based large-scale distributed video analysis system [[Paper]](https://ai.google/research/pubs/pub45631)
   - Wang, Yongzhe, et al. (*ICIP 2016*)
 - Rosetta: Large scale system for text detection and recognition in images [[Paper]](https://research.fb.com/wp-content/uploads/2018/10/Rosetta-Large-scale-system-for-text-detection-and-recognition-in-images.pdf)
   - Borisyuk, Fedor, Albert Gordo, and Viswanath Sivakumar. (*KDD 2018*)
-  - Summary: 
 
-## Video Streaming Papers 
 
+## Video Streaming Papers
+
+- Neural-Enhanced Live Streaming: Improving Live Video Ingest via Online Learning [[Paper]](http://ina.kaist.ac.kr/~livenas/livenas_sigcomm2020.pdf)
+  - Jaehong Kim, Youngmok Jung, Hyunho Yeo, Juncheol Ye, and Dongsu Han (*SIGCOMM2020*)
 - Learning in situ: a randomized experiment in video streaming [[Paper]](https://www.usenix.org/system/files/nsdi20-paper-yan.pdf)
   - Francis Y. Yan and Hudson Ayers, Stanford University; Chenzhi Zhu, Tsinghua University; Sadjad Fouladi, James Hong, Keyi Zhang, Philip Levis, and Keith Winstein, Stanford University (*NSDI2020*)
 - CSI: Inferring Mobile ABR Video Adaptation Behavior under HTTPS and QUIC [[Paper]](https://dl.acm.org/doi/abs/10.1145/3342195.3387558)
