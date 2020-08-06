@@ -27,7 +27,7 @@ This part contains papers of projects of edge or mobile system for ML.
     - Wu, C., Brooks, D., Chen, K., Chen, D., Choudhury, S., Dukhan, M., ... & Zhang, P. 
     - high-performance computer architecture.(2019). 
 
-## Paper
+## Edge AI Paper
 
 - Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[GitHub]](https://arxiv.org/pdf/2001.06901.pdf)
     - Bensalem, M., Dizdarević, J. and Jukan, A., 2020.
@@ -90,13 +90,11 @@ This part contains papers of projects of edge or mobile system for ML.
     - Zhao, Z., Barijough, K. M., & Gerstlauer, A. 
     - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 37(11), 2348-2359.(2018). 
 
+## Fog AI Paper
 
-
-
-
-
-
-
+- Fogflow: Easy programming of iot services over cloud and edges for smart cities. [[Paper]](https://ieeexplore.ieee.org/document/8022859) [[GitHub]](https://github.com/smartfog/fogflow)
+  - Cheng, Bin, Gürkan Solmaz, Flavio Cirillo, Ernö Kovacs, Kazuyuki Terasawa, and Atsushi Kitazawa.
+  - IEEE Internet of Things Journal 5, no. 2 (2017): 696-707.
 
 
 
