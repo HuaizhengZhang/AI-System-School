@@ -9,6 +9,7 @@
 - ATC
 - Eurosys
 - Middleware
+- TinyML [[Link]](https://openreview.net/group?id=tinyml.org/tinyML/2021/Research_Symposium)
 
 ## Workshop
 
