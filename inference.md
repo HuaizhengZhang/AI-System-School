@@ -9,6 +9,7 @@ System for machine learning inference.
 
 ## Model Management
 
+- Model Card Toolkit. The Model Card Toolkit (MCT) streamlines and automates generation of Model Cards [1], machine learning documents that provide context and transparency into a model's development and performance. [[Paper]](https://arxiv.org/pdf/1810.03993.pdf) [[GitHub]](https://github.com/tensorflow/model-card-toolkit)
 - DLHub: Model and data serving for science.  [[Paper]](https://arxiv.org/pdf/1811.11213.pdf)
   - Chard, R., Li, Z., Chard, K., Ward, L., Babuji, Y., Woodard, A., Tuecke, S., Blaiszik, B., Franklin, M. and Foster, I., 2019, May. 
   - In 2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS) (pp. 283-292). IEEE. 
