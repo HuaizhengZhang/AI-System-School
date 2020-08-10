@@ -40,6 +40,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Survey
 - Toward Highly Available, Intelligent Cloud and ML Systems [[Slide]](http://sysnetome.com/Talks/cguo_netai_2018.pdf)
+- A curated list of awesome System Designing articles, videos and resources for distributed computing, AKA Big Data. [[GitHub]](https://github.com/madd86/awesome-system-design)
 - awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning [[GitHub]](https://github.com/EthicalML/awesome-production-machine-learning)
 - Opportunities and Challenges Of Machine Learning Accelerators In Production [[Paper]](https://www.usenix.org/system/files/opml19papers-ananthanarayanan.pdf)
   - Ananthanarayanan, Rajagopal, et al. "
