@@ -33,9 +33,6 @@ System for machine learning inference.
   - Zhang, C., Yu, M., Wang, W. and Yan, F., 2019. 
   - In 2019 {USENIX} Annual Technical Conference ({USENIX}{ATC} 19) (pp. 1049-1062).
   - Summary: address the scalability and cost minimization issues for model serving on the public cloud.
-- Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. [[arxiv]](https://arxiv.org/pdf/1906.01974.pdf)[[GitHub]](https://github.com/stanford-futuredata/Willump)
-  - Peter Kraft, Daniel Kang, Deepak Narayanan, Shoumik Palkar, Peter Bailis, Matei Zaharia.
-  - arXiv Preprint. 2019.
 - Parity Models: Erasure-Coded Resilience for Prediction Serving Systems(SOSP2019) [[Paper]](http://www.cs.cmu.edu/~rvinayak/papers/sosp2019parity-models.pdf) [[GitHub]](https://github.com/Thesys-lab/parity-models)
 - INFaaS: A Model-less Inference Serving System Romero [[Paper]](https://arxiv.org/abs/1905.13348) [[GitHub]](https://github.com/stanford-mast/INFaaS)
   - F., Li, Q., Yadwadkar, N.J. and Kozyrakis, C., 2019.
@@ -79,6 +76,12 @@ System for machine learning inference.
 
 ## Inference Optimization
 
+- Jointly Optimizing Preprocessing and Inference for DNN-based Visual Analytics [[Paper]](https://arxiv.org/pdf/2007.13005.pdf)
+  - Daniel Kang, Ankit Mathur, Teja Veeramacheneni, Peter Bailis, Matei Zaharia
+  - VLDB 2021 
+- Willump: A Statistically-Aware End-to-end Optimizer for Machine Learning Inference. [[arxiv]](https://arxiv.org/pdf/1906.01974.pdf)[[GitHub]](https://github.com/stanford-futuredata/Willump)
+  - Peter Kraft, Daniel Kang, Deepak Narayanan, Shoumik Palkar, Peter Bailis, Matei Zaharia.
+  - arXiv Preprint. 2019.
 - TensorRT is a C++ library that facilitates high performance inference on NVIDIA GPUs and deep learning accelerators. [[GitHub]](https://github.com/NVIDIA/TensorRT)
 - Dynamic Space-Time Scheduling for GPU Inference [[Paper]](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf) [[GitHub]](https://github.com/ucbrise/caravel)
   - Jain, Paras, et al. (*NIPS 18, System for ML*)
