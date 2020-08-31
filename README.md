@@ -6,8 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/HuaizhengZhang/Awesome-System-for-Machine-Learning.svg?color=blue)](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning.svg?style=social)](https://GitHub.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/stargazers/)
 
-
-# Awesome System for Machine Learning 
+# Awesome System for Machine Learning
 
 ### *Path to system for AI* [[Whitepaper You Must Read]](./paper/sysml-whitepaper.pdf)
 
@@ -15,8 +14,8 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ![AI system](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/imgs/AI_system.png)
 
-
 ## General Resources
+
 - [Survey](#survey)
 - [Book](#book)
 - [Video](#video)
@@ -24,6 +23,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Blog](#blog)
 
 ## System for AI Papers (Ordered by Category)
+
 - [Data Processing](data_processing.md#data-processing)
 - [Training System](training.md#training-system)
 - [Inference System](inference.md#inference-system)
@@ -37,8 +37,10 @@ A curated list of research in machine learning system. Link to the code if avail
 ## Paper Ordered by Conference
 
 - [Conference](conference.md#conference)
+- [Paper notes](note)
 
 ## Survey
+
 - Toward Highly Available, Intelligent Cloud and ML Systems [[Slide]](http://sysnetome.com/Talks/cguo_netai_2018.pdf)
 - A curated list of awesome System Designing articles, videos and resources for distributed computing, AKA Big Data. [[GitHub]](https://github.com/madd86/awesome-system-design)
 - awesome-production-machine-learning: A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning [[GitHub]](https://github.com/EthicalML/awesome-production-machine-learning)
@@ -128,7 +130,3 @@ A curated list of research in machine learning system. Link to the code if avail
 - data-engineer-roadmap: Learning from multiple companies in Silicon Valley. Netflix, Facebook, Google, Startups [[GitHub]](https://github.com/hasbrain/data-engineer-roadmap)
 - TensorFlow Serving + Docker + Tornado机器学习模型生产级快速部署 [[Blog]](https://zhuanlan.zhihu.com/p/52096200?utm_source=wechat_session&utm_medium=social&utm_oi=38612796178432)
 - Deploying a Machine Learning Model as a REST API [[Blog]](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
-
-
-
-
