@@ -1,10 +1,32 @@
 # Training System
 
-System for deep learning training.
+System for deep learning training. Currently, I only summarize some arxiv papers here and put accepted papers into [conference](note) section
 
 ## Survey
 
 - Mayer, Ruben, and Hans-Arno Jacobsen. "Scalable Deep Learning on Distributed Infrastructures: Challenges, Techniques, and Tools." ACM Computing Surveys (CSUR) 53.1 (2020): 1-37. [[Paper]](https://arxiv.org/pdf/1903.11314.pdf)
+
+## Training(Multi-jobs on cluster)
+
+- Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning [[arxiv]](https://arxiv.org/pdf/2008.12260.pdf) [[GitHub]](https://github.com/petuum/adaptdl)
+  - arXiv preprint arXiv:2008.12260 (2020).
+  - Qiao, Aurick, Willie Neiswanger, Qirong Ho, Hao Zhang, Gregory R. Ganger, and Eric P. Xing
+- Themis: Fair and Efficient {GPU} Cluster Scheduling. [[Paper]](http://wisr.cs.wisc.edu/papers/nsdi20-themis.pdf)
+  - Mahajan, K., Balasubramanian, A., Singhvi, A., Venkataraman, S., Akella, A., Phanishayee, A. and Chawla, S., 2020. Themis: Fair and Efficient {GPU} Cluster Scheduling.
+  - In 17th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 20) (pp. 289-304).
+- Tiresias: A {GPU} cluster manager for distributed deep learning. [[Paper]](https://www.usenix.org/system/files/nsdi19-gu.pdf) [[GitHub]](https://github.com/SymbioticLab/Tiresias)
+  - Gu, J., Chowdhury, M., Shin, K.G., Zhu, Y., Jeon, M., Qian, J., Liu, H. and Guo, C., 2019. 
+  - In 16th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 19) (pp. 485-500).
+- Microsoft OpenPAI HiveDScheduler: As one standalone component of Microsoft OpenPAI, HiveD is designed to be a Kubernetes Scheduler Extender for Multi-Tenant GPU clusters. [[Project]](https://github.com/microsoft/hivedscheduler)
+- Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
+  - Xiao, Wencong, et al. (*OSDI 2018*)
+  - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
+- Optimus: an efficient dynamic resource scheduler for deep learning clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
+  - Peng, Yanghua, et al. (*EuroSys 2018*)
+  - Summary: Job scheduling on clusters. Total complete time as the metric.
+- Multi-tenant GPU clusters for deep learning workloads: Analysis and implications. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf) [[dataset]](https://github.com/msr-fiddle/philly-traces)
+  - Jeon, Myeongjae, Shivaram Venkataraman, Junjie Qian, Amar Phanishayee, Wencong Xiao, and Fan Yang
+- Slurm: A Highly Scalable Workload Manager [[GitHub]](https://github.com/SchedMD/slurm)
 
 
 ## Training(Parallelism)
@@ -37,22 +59,3 @@ System for deep learning training.
   - PENG, Y., Zhu, Y., CHEN, Y., BAO, Y., Yi, B., Lan, C., Wu, C. and Guo, (*SOSP 2019*)
   - Summary: communication schedular
 
-
-## Training(Multi-jobs on cluster)
-
-- Themis: Fair and Efficient {GPU} Cluster Scheduling. [[Paper]](http://wisr.cs.wisc.edu/papers/nsdi20-themis.pdf)
-  - Mahajan, K., Balasubramanian, A., Singhvi, A., Venkataraman, S., Akella, A., Phanishayee, A. and Chawla, S., 2020. Themis: Fair and Efficient {GPU} Cluster Scheduling.
-  - In 17th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 20) (pp. 289-304).
-- Tiresias: A {GPU} cluster manager for distributed deep learning. [[Paper]](https://www.usenix.org/system/files/nsdi19-gu.pdf) [[GitHub]](https://github.com/SymbioticLab/Tiresias)
-  - Gu, J., Chowdhury, M., Shin, K.G., Zhu, Y., Jeon, M., Qian, J., Liu, H. and Guo, C., 2019. 
-  - In 16th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 19) (pp. 485-500).
-- Microsoft OpenPAI HiveDScheduler: As one standalone component of Microsoft OpenPAI, HiveD is designed to be a Kubernetes Scheduler Extender for Multi-Tenant GPU clusters. [[Project]](https://github.com/microsoft/hivedscheduler)
-- Gandiva: Introspective cluster scheduling for deep learning. [[Paper]](https://www.usenix.org/system/files/osdi18-xiao.pdf)
-  - Xiao, Wencong, et al. (*OSDI 2018*)
-  - Summary: Improvet the efficency of hyper-parameter in cluster. Aware of hardware utilization.
-- Optimus: an efficient dynamic resource scheduler for deep learning clusters [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-eurosys18.pdf)
-  - Peng, Yanghua, et al. (*EuroSys 2018*)
-  - Summary: Job scheduling on clusters. Total complete time as the metric.
-- Multi-tenant GPU clusters for deep learning workloads: Analysis and implications. [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf) [[dataset]](https://github.com/msr-fiddle/philly-traces)
-  - Jeon, Myeongjae, Shivaram Venkataraman, Junjie Qian, Amar Phanishayee, Wencong Xiao, and Fan Yang
-- Slurm: A Highly Scalable Workload Manager [[GitHub]](https://github.com/SchedMD/slurm)
