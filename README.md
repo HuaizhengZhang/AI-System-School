@@ -10,7 +10,7 @@
 
 ### *Path to system for AI* [[Whitepaper You Must Read]](./paper/sysml-whitepaper.pdf)
 
-A curated list of research in machine learning system. Link to the code if available is also present. I also summarize some papers if I think they are really interesting. *You are very welcome to pull request by using our template*
+A curated list of research in machine learning system. Link to the code if available is also present. Now we have a [team](#maintainer) to maintain this project. *You are very welcome to pull request by using our template*.
 
 ![AI system](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/imgs/AI_system.png)
 
@@ -130,3 +130,10 @@ A curated list of research in machine learning system. Link to the code if avail
 - data-engineer-roadmap: Learning from multiple companies in Silicon Valley. Netflix, Facebook, Google, Startups [[GitHub]](https://github.com/hasbrain/data-engineer-roadmap)
 - TensorFlow Serving + Docker + Tornado机器学习模型生产级快速部署 [[Blog]](https://zhuanlan.zhihu.com/p/52096200?utm_source=wechat_session&utm_medium=social&utm_oi=38612796178432)
 - Deploying a Machine Learning Model as a REST API [[Blog]](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
+
+
+## Maintainer
+
+- Huaizheng Zhang, Nanyang Technological University [:octocat:](https://github.com/HuaizhengZhang)
+- Yizheng Huang, Nanyang Technological University [:octocat:](https://github.com/huangyz0918)
+- Meng Shen, Nanyang Technological University [:octocat:](https://github.com/GuluDeemo)
