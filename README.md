@@ -134,6 +134,6 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## Maintainer
 
-- Huaizheng Zhang, Nanyang Technological University [:octocat:](https://github.com/HuaizhengZhang)
-- Yizheng Huang, Nanyang Technological University [:octocat:](https://github.com/huangyz0918)
-- Meng Shen, Nanyang Technological University [:octocat:](https://github.com/GuluDeemo)
+- Huaizheng Zhang, Nanyang Technological University. [:octocat:](https://github.com/HuaizhengZhang)
+- Yizheng Huang, Nanyang Technological University. *Focus on Inference System Section* [:octocat:](https://github.com/huangyz0918)
+- Meng Shen, Nanyang Technological University. *Focus on Edge AI systems* [:octocat:](https://github.com/GuluDeemo)
