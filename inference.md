@@ -21,6 +21,7 @@ System for machine learning inference.
 - iterative/dvc: Data & models versioning for ML projects, make them shareable and reproducible [[GitHub]](https://github.com/iterative/dvc)
 
 ## Model Serving
+- MMS: Multi Model Server is a tool for serving neural net models for inference [[Github]](https://github.com/awslabs/multi-model-server)
 - Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/2017.Middleware.Swayam.TailLatencyInAzureML.pdf)
   - Gujarati, Arpan, Sameh Elnikety, Yuxiong He, Kathryn S. McKinley, and Björn B. Brandenburg.
   - In Proceedings of the 18th ACM/IFIP/USENIX Middleware Conference, pp. 109-120. 2017.
