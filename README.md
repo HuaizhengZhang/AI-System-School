@@ -33,6 +33,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Edge AI](edge_system.md#edge-or-mobile-papers)
 - [Video System](video_system.md#video-system)
 - [GNN System](GNN_system.md#system-for-gnn-traininginference)
+- [Federated Learning System](federated_learning_system.md#federated-learning-system)
 
 ## Paper Ordered by Conference
 
