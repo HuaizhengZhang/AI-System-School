@@ -9,7 +9,7 @@
 - ATC
 - Eurosys
 - Middleware
-- SOCC [[2019]](https://acmsocc.github.io/2019/schedule.html)
+- SoCC [[2019]](https://acmsocc.github.io/2019/schedule.html) [[2020]](https://acmsocc.github.io/2020/accepted-papers.html)
 - TinyML [[2021]](https://openreview.net/group?id=tinyml.org/tinyML/2021/Research_Symposium)
 
 ## Workshop
