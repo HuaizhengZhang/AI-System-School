@@ -21,6 +21,13 @@ System for machine learning inference.
 - iterative/dvc: Data & models versioning for ML projects, make them shareable and reproducible [[GitHub]](https://github.com/iterative/dvc)
 
 ## Model Serving
+
+- Optimizing Prediction Serving on Low-Latency Serverless Dataflow [[Paper]](https://arxiv.org/pdf/2007.05832.pdf)
+  - Sreekanti, Vikram, Harikaran Subbaraj, Chenggang Wu, Joseph E. Gonzalez, and Joseph M. Hellerstein.
+  - arXiv preprint arXiv:2007.05832 (2020).
+-  Serving DNNs like Clockwork: Performance Predictability from the Bottom Up. [[Paper]](https://arxiv.org/pdf/2006.02464.pdf)
+  - Gujarati, A., Karimi, R., Alzayat, S., Kaufmann, A., Vigfusson, Y. and Mace, J., 2020.
+  - OSDI 2020
 - Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/2017.Middleware.Swayam.TailLatencyInAzureML.pdf)
   - Gujarati, Arpan, Sameh Elnikety, Yuxiong He, Kathryn S. McKinley, and Björn B. Brandenburg.
   - In Proceedings of the 18th ACM/IFIP/USENIX Middleware Conference, pp. 109-120. 2017.
