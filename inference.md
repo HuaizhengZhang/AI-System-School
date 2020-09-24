@@ -25,7 +25,7 @@ System for machine learning inference.
 - Optimizing Prediction Serving on Low-Latency Serverless Dataflow [[Paper]](https://arxiv.org/pdf/2007.05832.pdf)
   - Sreekanti, Vikram, Harikaran Subbaraj, Chenggang Wu, Joseph E. Gonzalez, and Joseph M. Hellerstein.
   - arXiv preprint arXiv:2007.05832 (2020).
--  Serving DNNs like Clockwork: Performance Predictability from the Bottom Up. [[Paper]](https://arxiv.org/pdf/2006.02464.pdf)
+- Serving DNNs like Clockwork: Performance Predictability from the Bottom Up. [[Paper]](https://arxiv.org/pdf/2006.02464.pdf)
   - Gujarati, A., Karimi, R., Alzayat, S., Kaufmann, A., Vigfusson, Y. and Mace, J., 2020.
   - OSDI 2020
 - Swayam: distributed autoscaling to meet SLAs of machine learning inference services with resource efficiency [[Paper]](https://www.microsoft.com/en-us/research/uploads/prod/2018/01/2017.Middleware.Swayam.TailLatencyInAzureML.pdf)
