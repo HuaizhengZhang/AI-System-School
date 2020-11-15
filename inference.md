@@ -22,6 +22,14 @@ System for machine learning inference.
 
 ## Model Serving
 
+- Cloudburst: Stateful Functions-as-a-Service. [\[Paper\]](https://arxiv.org/pdf/2001.04592.pdf) [\[GitHub\]](https://github.com/hydro-project/cloudburst)
+  - Vikram Sreekanti, Chenggang Wu, Xiayue Charles Lin, Johann Schleier-Smith, Joseph E. Gonzalez, Joseph M. Hellerstein, Alexey Tumanov
+  - VLDB 2020
+  - A stateful FaaS platform.
+    (1) feasibility of general-purpose stateful serverless computing. 
+    (2) Autoscaling via logical disaggregation of storage and compute, state management via physical 
+    colocation of caches with compute services.
+    (3) LDPC design pattern
 - Optimizing Prediction Serving on Low-Latency Serverless Dataflow [[Paper]](https://arxiv.org/pdf/2007.05832.pdf)
   - Sreekanti, Vikram, Harikaran Subbaraj, Chenggang Wu, Joseph E. Gonzalez, and Joseph M. Hellerstein.
   - arXiv preprint arXiv:2007.05832 (2020).
