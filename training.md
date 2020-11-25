@@ -33,7 +33,7 @@ System for deep learning training. Currently, I only summarize some arxiv papers
 
 - ZeRO: Memory Optimization Towards Training A Trillion Parameter Models. *Microsoft Work* [[Paper]](https://arxiv.org/pdf/1910.02054.pdf) [[GitHub]](https://github.com/microsoft/DeepSpeed)
 - Class materials for a distributed systems lecture series [[GitHub]](https://github.com/aphyr/distsys-class)
-- bytedance/byteps: A high performance and general PS framework for distributed training [[GitHub]](https://github.com/bytedance/byteps)
+- bytedance/byteps: A high performance and general PS framework for distributed training [[Paper]](https://www.usenix.org/system/files/osdi20-jiang.pdf) [[GitHub]](https://github.com/bytedance/byteps)
 - PipeDream: Generalized Pipeline Parallelism for DNN Training (SOSP2019) [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf) [[Github]](https://github.com/msr-fiddle/pipedream)
 - Exploring Hidden Dimensions in Parallelizing Convolutional Neural Networks. [[Paper]](http://proceedings.mlr.press/v80/jia18a/jia18a.pdf) [[GitHub]](https://github.com/flexflow/FlexFlow)
   - Zhihao Jia, Sina Lin, Charles R. Qi, and Alex Aiken. (*ICML 2018*)
