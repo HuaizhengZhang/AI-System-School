@@ -22,6 +22,7 @@ System for machine learning inference.
 
 ## Model Serving
 
+- Announcing RedisAI 1.0: AI Serving Engine for Real-Time Applications [[Blog]](https://redislabs.com/blog/redisai-ai-serving-engine-for-real-time-applications/)
 - Cloudburst: Stateful Functions-as-a-Service. [\[Paper\]](https://arxiv.org/pdf/2001.04592.pdf) [\[GitHub\]](https://github.com/hydro-project/cloudburst)
   - Vikram Sreekanti, Chenggang Wu, Xiayue Charles Lin, Johann Schleier-Smith, Joseph E. Gonzalez, Joseph M. Hellerstein, Alexey Tumanov
   - VLDB 2020
