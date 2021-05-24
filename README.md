@@ -35,10 +35,31 @@ A curated list of research in machine learning system. Link to the code if avail
 - [GNN System](GNN_system.md#system-for-gnn-traininginference)
 - [Federated Learning System](federated_learning_system.md#federated-learning-system)
 
-## Paper Ordered by Conference
+## System for ML or ML for System on Top System Conference (with notes)
 
-- [Conference](conference.md#conference)
-- [Paper notes](note)
+### Conferene
+
+- MLsys
+- NSDI [[2021 notes]](./note/NSDI2021.md)
+- OSDI [[2020 notes]](./note/OSDI2020.md)
+- SOSP
+- ATC
+- Eurosys [[2021 notes]](./note/eurosys2021.md)
+- Middleware
+- SoCC [[2019]](https://acmsocc.github.io/2019/schedule.html) [[2020]](https://acmsocc.github.io/2020/accepted-papers.html)
+- TinyML [[2021]](https://openreview.net/group?id=tinyml.org/tinyML/2021/Research_Symposium)
+
+### Workshop
+
+- NIPS learning system workshop
+- ICML learning system workshop
+- OptML (Rising Star)
+- HotCloud
+- HotEdge
+- HotEdge
+- HotOS
+- NetAI (ACM SIGCOMM Workshop on Network Meets AI & ML)
+
 
 ## Survey
 
