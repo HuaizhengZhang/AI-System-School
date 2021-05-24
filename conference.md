@@ -1,28 +1,3 @@
-# ML system at Top System Conference
-
-## Conferene 
-
-- MLsys
-- NSDI
-- OSDI
-- SOSP
-- ATC
-- Eurosys
-- Middleware
-- SoCC [[2019]](https://acmsocc.github.io/2019/schedule.html) [[2020]](https://acmsocc.github.io/2020/accepted-papers.html)
-- TinyML [[2021]](https://openreview.net/group?id=tinyml.org/tinyML/2021/Research_Symposium)
-
-## Workshop
-
-- NIPS learning system workshop
-- ICML learning system workshop
-- OptML (Rising Star)
-- HotCloud
-- HotEdge
-- HotEdge
-- HotOS
-- NetAI (ACM SIGCOMM Workshop on Network Meets AI & ML)
-
 ## Year 2020
 
 ### ATC 2020 [[Program]](https://www.usenix.org/conference/atc20/technical-sessions)
