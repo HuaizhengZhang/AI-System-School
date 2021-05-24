@@ -44,7 +44,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - OSDI [[2020 notes]](./note/OSDI2020.md)
 - SOSP
 - ATC
-- Eurosys [[2021 notes]](./note/eurosys2021.md)
+- Eurosys [[2021 notes]](./note/Eurosys2021.md)
 - Middleware
 - SoCC [[2019]](https://acmsocc.github.io/2019/schedule.html) [[2020]](https://acmsocc.github.io/2020/accepted-papers.html)
 - TinyML [[2021]](https://openreview.net/group?id=tinyml.org/tinyML/2021/Research_Symposium)
