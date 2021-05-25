@@ -59,6 +59,9 @@ A curated list of research in machine learning system. Link to the code if avail
 - HotEdge
 - HotOS
 - NetAI (ACM SIGCOMM Workshop on Network Meets AI & ML)
+- EdgeSys (EuroSys workshop about edge computing) [[website]](https://edge-sys.github.io/2021/)
+- EuroMLSys [[website]](https://www.euromlsys.eu/#schedule)
+- Large-Scale Distributed Systems and Middleware (LADIS) (EuroSys workshop) [[website]]
 
 
 ## Survey
