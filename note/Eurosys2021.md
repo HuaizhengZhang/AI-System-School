@@ -3,9 +3,24 @@
 
 - Profiling Dataflow Systems on Multiple Abstraction Levels [[paper]](https://doi.org/10.1145/3447786.3456254) [[paper]](https://www.youtube.com/watch?v=s78qnixF-Ww&list=PLzDuHU-z7gNjuSbEYCFXZtWAl3nAdNF2f&index=17)
   - Alexander Beischl (Technical University of Munich, Germany), Timo Kersten (Technical University of Munich, Germany), Maximilian Bandle (Technical University of Munich, Germany), Jana Giceva (Technical University of Munich, Germany), Thomas Neumann (Technical University of Munich).
+  - Before this paper, the exisiting solutions
+  - This paper wants
+  - So they propose
+  - Hard part
+  - What metrics do the authors focus on?
 
 - OFC: an opportunistic caching system for FaaS platforms [[Paper]](https://doi.org/10.1145/3447786.3456239) [[YouTube]](https://www.youtube.com/watch?v=wjo92xfIFLI&list=PLzDuHU-z7gNjuSbEYCFXZtWAl3nAdNF2f&index=15)
   - Djob Mvondo (University Grenoble Alpes, France), Mathieu Bacou (TeleCom SudParis, France), Kevin Nguetchouang (ENSP, Cameroon), Lucien Ngale (ENSP, Cameroon), Stephane Pouget (ENS Lyon, France), Josiane Kouam (INRIA, France), Renaud Lachaize (University Grenoble Alpes, France), Jinho Hwang (Facebook, United States of America), Tim Wood (GWU, USA), Daniel Hagimont (University of Toulouse, France), Noel De Palma (Grenoble Alpes University, France), Batchakui bernabé (ENSP, Cameroon), Alain Tchana (ENS Lyon, France).
+
+- SmartHarvest: Harvesting Idle CPUs Safely and Efficiently in the Cloud [[paper]](https://doi.org/10.1145/3447786.3456225) [[YouTube]](https://www.youtube.com/watch?v=9298p68G8f4&list=PLzDuHU-z7gNjuSbEYCFXZtWAl3nAdNF2f&index=18)
+  - Yawen Wang (Stanford University), Kapil Arya (Microsoft Research), Marios Kogias (Microsoft Research, Switzerland), Manohar Vanga (Nokia Bell Labs, Germany), Aditya Bhandari (Microsoft), Neeraja J. Yadwadkar (Stanford University, United States of America), Siddhartha Sen (Microsoft Research), Sameh Elnikety (Microsoft Research, United States of America), Christos Kozyrakis (Stanford University, United States of America), Ricardo Bianchini (Microsoft Research, United States of America).
+
+
+- Rubberband: Cloud-based Hyperparameter Tuning [[paper]](https://dl.acm.org/doi/pdf/10.1145/3447786.3456245) [[YouTube]](https://www.youtube.com/watch?v=w_04ks34jwk&list=PLzDuHU-z7gNjuSbEYCFXZtWAl3nAdNF2f&index=20)
+  - Richard Liaw (UC Berkeley), Ujval Misra (UC Berkeley), Lisa Dunlap (UC Berkeley), Joseph Gonzalez (UC Berkeley, United States of America), Ion Stoica (UC Berkeley, United States of America), Alexey Tumanov (Georgia Tech, United States of America), Kirthevasan Kandasamy (UC Berkeley), Romil Bhardwaj (UC Berkeley, United States of America).
+
+- Accelerating Graph Sampling for Graph Machine Learning using GPUs [[paper]](https://dl.acm.org/doi/10.1145/3447786.3456244)
+  - Abhinav Jangda (University of Massachusetts Amherst, United States of America), Sandeep Polisetty (University of Massachusetts Amherst), Arjun Guha (Northeastern University, United States of America), Marco Serafini (University of Massachusetts Amherst, United States of America).
 
 - Seastar: Vertex-Centric Programming for Graph Neural Networks [[Paper]](https://doi.org/10.1145/3447786.3456247)
   - Yidi Wu (The Chinese University of Hong Kong), Kaihao Ma (The Chinese University of Hong Kong), Zhenkun Cai (The Chinese University of Hong Kong), Tatiana Jin (The Chinese University of Hong Kong), Boyang Li (The Chinese University of Hong Kong, China), Chenguang Zheng (The Chinese University of Hong Kong, China), James Cheng (The Chinese University of Hong Kong), Fan Yu (Huawei Technologies Co. Ltd).
@@ -18,11 +33,7 @@
 
 - Characterizing, Exploiting, and Detecting DMA Code Injection Vulnerabilities in the Presence of an IOMMU [[paper]](https://dl.acm.org/doi/10.1145/3447786.3456249)
   - Alex Markuze (Technion), Shay Vargaftik (VMware Research), Gil Kupfer (Technion), Boris Pismenny (Technion), Nadav Amit (VMware Research), Adam Morrison (Tel Aviv University), Dan Tsafrir (Technion & VMware Research, Israel)
-  - Before this paper, the exisiting solutions
-  - This paper wants
-  - So they propose
-  - Hard part
-  - What metrics do the authors focus on?
+
 
 - Achieving Low Tail-latency and High Scalability for Serializable Transactions in Edge Computing [[paper]](https://doi.org/10.1145/3447786.3456238)
   - Xusheng Chen (University of Hong Kong, China), Haoze Song (University of Hong Kong), Jianyu Jiang (The University of Hong Kong, China), Chaoyi Ruan (USTC), Cheng Li (USTC, China), Sen Wang (Huawei Technologies), Nicholas Zhang (Huawei Technologies, China), Reynold Cheng (University of Hong Kong), Heming Cui (University of Hong Kong, China).
