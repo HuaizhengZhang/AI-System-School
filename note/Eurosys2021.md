@@ -1,5 +1,7 @@
 ## MLsys in Eurosys2021
 
+### Main conference
+
 - Profiling Dataflow Systems on Multiple Abstraction Levels [[paper]](https://doi.org/10.1145/3447786.3456254) [[YouTube]](https://www.youtube.com/watch?v=s78qnixF-Ww&list=PLzDuHU-z7gNjuSbEYCFXZtWAl3nAdNF2f&index=17)
   - Alexander Beischl (Technical University of Munich, Germany), Timo Kersten (Technical University of Munich, Germany), Maximilian Bandle (Technical University of Munich, Germany), Jana Giceva (Technical University of Munich, Germany), Thomas Neumann (Technical University of Munich).
   - Before this paper, the exisiting solutions
@@ -38,6 +40,18 @@
 - Tahoe: Tree Structure-Aware High Performance Inference Engine for Decision Tree Ensemble on GPU [[paper]](https://doi.org/10.1145/3447786.3456251)
   - Zhen Xie (University of California, Merced), Wenqian Dong (University of California, Merced), Jiawen Liu (University of California, Merced), Hang Liu (Stevens Institute of Technology, United States of America), Dong Li (University of California, Merced).
 
-
 - Achieving Low Tail-latency and High Scalability for Serializable Transactions in Edge Computing [[paper]](https://doi.org/10.1145/3447786.3456238)
   - Xusheng Chen (University of Hong Kong, China), Haoze Song (University of Hong Kong), Jianyu Jiang (The University of Hong Kong, China), Chaoyi Ruan (USTC), Cheng Li (USTC, China), Sen Wang (Huawei Technologies), Nicholas Zhang (Huawei Technologies, China), Reynold Cheng (University of Hong Kong), Heming Cui (University of Hong Kong, China).
+
+
+### EdgeSys Workshop [[proceeding]](https://dl.acm.org/doi/proceedings/10.1145/3434770)
+
+- eCaaS: A Management Framework of Edge Container as a Service for Business Workload [[paper]](https://dl.acm.org/doi/pdf/10.1145/3434770.3459741)
+  - an edge application deployment framework
+
+- AlertMe: Towards Natural Language-Based Live Video Trigger Systems at the Edge [[paper]](https://dl.acm.org/doi/pdf/10.1145/3434770.3459740)
+  - multimodal AI on edge
+
+- Scheduling Continuous Operators for IoT Edge Analytics [[paper]](https://dl.acm.org/doi/pdf/10.1145/3434770.3459738)
+  - IoT analytics on Edge-Fog-Cloud infrastructure
+
