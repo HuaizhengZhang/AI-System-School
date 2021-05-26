@@ -44,7 +44,7 @@
   - Xusheng Chen (University of Hong Kong, China), Haoze Song (University of Hong Kong), Jianyu Jiang (The University of Hong Kong, China), Chaoyi Ruan (USTC), Cheng Li (USTC, China), Sen Wang (Huawei Technologies), Nicholas Zhang (Huawei Technologies, China), Reynold Cheng (University of Hong Kong), Heming Cui (University of Hong Kong, China).
 
 
-### EuroMLSys [[program]](euromlsys.eu/#schedule)
+### EuroMLSys [[program]](https://www.euromlsys.eu/#schedule)
 
 - Interference-Aware Scheduling for Inference Serving [[paper]](https://dl.acm.org/doi/pdf/10.1145/3437984.3458837)
 - Predicting CPU usage for proactive autoscaling
