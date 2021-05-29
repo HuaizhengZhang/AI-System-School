@@ -39,7 +39,7 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ### Conferene
 
-- MLsys
+- MLsys [[2021 notes]](./note/MLSys2021.md)
 - NSDI [[2021 notes]](./note/NSDI2021.md)
 - OSDI [[2020 notes]](./note/OSDI2020.md)
 - SOSP
