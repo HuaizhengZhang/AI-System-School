@@ -94,6 +94,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Streaming Systems [[Book]](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - Kubernetes in Action (start to read) [[Book]](https://www.oreilly.com/library/view/kubernetes-in-action/9781617293726/)
 - Machine Learning Systems: Designs that scale [[Website]](https://www.manning.com/books/machine-learning-systems)
+- Trust in Machine Learning [[Website]](https://www.manning.com/books/trust-in-machine-learning)
 
 ## Video
 
