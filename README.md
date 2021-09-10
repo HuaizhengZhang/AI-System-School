@@ -119,6 +119,8 @@ A curated list of research in machine learning system. Link to the code if avail
 - SysML 18: Systems and Machine Learning Symbiosis. Jeff Dean [[YouTube]](https://www.youtube.com/watch?v=Nj6uxDki6-0)
 
 ## Course
+
+- CS692 Seminar: Systems for Machine Learning, Machine Learning for Systems [[GitHub]](https://github.com/guanh01/CS692-mlsys)
 - Topics in Networks: Machine Learning for Networking and Systems, Autumn 2019 [[Course Website]](https://people.cs.uchicago.edu/~junchenj/34702-fall19/syllabus.html)
 - CS6465: Emerging Cloud Technologies and Systems Challenges [[Cornell]](http://www.cs.cornell.edu/courses/cs6465/2019fa/)
 - CS294: AI For Systems and Systems For AI. [[UC Berkeley Spring]](https://github.com/ucbrise/cs294-ai-sys-sp19) (*Strong Recommendation*) [[Machine Learning Systems (Fall 2019)]](https://ucbrise.github.io/cs294-ai-sys-fa19/)
