@@ -46,7 +46,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - ATC
 - Eurosys [[2021 notes]](./note/Eurosys2021.md)
 - Middleware
-- SoCC [[2019]](https://acmsocc.github.io/2019/schedule.html) [[2020]](https://acmsocc.github.io/2020/accepted-papers.html)
+- SoCC [[2021 Notes]](./note/SoCC2021.md)
 - TinyML [[2021]](https://openreview.net/group?id=tinyml.org/tinyML/2021/Research_Symposium)
 
 ### Workshop
