@@ -95,6 +95,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - Kubernetes in Action (start to read) [[Book]](https://www.oreilly.com/library/view/kubernetes-in-action/9781617293726/)
 - Machine Learning Systems: Designs that scale [[Website]](https://www.manning.com/books/machine-learning-systems)
 - Trust in Machine Learning [[Website]](https://www.manning.com/books/trust-in-machine-learning)
+- Automated Machine Learning in Action [[Website]](https://www.manning.com/books/automated-machine-learning-in-action)
 
 ## Video
 
@@ -117,6 +118,7 @@ A curated list of research in machine learning system. Link to the code if avail
 - How to Have a Bad Career. David Patterson (I am a big fan) [[YouTube]](https://www.youtube.com/watch?v=Rn1w4MRHIhc)
 - SysML 18: Perspectives and Challenges. Michael Jordan [[YouTube]](https://www.youtube.com/watch?v=4inIBmY8dQI&t=26s)
 - SysML 18: Systems and Machine Learning Symbiosis. Jeff Dean [[YouTube]](https://www.youtube.com/watch?v=Nj6uxDki6-0)
+- AutoML Basics: Automated Machine Learning in Action. Qingquan Song, Haifeng Jin, Xia Hu [[YouTube]](https://www.youtube.com/watch?v=9KpieG0B7VM)
 
 ## Course
 - Topics in Networks: Machine Learning for Networking and Systems, Autumn 2019 [[Course Website]](https://people.cs.uchicago.edu/~junchenj/34702-fall19/syllabus.html)
