@@ -8,7 +8,7 @@
 
 # Awesome System for Machine Learning
 
-### *Path to system for AI* [[Whitepaper You Must Read]](./paper/sysml-whitepaper.pdf)
+### *Path to system for AI* [[Whitepaper You Must Read]](./paper/mlsys-whitepaper.pdf)
 
 A curated list of research in machine learning system. Link to the code if available is also present. Now we have a [team](#maintainer) to maintain this project. *You are very welcome to pull request by using our template*.
 
