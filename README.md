@@ -22,14 +22,18 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Course](#course)
 - [Blog](#blog)
 
-## System for AI Papers (Ordered by Category)
+## System for AI Papers/Opensource (Ordered by Category)
+
+### General System
 
 - [Data Processing](data_processing.md#data-processing)
 - [Training System](training.md#training-system)
 - [Inference System](inference.md#inference-system)
 - [Machine Learning Infrastructure](infra.md#machine-learning-infrastructure)
-- [Foundation Model Training/Inference System](foundation_model.md#foundation-model-training-inference-system)
 
+### Specific System
+
+- [Foundation Model Training/Inference System](foundation_model.md#foundation-model-training-inference-system)
 - [AutoML System](AutoML_system.md#automl-system)
 - [Deep Reinforcement Learning System](drl_system.md#deep-reinforcement-learning-system)
 - [Edge AI](edge_system.md#edge-or-mobile-papers)
