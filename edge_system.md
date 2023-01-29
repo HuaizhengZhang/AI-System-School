@@ -44,7 +44,7 @@ This part contains papers of projects of edge or mobile system for ML.
     - In ACM SIGARCH Computer Architecture News (Vol. 45, No. 1, pp. 615-629). ACM.
 - 26ms Inference Time for ResNet-50: Towards Real-Time Execution of all DNNs on Smartphone [[Paper]](https://arxiv.org/pdf/1905.00571.pdf)
     - Wei Niu, Xiaolong Ma, Yanzhi Wang, Bin Ren (*ICML2019*)
-- NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision [[Paper]]()
+- NestDNN: Resource-Aware Multi-Tenant On-Device Deep Learning for Continuous Mobile Vision [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3241539.3241559)
     - Fang, Biyi, Xiao Zeng, and Mi Zhang. (*MobiCom 2018*)
     - Summary: Borrow some ideas from network prune. The pruned model then recovers to trade-off computation resource and accuracy at runtime
 - Lavea: Latency-aware video analytics on edge computing platform [[Paper]](http://www.cs.wayne.edu/~weisong/papers/yi17-LAVEA.pdf)
