@@ -8,6 +8,8 @@
 
 # Awesome System for Machine Learning
 
+#### 💫💫💫 Updates: We have launched a new webside [Awesome AI Engineering](https://ai-engineering.club/) for this repo!!! 💫💫💫
+
 ### *Path to system for AI* [[Whitepaper You Must Read]](./paper/mlsys-whitepaper.pdf)
 
 A curated list of research in machine learning system. Link to the code if available is also present. Now we have a [team](#maintainer) to maintain this project. *You are very welcome to pull request by using our template*.
