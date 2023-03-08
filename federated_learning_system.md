@@ -14,3 +14,5 @@
   - A Generic Framework for Privacy Preserving Peep Pearning [[Paper]](https://arxiv.org/abs/1811.04017)
 - PaddleFL @ Baidu [[Github]](https://github.com/PaddlePaddle/PaddleFL)
 - Nvidia Clara SDK [[Web]](https://developer.nvidia.com/clara)
+- Flower [[Github]](https://github.com/adap/flower) [[Website]](https://flower.dev/) [[Paper]](https://arxiv.org/abs/2007.14390)
+  - A unified approach to federated learning, analytics, and evaluation. Federate any workload, any ML framework, and any programming language.
