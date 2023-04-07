@@ -72,7 +72,7 @@ System for machine learning inference.
   - Crankshaw, Daniel, et al. (*NSDI 2017*)
   - Summary: Adaptive batch 
 - InferLine: ML Inference Pipeline Composition Framework [[Paper]](https://arxiv.org/pdf/1812.01776.pdf) [[GitHub]](https://github.com/simon-mo/inferline-models)
-  - Crankshaw, Daniel, et al. (*Preprint*)
+  - Crankshaw, Daniel, et al. (*SoCC 2020*)
   - Summary: update version of Clipper
 - TrIMS: Transparent and Isolated Model Sharing for Low Latency Deep LearningInference in Function as a Service Environments [[Paper]](https://arxiv.org/pdf/1811.09732.pdf)
   - Dakkak, Abdul, et al (*Preprint*)
@@ -83,6 +83,12 @@ System for machine learning inference.
 - GraphPipe: Machine Learning Model Deployment Made Simple [[GitHub]](https://github.com/oracle/graphpipe)
 - Orkhon: ML Inference Framework and Server Runtime [[GitHub]](https://github.com/vertexclique/orkhon)
 - NVIDIA/tensorrt-inference-server: The TensorRT Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs. [[GitHub]](https://github.com/NVIDIA/tensorrt-inference-server) [[Slides: DEEP INTO TRTIS]](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9506/presentation.pdf) 
+- INFaaS: Automated Model-less Inference Serving [[GitHub]](https://github.com/stanford-mast/INFaaS), [[Paper]](https://www.usenix.org/conference/atc21/presentation/romero)
+  - Francisco Romero, Qian Li, Neeraja J. Yadwadkar, and Christos Kozyrakis (*ATC 2021*)
+- Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines
+  - Francisco Romero, Mark Zhao, Neeraja J. Yadwadkar, and Christos Kozyrakis (*SoCC 2021*)
+- Scrooge: A Cost-Effective Deep Learning Inference System [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3472883.3486993)
+  - Yitao Hu, Rajrup Ghosh, Ramesh Govindan
 - Apache PredictionIO® is an open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task [[Website]](http://predictionio.apache.org/)
 
 ## Cache for Inference
