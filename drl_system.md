@@ -15,3 +15,5 @@
 - RLgraph: Modular Computation Graphs for Deep Reinforcement Learning [[Paper]](http://www.sysml.cc/doc/2019/43.pdf)[[GitHub]](https://github.com/rlgraph/rlgraph)
   - Schaarschmidt, Michael, Sven Mika, Kai Fricke, and Eiko Yoneki. (*SysML 2019*)
   - Summary:
+- Stable-Baselines: Stable-Baselines3: Reliable Reinforcement Learning Implementations 2021
+  - [[Paper]](https://www.jmlr.org/papers/volume22/20-1364/20-1364.pdf) [[GitHub]](https://github.com/hill-a/stable-baselines)
