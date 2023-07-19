@@ -100,6 +100,7 @@ A curated list of research in machine learning system. Link to the code if avail
 ## Book
 
 - Computer Architecture: A Quantitative Approach [[Must read]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.1881&rep=rep1&type=pdf)
+- Distributed Machine Learning Patterns [[Website]](https://www.manning.com/books/distributed-machine-learning-patterns)
 - Streaming Systems [[Book]](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 - Kubernetes in Action (start to read) [[Book]](https://www.oreilly.com/library/view/kubernetes-in-action/9781617293726/)
 - Machine Learning Systems: Designs that scale [[Website]](https://www.manning.com/books/machine-learning-systems)
