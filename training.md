@@ -53,7 +53,7 @@ DNN Training in Heterogeneous GPU/CPU Clusters [[Paper]](https://www.usenix.org/
   - Summary: Using REINFORCE learn a device placement policy. Group operations to excute. Need a lot of GPUs.
 - Spotlight: Optimizing device placement for training deep neural networks  [[Paper]](http://proceedings.mlr.press/v80/gao18a/gao18a.pdf)
   - Gao, Yuanxiang, Li Chen, and Baochun Li (*ICML 18*)
-- GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf)[[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
+- GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [[Paper]](https://arxiv.org/pdf/1811.06965.pdf) [[GitHub]](https://github.com/tensorflow/lingvo/blob/master/lingvo/core/gpipe.py) [[News]](https://www.cnbeta.com/articles/tech/824495.htm)
   - Huang, Yanping, et al. (*arXiv preprint arXiv:1811.06965 (2018)*)
 - Horovod: Distributed training framework for TensorFlow, Keras, and PyTorch. 
 [[GitHub]](https://github.com/uber/horovod)
@@ -61,4 +61,20 @@ DNN Training in Heterogeneous GPU/CPU Clusters [[Paper]](https://www.usenix.org/
 - A Generic Communication Scheduler for Distributed DNN Training Acceleration [[Paper]](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf) [[BytePS]](https://github.com/bytedance/byteps)
   - PENG, Y., Zhu, Y., CHEN, Y., BAO, Y., Yi, B., Lan, C., Wu, C. and Guo, (*SOSP 2019*)
   - Summary: communication schedular
+
+
+## Training(Fault-tolerant)
+
+- Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates [[Paper]](https://dl.acm.org/doi/abs/10.1145/3600006.3613152) [[GitHub]](https://github.com/SymbioticLab/Oobleck)
+  - Jang, Insu and Yang, Zhenning and Zhang, Zhen and Jin, Xin and Chowdhury, Mosharaf, (*SOSP 2023*)
+- Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs [[Paper]](https://www.usenix.org/conference/nsdi23/presentation/thorpe) [[GitHub]](https://github.com/uclasystem/bamboo)
+  - John Thorpe, Pengzhan Zhao, Jonathan Eyolfson, Yifan Qiao, Zhihao Jia, Minjia Zhang, Ravi Netravali and Guoqing Harry Xu, (*NSDI 2023*)
+- Varuna: scalable, low-cost training of massive deep learning models [[Paper]](https://dl.acm.org/doi/abs/10.1145/3492321.3519584) [[GitHub]](https://github.com/microsoft/varuna)
+  - Athlur, Sanjith and Saran, Nitika and Sivathanu, Muthian and Ramjee, Ramachandran and Kwatra, Nipun, (*EuroSys 2022*)
+
+
+## Training(Energy-efficient)
+
+- Zeus: Understanding and Optimizing GPU Energy Consumption of DNN Training [[Paper]](https://www.usenix.org/system/files/nsdi23-you.pdf) [[GitHub]](https://github.com/ml-energy/zeus) [[ml.energy]](https://ml.energy/zeus/) [[The ML.ENERGY Initiative]](https://ml.energy/)
+  - Jie You, Jae-Won Chung, and Mosharaf Chowdhury (*NSDI 2023*)
 
