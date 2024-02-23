@@ -82,7 +82,8 @@ System for machine learning inference.
   - Summary: Contain both training and inference. Auto-Hype-Parameter search for training. Ensemble models for inference. Using DRL to balance trade-off between accuracy and latency.
 - GraphPipe: Machine Learning Model Deployment Made Simple [[GitHub]](https://github.com/oracle/graphpipe)
 - Orkhon: ML Inference Framework and Server Runtime [[GitHub]](https://github.com/vertexclique/orkhon)
-- NVIDIA/tensorrt-inference-server: The TensorRT Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs. [[GitHub]](https://github.com/NVIDIA/tensorrt-inference-server) [[Slides: DEEP INTO TRTIS]](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9506/presentation.pdf) 
+- NVIDIA/tensorrt-inference-server: The TensorRT Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs. [[GitHub]](https://github.com/NVIDIA/tensorrt-inference-server) [[Slides: DEEP INTO TRTIS]](https://on-demand.gputechconf.com/gtc-cn/2019/pdf/CN9506/presentation.pdf)
+- torchpipe: Ensemble Pipeline Serving with Pytorch Frontend. Boosting DL Service Throughput 1.5-4x by Ensemble Pipeline Serving with Concurrent CUDA Streams for PyTorch/LibTorch Frontend and TensorRT/CVCUDA, etc., Backends. [[GitHub]](https://github.com/torchpipe/torchpipe)
 - INFaaS: Automated Model-less Inference Serving [[GitHub]](https://github.com/stanford-mast/INFaaS), [[Paper]](https://www.usenix.org/conference/atc21/presentation/romero)
   - Francisco Romero, Qian Li, Neeraja J. Yadwadkar, and Christos Kozyrakis (*ATC 2021*)
 - Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines
