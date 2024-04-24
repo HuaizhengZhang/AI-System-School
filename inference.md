@@ -52,9 +52,6 @@ System for machine learning inference.
   - In 2019 {USENIX} Annual Technical Conference ({USENIX}{ATC} 19) (pp. 1049-1062).
   - Summary: address the scalability and cost minimization issues for model serving on the public cloud.
 - Parity Models: Erasure-Coded Resilience for Prediction Serving Systems(SOSP2019) [[Paper]](http://www.cs.cmu.edu/~rvinayak/papers/sosp2019parity-models.pdf) [[GitHub]](https://github.com/Thesys-lab/parity-models)
-- INFaaS: A Model-less Inference Serving System Romero [[Paper]](https://arxiv.org/abs/1905.13348) [[GitHub]](https://github.com/stanford-mast/INFaaS)
-  - F., Li, Q., Yadwadkar, N.J. and Kozyrakis, C., 2019.
-  - arXiv preprint arXiv:1905.13348.
 - Nexus: Nexus is a scalable and efficient serving system for DNN applications on GPU cluster (SOSP2019) [[Paper]](https://pdfs.semanticscholar.org/0c0f/353dbac84311ea4f1485d4a8ac0b0459be8c.pdf) [[GitHub]](https://github.com/uwsampl/nexus)
 - Deep Learning Inference Service at Microsoft [[Paper]](https://www.usenix.org/system/files/opml19papers-soifer.pdf)
   - J Soifer, et al. (*OptML2019*)
@@ -139,3 +136,5 @@ System for machine learning inference.
 - TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions [[Paper]](https://cs.stanford.edu/~matei/papers/2019/sosp_taso.pdf) [[GitHub]](https://github.com/jiazhihao/TASO)
   - Jia, Zhihao, Oded Padon, James Thomas, Todd Warszawski, Matei Zaharia, and Alex Aiken. (*SOSP 2019*)
   - Experiments tested on TVM and XLA
+- SGLAng: Manage KV cache through radix attention [[Paper]](https://arxiv.org/pdf/2312.07104.pdf) [[Github]](https://github.com/sgl-project/sglang)
+  - Lianmin Zheng, Liangsheng Yin, Zhiqiang Xie, Jeff Huang, Chuyue Sun, Cody Hao Yu, Shiyi Cao, Christos Kozyrakis, Ion Stoica, Joseph E. Gonzalez, Clark Barrett, Ying Sheng
