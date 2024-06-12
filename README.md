@@ -174,3 +174,5 @@ A curated list of research in machine learning system. Link to the code if avail
 - TensorFlow Serving + Docker + Tornado机器学习模型生产级快速部署 [[Blog]](https://zhuanlan.zhihu.com/p/52096200?utm_source=wechat_session&utm_medium=social&utm_oi=38612796178432)
 - Deploying a Machine Learning Model as a REST API [[Blog]](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
 - Colossal-AI: A Unified Deep Learning System for Big Model Era [[Blog]](https://medium.com/@hpcaitech/train-18-billion-parameter-gpt-models-with-a-single-gpu-on-your-personal-computer-8793d08332dc) [[GitHub]](https://github.com/hpcaitech/ColossalAI)
+- Data Engineer Roadmap [[Scaler Blogs]](https://www.scaler.com/blog/data-engineer-roadmap/)
+
