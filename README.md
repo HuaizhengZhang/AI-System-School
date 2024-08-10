@@ -8,9 +8,9 @@
 
 # Awesome System for Machine Learning
 
-#### 💫💫💫 Updates: We have launched a new webside [Awesome AI Engineering](https://ai-engineering.club/) for this repo!!! 💫💫💫
+#### 💫💫💫 Updates: We are preparing a new website [Lets Go AI](https://letsgoai.pro/) for this repo!!! 💫💫💫
 
-### *Path to system for AI* [[Whitepaper You Must Read]](./paper/mlsys-whitepaper.pdf)
+### *Path to System for AI* [[Whitepaper You Must Read]](./paper/mlsys-whitepaper.pdf)
 
 A curated list of research in machine learning system. Link to the code if available is also present. Now we have a [team](#maintainer) to maintain this project. *You are very welcome to pull request by using our template*.
 
@@ -24,18 +24,21 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Course](#course)
 - [Blog](#blog)
 
-## System for AI Papers/Opensource (Ordered by Category)
+## System for AI (Ordered by Category)
 
-### General System
+### LLM Infra
+
+- [Foundation Model Training/Serving System](foundation_model.md#foundation-model-trainingserving-system)
+
+### ML / DL Infra
 
 - [Data Processing](data_processing.md#data-processing)
 - [Training System](training.md#training-system)
 - [Inference System](inference.md#inference-system)
 - [Machine Learning Infrastructure](infra.md#machine-learning-infrastructure)
 
-### Specific System
+### Domain-Specific Infra
 
-- [Foundation Model Training/Serving System](foundation_model.md#foundation-model-trainingserving-system)
 - [AutoML System](AutoML_system.md#automl-system)
 - [Deep Reinforcement Learning System](drl_system.md#deep-reinforcement-learning-system)
 - [Edge AI](edge_system.md#edge-or-mobile-papers)
@@ -45,32 +48,19 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## System for ML or ML for System on Top System Conference (with notes)
 
-### Conferene
+### Conference
 
-- MLsys [[2021 notes]](./note/MLSys2021.md)
-- NSDI [[2021 notes]](./note/NSDI2021.md)
-- OSDI [[2020 notes]](./note/OSDI2020.md)
+- MLsys
+- NSDI
+- OSDI
 - SOSP
 - SIGCOMM
 - ATC
-- Eurosys [[2021 notes]](./note/Eurosys2021.md)
+- Eurosys 
 - Middleware
-- SoCC [[2021 Notes]](./note/SoCC2021.md)
-- TinyML [[2021]](https://openreview.net/group?id=tinyml.org/tinyML/2021/Research_Symposium)
+- SoCC
+- TinyML
 
-### Workshop
-
-- NIPS learning system workshop
-- ICML learning system workshop
-- OptML (Rising Star)
-- HotCloud
-- HotEdge
-- HotEdge
-- HotOS
-- NetAI (ACM SIGCOMM Workshop on Network Meets AI & ML)
-- EdgeSys (EuroSys workshop about edge computing) [[website]](https://edge-sys.github.io/2021/)
-- EuroMLSys [[website]](https://www.euromlsys.eu/#schedule)
-- Large-Scale Distributed Systems and Middleware (LADIS) (EuroSys workshop) [[website]](https://haoc2021.cs.jhu.edu/)
 
 
 ## Survey
