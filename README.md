@@ -6,7 +6,7 @@
 [![GitHub license](https://img.shields.io/github/license/HuaizhengZhang/Awesome-System-for-Machine-Learning.svg?color=blue)](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning.svg?style=social)](https://GitHub.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/stargazers/)
 
-# Awesome System for Machine Learning
+# Awesome System for ML / LLM
 
 #### 💫💫💫 Updates: We are preparing a new website [Lets Go AI](https://letsgoai.pro/) for this repo!!! 💫💫💫
 
@@ -16,19 +16,12 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ![AI system](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/imgs/AI_system.png)
 
-## General Resources
-
-- [Survey](#survey)
-- [Book](#book)
-- [Video](#video)
-- [Course](#course)
-- [Blog](#blog)
-
 ## System for AI (Ordered by Category)
 
 ### LLM Infra
 
-- [Foundation Model Training/Serving System](foundation_model.md#foundation-model-trainingserving-system)
+- [LLM Training](llm_training.md#llm_training)
+- [LLM Serving](llm_serving.md)
 
 ### ML / DL Infra
 
@@ -46,22 +39,28 @@ A curated list of research in machine learning system. Link to the code if avail
 - [GNN System](GNN_system.md#system-for-gnn-traininginference)
 - [Federated Learning System](federated_learning_system.md#federated-learning-system)
 
-## System for ML or ML for System on Top System Conference (with notes)
+## System for ML/LLM Conference
 
 ### Conference
 
-- MLsys
-- NSDI
 - OSDI
 - SOSP
 - SIGCOMM
+- NSDI
+- MLSys
 - ATC
 - Eurosys 
 - Middleware
 - SoCC
 - TinyML
 
+## General Resources
 
+- [Survey](#survey)
+- [Book](#book)
+- [Video](#video)
+- [Course](#course)
+- [Blog](#blog)
 
 ## Survey
 
