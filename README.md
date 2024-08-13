@@ -18,11 +18,6 @@ A curated list of research in machine learning system. Link to the code if avail
 
 ## System for AI (Ordered by Category)
 
-### LLM Infra
-
-- [LLM Training](llm_training.md#llm_training)
-- [LLM Serving](llm_serving.md)
-
 ### ML / DL Infra
 
 - [Data Processing](data_processing.md#data-processing)
@@ -30,14 +25,19 @@ A curated list of research in machine learning system. Link to the code if avail
 - [Inference System](inference.md#inference-system)
 - [Machine Learning Infrastructure](infra.md#machine-learning-infrastructure)
 
+### LLM Infra
+
+- [LLM Training](llm_training.md#llm_training)
+- [LLM Serving](llm_serving.md)
+
 ### Domain-Specific Infra
 
-- [AutoML System](AutoML_system.md#automl-system)
-- [Deep Reinforcement Learning System](drl_system.md#deep-reinforcement-learning-system)
-- [Edge AI](edge_system.md#edge-or-mobile-papers)
 - [Video System](video_system.md#video-system)
+- [AutoML System](AutoML_system.md#automl-system)
+- [Edge AI](edge_system.md#edge-or-mobile-papers)
 - [GNN System](GNN_system.md#system-for-gnn-traininginference)
 - [Federated Learning System](federated_learning_system.md#federated-learning-system)
+- [Deep Reinforcement Learning System](drl_system.md#deep-reinforcement-learning-system)
 
 ## System for ML/LLM Conference
 
