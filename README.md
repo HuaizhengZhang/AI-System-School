@@ -6,13 +6,18 @@
 [![GitHub license](https://img.shields.io/github/license/HuaizhengZhang/Awesome-System-for-Machine-Learning.svg?color=blue)](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/HuaizhengZhang/Awesome-System-for-Machine-Learning.svg?style=social)](https://GitHub.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/stargazers/)
 
-# Awesome System for ML / LLM
+# AI System School 
 
-#### 💫💫💫 Updates: We are preparing a new website [Lets Go AI](https://letsgoai.pro/) for this repo!!! 💫💫💫
+### 💫💫💫 System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI)
+
+### Updates: 
+
+- Video Tutorials [[YouTube]](https://youtu.be/ChD1_aVZJ0g?si=Kg-yB3F4Iea0Xp9J) [[bilibili]](https://www.bilibili.com/video/BV1ZwYUerEtL/) [[小红书]](http://xhslink.com/MmrjcT)
+- We are preparing a new website [[Lets Go AI]](https://letsgoai.pro/) for this repo!!!
 
 ### *Path to System for AI* [[Whitepaper You Must Read]](./paper/mlsys-whitepaper.pdf)
 
-A curated list of research in machine learning system. Link to the code if available is also present. Now we have a [team](#maintainer) to maintain this project. *You are very welcome to pull request by using our template*.
+A curated list of research in machine learning systems. Link to the code if available is also present. Now we have a [team](#maintainer) to maintain this project. *You are very welcome to pull request by using our template*.
 
 ![AI system](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning/blob/master/imgs/AI_system.png)
 
@@ -28,7 +33,7 @@ A curated list of research in machine learning system. Link to the code if avail
 ### LLM Infra
 
 - [LLM Training](llm_training.md#llm_training)
-- [LLM Serving](llm_serving.md)
+- [LLM Serving](llm_serving.md#llm_serving)
 
 ### Domain-Specific Infra
 
