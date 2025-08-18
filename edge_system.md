@@ -30,6 +30,10 @@ This part contains papers of projects of edge or mobile system for ML.
 
 ## Edge AI Paper
 
+- NLU: An Adaptive, Small-Footprint, Low-Power Neural Learning Unit for Edge and IoT Applications [[Paper]](https://ieeexplore.ieee.org/document/10904478)
+    - A. Rostami et al., IEEE Open Journal of Circuits and Systems, vol. 6, pp. 85-99, 2025
+    - IEEE Open Journal of Circuits and Systems
+    - Summary: This paper presents the Neural Learning Unit (NLU), a tiny, low-power, and flexible hardware accelerator designed to enable real-time training of neural networks directly on edge devices, like wearables or sensors.
 - Modeling of Deep Neural Network (DNN) Placement and Inference in Edge Computing. [[GitHub]](https://arxiv.org/pdf/2001.06901.pdf)
     - Bensalem, M., Dizdarević, J. and Jukan, A., 2020.
     - arXiv preprint arXiv:2001.06901. 
