@@ -8,6 +8,7 @@
 
 # AI System School 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - Production AI infrastructure: 49 specialized Claude Code agents with task registry, quality gates, N8N workflow integration, and multi-agent orchestration patterns.
 ### 💫💫💫 System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI)
 
 ### Updates: 
